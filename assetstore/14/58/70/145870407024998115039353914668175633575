@@ -1,0 +1,339 @@
+
+Enabling Research & Education Collaboration
+
+UBUNTUNET CONNECT 2023
+
+Fostering Creative and Innovative Research and Education 
+
+Communities
+
+
+
+Enabling Research & Education Collaboration
+
+Maximizing Bandwidth 
+
+Efficiency: App Filtering 
+
+for Optimal Network 
+
+Performance
+
+William Kibirango 
+<wkibirango@renu.ac.ug>
+
+26th October 2023
+
+Outline
+
+● Introduction
+
+● Problem
+
+● Proposed Solution
+
+● Solution Effectiveness
+
+● Conclusion and Future Work
+
+2
+
+
+
+Enabling Research & Education CollaborationEnabling Research & Education Collaboration
+
+Introduction
+
+What is an Internet Bandwidth subscription?
+
+3
+
+
+
+Enabling Research & Education CollaborationEnabling Research & Education Collaboration
+
+Introduction
+
+Bandwidth Efficiency: Utilising subscribed bandwidth in a non-
+
+wasteful way.
+
+4
+
+before
+bandwidth 
+boost
+
+after
+bandwidth 
+boost
+
+
+
+Enabling Research & Education CollaborationEnabling Research & Education Collaboration
+
+Introduction
+
+● Bandwidth Efficiency: Utilising subscribed bandwidth in a non-
+
+wasteful way.
+
+● What would waste bandwidth? It depends:
+
+○ Personal / Organisational goals: Social media platforms
+
+○ Entertainment: Advertisements
+
+○ Careless network administration: (volumetric) Denial of Service attacks
+
+○ ...e.t.c...
+
+5
+
+
+
+Enabling Research & Education Collaboration
+
+Problem #1: Unsolicited Content
+
+6
+
+
+
+Enabling Research & Education Collaboration
+
+Problem #2: Explicit Content
+
+7
+
+
+
+Enabling Research & Education Collaboration
+
+Proposed Solution: DNS
+
+8
+
+
+
+Enabling Research & Education Collaboration
+
+Proposed Solution: DNS sinkholing
+
+9
+
+
+
+Enabling Research & Education Collaboration
+
+Solution Effectiveness: Deployment and Usage
+
+10
+
+Service Uptake:
+
+• Shared platform: 3 research institutions
+
+• Dedicated platforms: 4 universities
+
+Service Usage:
+
+• Secondary Schools: 172
+
+
+
+Enabling Research & Education Collaboration
+
+Solution Effectiveness: Deployment and Usage
+
+11
+
+Service Usage:
+
+• Metro eduroam
+
+27,000+ users (Q3 2023)
+
+
+
+Enabling Research & Education Collaboration
+
+Added Advantage: Botnet mitigation
+
+12
+
+
+
+Enabling Research & Education Collaboration
+
+Solution Effectiveness: Global Ranking
+
+2020/2021
+
+2020:
+Nation-wide
+lockdown in
+the COVID-19
+pandemic
+
+2021:
+Lockdown lifted
+in Uganda, Back
+to school
+
+13
+
+
+
+Enabling Research & Education Collaboration
+
+Solution Effectiveness: Global Ranking
+
+2022/2023
+
+14
+
+
+
+Enabling Research & Education Collaboration
+
+Solution Effectiveness: Challenges Faced
+
+Example #1: Bandwidth consumption
+
+15
+
+
+
+Enabling Research & Education Collaboration
+
+Solution Effectiveness: Challenges Faced
+
+Example #1: Application Filtering usage
+
+16
+
+
+
+Enabling Research & Education Collaboration
+
+Solution Effectiveness: Challenges Faced
+
+Example #2: Bandwidth consumption
+
+17
+
+
+
+Enabling Research & Education Collaboration
+
+Solution Effectiveness: Challenges Faced
+
+Example #2: Application Filtering usage
+
+18
+
+
+
+Enabling Research & Education Collaboration
+
+Solution Effectiveness: Other challenges
+
+• Scalability
+• From a home to an NREN
+
+• Insufficient blocklists (Whack-A-Mole)
+• Against today’s dynamic applications
+
+• Against today’s threats
+
+• Circumvention technology
+• VPNs, DNS-over-QUIC, etc...
+
+19
+
+
+
+Enabling Research & Education Collaboration
+
+Conclusion and Future Work
+
+• App Filtering with DNS sinkholing 
+
+solves some things (cybersecurity), 
+
+but not everything (bandwidth 
+
+consumption optimisation)
+
+• Institutions need more capacity!
+
+• More sophisticated solutions (AI??)
+• Privacy issues??
+
+• Scalability & robustness
+
+20
+
+
+
+Enabling Research & Education Collaboration
+
+RENU-CERT
+
+Email: cert@renu.ac.ug
+
+Website: https://cert.renu.ac.ug
+
+Twitter: @renu_cert
+
+Services
+
+● Incident Handling
+
+● Security-related Information 
+
+Dissemination
+
+● Cybersecurity Auditing
+
+● Filtering Services
+
+21
+
+http://cert@renu.ac.ug
+https://cert.renu.ac.ug
+
+
+Enabling Research & Education Collaboration
+
+THE END
+
+Security is EVERYONE’s Responsibility
+
+Thank you
+
+
+	Slide 1: UBUNTUNET CONNECT 2023
+	Slide 2:  
+	Slide 3: Introduction
+	Slide 4: Introduction
+	Slide 5: Introduction
+	Slide 6: Problem #1: Unsolicited Content
+	Slide 7: Problem #2: Explicit Content
+	Slide 8: Proposed Solution: DNS
+	Slide 9: Proposed Solution: DNS sinkholing
+	Slide 10: Solution Effectiveness: Deployment and Usage
+	Slide 11: Solution Effectiveness: Deployment and Usage
+	Slide 12: Added Advantage: Botnet mitigation
+	Slide 13: Solution Effectiveness: Global Ranking
+	Slide 14: Solution Effectiveness: Global Ranking
+	Slide 15: Solution Effectiveness: Challenges Faced
+	Slide 16: Solution Effectiveness: Challenges Faced
+	Slide 17: Solution Effectiveness: Challenges Faced
+	Slide 18: Solution Effectiveness: Challenges Faced
+	Slide 19: Solution Effectiveness: Other challenges
+	Slide 20: Conclusion and Future Work
+	Slide 21:  
+	Slide 22: THE END
+

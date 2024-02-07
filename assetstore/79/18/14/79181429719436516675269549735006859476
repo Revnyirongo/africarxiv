@@ -1,0 +1,513 @@
+
+Context
+The  rapid  increase  in  devices
+
+(mobile phones, computers, sensors, etc)
+connected  to  the  Internet  (and  thus  to
+databases)  has  resulted  in  exponential
+growth in data generation and associated
+EDTs  that  can  “identify  patterns  in
+observed data, build explanatory models,
+and  make  predictions  quicker  and  with
+more  accuracy  than  humans”  (Pawelke
+et  al.,  2017)  EDT/x-data-based applica-
+tions and algorithms are mainly created
+in the developed countries and often lack
+transparency  arising  from  intellectual
+property rights, thus hindering realization
+of  the  enormous  potential  EDT/x-data-
+based  applications  have  in  addressing
+socio-economic  challenges  faced  by
+developing  countries,  including  Kenya.
+Where applications  exist, they are often
+not  broadly  accessible,  especially  for
+persons with disabilities, areas with slow
+internet  connections  or  members  of
+underrepresented groups.
+
+In this policy brief, the generic term
+“big  data”  is  unpacked  into  four
+overlapping categories of data: big data,
+open data, user-generated data and real-
+time data, and are collectively referred as
+“x-data”.   EDTs  are  taken  to  include
+artificial  intelligence  (AI),  blockchain,
+geographic  information  systems  (GIS),
+internet  of  things  (IoT),  and  big  data
+analytics. These methodologies are often
+used  collectively.   Gaps  in  support
+systems  to  develop  EDT/x-data-based
+applications  have  created  new  digital
+divides  between  developing  and
+developed  countries.  Further,  barriers
+persist  in use and take-up of  x-data by
+decision-makers,   competing  data
+sources,  quality  of  data,  limited  aware-
+ness of  data existence, and inadequate
+transformation  of  data  into  useful
+information  or  tailoring  to  match  the
+decision-makers’ needs (Pawelke et  al.,
+2017). Kenya has recently ranked high in
+sub-Saharan  Africa  (4/41  in  2020  and
+3/41  in  2021)  and  fairly  well  globally
+(71/172 in 2020 and 78/160 in 2021) on
+the  Government  AI  Readiness  Index
+(Oxford Insights and IDRC,2020; 2021).
+The  index  evaluates  how  ready  a
+government  is  to  implement  AI  in  the
+delivery of public services.
+
+Approach
+An in-depth review of literature and
+
+policy  and  regulatory  environment  was
+carried  out.  This  was  followed  by
+stakeholder  engagement  through
+interviews/surveys. From the information
+gathered, an assessment of the maturity
+of  the  EDT  ecosystem  in  Kenya  was
+undertaken to determine the stage of its
+
+development and application.  The findings
+were  used  to  develop   policy
+recommendations  .   The  literature  review
+followed a multi-vocal systematic approach
+(Ogawa and Malen, 1991; Garousi, Felderer
+and Mantyla,  2016) of  both peer-reviewed
+academic  articles  and  grey  literature
+covering the development and use of EDTs
+in  Kenya.   The  grey  literature  reviewed
+focused  on  reports,  trade  journals  and
+technical articles, books and book chapters.
+The governance frameworks,  embodied in
+policies,  laws,  and  regulations  relevant  to
+EDTs arising from the literature review, were
+identified  and  synthesized  providing  an
+overview  of  the  regulatory  and  policy
+environment  and are available  in   the full
+report  on  A Deep Dive on the Maturity  of
+Emerging Digital Technologies Ecosystems
+in Kenya and South Africa. 
+
+Maturity  or  development  stage
+models of an ecosystem provides tools for
+assessment of where an ecosystem is in its
+life  cycle.   They  provide  insights  into  the
+current  levels  of  recognized  success
+factors,  essential  for  the  maturity,  health,
+and  sustainability  of  the  ecosystem.  The
+emerging technologies ecosystem maturity
+model, developed by Ogot et al. (2023) was
+used for this study.  It is based on the five
+fundamental  activities  of  innovation
+processes  framework  (Liu  and  White,
+2001):  education,  research (basic,  deve-
+lopmental,  engineering),  implementation
+(manufacturing,  deployment),  end-use
+(customers of the product or process) and
+linkages (bringing together complementary
+knowledge) (see Table 1).
+
+Table 1 – Indicators used to assess the
+state of maturit3
+
+EDUCATION: Quality of graduates 
+(measured by quality or availability of hires),
+New Masters and PhDs, university post-
+graduate programmes, researchers and 
+professionals engaged in R&D, Africa/global
+ranking of universities with post-graduate 
+relevant programmes, policies.
+RESEARCH: Related Publications, R&D 
+projects, patents, availability of funding for 
+R&D, pilot projects, availability of required 
+equipment, policies
+END USE: Government targets, industry 
+targets, demand from government, demand 
+or opportunities in the market, demand or 
+opportunities beyond the borders, policies.
+LINKAGES: Technology dedicated 
+workshops and conferences, network size, 
+network intensity, collaboration with 
+academia (or with private sector)
+IMPLEMENTATION: New entrants, diversi-
+fication activities of incumbents; avail-ability 
+of funding (traditional, equity, venture 
+capitalists, angel investors), interest groups,
+policies
+
+Strengthening the Emerging Digital 
+Technologies Ecosystem in Kenya
+Prof. Madara Ogot, Margaret Muthee, Rita Muriuki, Samuel Njuguna
+
+©2023 Authors 1
+
+The growth of connected 
+devices and associated 
+emerging digital technologies
+(EDTs) has led to substantial
+data generation
+
+Developed countries dominate 
+EDT/x-data based 
+applications hindering their 
+potential to address socio-
+economic challenges in 
+developing countries like 
+Kenya
+
+Accessibility issues exist for 
+under-represented groups 
+such as persons with 
+disabilities and those in 
+marginalized areas with slow
+internet connections 
+
+Four categories of data 
+collectively referred to as “x-
+data” are identified: big data, 
+open data, user-generated 
+data, and real-time-data.
+
+Gaps in support systems have 
+created digital divides 
+between developing and 
+developed countries
+
+Challenges in data use persist 
+due to competing sources, 
+data quality, limited 
+awareness and inadequate 
+transformation
+
+Kenya ranks well in Artificial 
+Intelligence (AI) readiness 
+globally and in sub-Saharan 
+Africa.
+
+Key Messages
+
+
+
+Table 2 – Stages of Maturity in the EDT/X-Data ecosystem
+Fundamental 
+Activities Ideation Stage Nascent Stage Growth Stage
+
+Education  Few Masters and PhDs
+ Small number of academic 
+
+departments
+ Small number of researchers 
+
+engaged in related research
+
+ Increased number of Masters and PhDs
+ Small number of academic departments
+ Increasing number of researchers engaged in 
+
+related research
+
+ Large number of Masters and PhDs
+ Increased number of academic 
+
+departments
+ Increasing number of researchers 
+
+engaged in related research
+Research  Few or no patents,
+
+ Small number of publications
+ Few pilot projects
+ Low R&D funding
+ Few policies supporting R&D
+
+ Increased number of patents
+ increased number of publications
+ Increased number of pilot projects
+ Moderate R&D funding
+ Strengthened policies supporting related R&D
+
+ Increased number of patents
+ Large number of publications
+ Large number of pilot projects
+ Adequate R&D funding
+ Strengthened policies supporting R&D
+
+End use  Insufficient demand and information 
+for potential products and services, 
+market size
+
+ Better understanding of and increasing demand for
+potential products and services, market size
+
+ Good understanding of and robust 
+demand for potential products and 
+services, market size
+
+Linkages  None or few international 
+collaborations (research)
+
+ Few linkages
+ No clusters
+
+ Small number of international collaborations 
+(research and business)
+
+ Small number of linkages
+ A few clusters
+
+ Moderate international collaborations 
+(research and business)
+
+ Moderate linkages
+ Moderate clustering
+
+Implementation  No/negligible active start-ups or 
+existing businesses that  have 
+diversified into the ET space
+
+ A few active start-ups or existing businesses that 
+have diversified into the ETs space but are in the 
+early stages
+
+ Establishment of governance framework
+ Gaps in financing
+
+ Moderate number of active start-ups or 
+existing businesses that have diversified 
+into the ETs space
+
+ Facilitative governance framework
+ Increasing private sector financing
+
+Table 3: Maturity of the different stages in the EDTs ecosystem
+
+Fundamental 
+Activities / Stage
+
+Remarks
+
+Education
+Growth
+
+ 52.4% of all universities offer an undergraduate programme providing a strong foundation for those who may go into the workforce 
+related to emerging digital technologies or pursue further studies;
+
+ Only 12.7% and 6.3% offer related Masters or PhD programmes, respectively, a fraction of the number of undergraduate programmes.
+ Short courses are available in the core areas of EDTs and x-Data
+
+Research
+Nascent
+
+ As a fraction of total patents applied for and granted in 2021, emerging digital technologies (excluding GIS) accounted for only 10.75 
+and 8.3%, respectively;
+
+ Journal publications, based on locally based research in EDTs were relatively few mainly as a result of small number of researchers 
+working in these areas;
+
+ Few local research output has been commercialised, however, efforts driven by the Kenya Innovation Agency (KENIA) are supporting 
+universities to commercialise research output.
+
+End use
+Growth
+
+ There is a strong market demand for and/or understanding of the potential uses of emerging digital technologies, especially as they 
+have provided opportunities for Kenya to leapfrog legacy systems and offer services leveraging on the extensive mobile penetration.
+
+ Mobile-based use has strong potential  due to familiarisation of most of the population with the devices (135% mobile subscriptions;  
+72% mobile money penetration;  40% internet penetration).
+
+Linkages
+Growth
+
+ Numerous and growing number of formal linkages provided through support from incubators, accelerators, hubs and associations
+ Strong linkages in relevant conferences, workshops and seminars, for example Connected Summit organised by ICT Authority and 
+
+Ministry in charge of ICT.
+
+Implementation
+Growth
+
+ Significant number of start-ups and established businesses offering new services and products based on the EDT/X-Data especially in 
+the agricultural, education, financial, health, manufacturing and transport sectors;
+
+ Facilitative governance and regulatory framework which has room for improvement in key areas of capacity building, data collection 
+and sharing, incentives and funding, public private partnerships, intellectual property, and sensitisation;
+
+ Extensive infrastructure (mobile and fibre networks, data centres, under-sea cable connections) supporting deployment of the 
+technologies.
+
+The emerging  technologies  maturity
+model defines three developmental stages.
+The  ideation  stage  is  beyond  basic
+research,  testing  fundamental  principles
+and is characterized by R&D activities with
+pilots and proof-of-concepts performed on
+potential  commercial  applications.  The
+nascent stage embodies early development
+and formation of the ecosystem. Finally, in
+the  growth  stage,  the  commercial
+applications of the technology start gaining
+strong  acceptance  in  the  market  with
+increased demand and new entrants; and
+the ecosystem governance structures  are
+
+becoming  clearer.  Table  2  presents
+indicators  metrics  for  the  three maturity
+stages. 
+
+Summary of Findings
+The  EDT/X-Data  ecosystem  in
+
+Kenya was assessed to be at the Growth
+Stage  of  maturity.   With  reference  to
+Table  3,  all  the  fundamental  activities
+were assessed to be in the growth stage
+except  research,  assessed to  be in  the
+nascent stage.
+
+Identified Challenges
+(a) Inadequate  funding  to  support  R&D
+
+activities  in  universities  and  research
+institutions.  Public  spending  on  R&D
+has particularly been reducing owing to
+budget cuts towards public institutions.
+
+(b) Shortage of the necessary infrastructure
+such as High Perfor-mance Computing
+for processing big data
+
+(c) Inability  to  access  data  coupled  with
+inadequate implementation of  the data
+protection  laws  and  regulations  to
+assure privacy
+
+©2023 Authors
+Strengthening the Emerging Digital Technologies Ecosystem in Kenya
+
+2
+
+
+
+(d) Low IP protection resulting from limited
+awareness and associated costs.
+
+(e) Inadequate  utilization  and  commer-
+cialization  research outputs.
+
+Policy 
+Recommendations
+ Promote  training of individuals in data
+
+science  and  analytics,  machine
+learning,  and  other  related  fields  is
+required   to  build  a  skilled  workforce
+capable  of  developing  and  analysing
+EDTs/X-Data.
+
+ Regulate  the  collection,  sharing,  and
+use  of  data,  including  real-time  data,
+open  data,  and  user-generated  data,
+that  ensure  compliance  with  existing
+data protection laws and regulations to
+maximize  its  benefits  to  stakeholders,
+while  ensuring  privacy  and
+confidentiality. 
+
+ Incentivize  the  adoption  and  use  of
+EDTs  and  X-Data,  including  the
+provision of funding or tax incentives for
+stakeholders  who  invest  in  these
+technologies,  as  well  as  the
+establishment  of  prizes  or  awards  for
+innovation and best practices in the use
+of EDTs and X-Data. 
+
+ Simplify  the   steps  involved  in  IP
+protection  as  well  as  sensitization  of
+researchers, innovators on the benefits
+of IP. 
+
+ Promote  public-private  partnerships
+that  support  the  development  and
+application  of  EDTs  and  X-Data,
+including  the  development  of  joint
+initiatives  between  government
+agencies,  private  sector  companies,
+and civil society organizations, as well
+as  the  establishment  of  regulatory
+frameworks  and  standards  to  guide
+these partnerships.
+
+Acknowledgements
+This work was funded by UKAID through
+the  Research  and  Innovation  Strength-
+ening in Africa (RISA) Fund .
+
+References
+Garousi,  V,  Felderer,  M,  Mantyla,  V,
+
+(2016)  “The  Need  for  Multi-Vocal
+Literature Reviews with Grey Literature”,
+Proceedings  of  the  20th  International
+Conference  on  Evaluation  and
+Assessment in Software Engineering,  p.
+26, ACM.
+
+Liu,  X  and  White,  S  (2001),
+“Comparing  innovation  systems:  a
+framework  and  application  to  China’s
+transitional context”, Research Policy, 30,
+1091-114.
+
+Ogawa,  R  and  Malen,  R,  (1991)
+“Towards  Rigour  in  Reviews  of  Multi-
+Vocal  Literatures:  Applying  the
+Exploratory Case Study Method”  Review
+of Educational Research, 61(3):265-286.
+
+Ogot,  M.,  Halin,  R.,  Muthee, M.,  Kelly,
+W.,  Njuguna,  S.  and  Muriuki,  R.   (2023)
+Maturity  of  the  Emerging  Digital
+Technologies  Ecosystems  in  Kenya  and
+South Africa.
+
+Oxford  Insights  and  IDRC  (2020).
+Government Artificial Intelligence Readiness
+Index 2020. 
+
+Oxford  Insights  and  IDRC  (2021).
+Government Artificial Intelligence Readiness
+Index 2021.
+
+Pawelke, A.,  Cañares, M., Hernandez,
+K.,  and  Martin,  P.P.  (2017)   Data  for
+development: What’s next? GIZ.
+
+Authors
+Prof Madara Ogot
+University of Nairobi
+madaraogot@uonbi.ac.ke
+
+Margaret Muthee
+Chief Analyst
+National Commission for Science, 
+Technology and Innovation
+mwamuyum@gmail.com 
+
+Samuel Njuguna
+Statistics, Research and M&E Expert
+samkups09@gmail.com
+
+Rita Muriuki
+Project Management Specialist
+University of Nairobi
+ritankatha08@gmail.com
+
+©2023 Authors
+Strengthening the Emerging Digital Technologies Ecosystem in Kenya
+
+3
+
+

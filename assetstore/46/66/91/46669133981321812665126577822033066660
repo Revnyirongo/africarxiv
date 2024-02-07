@@ -1,0 +1,502 @@
+
+AfricaConnect3: Connecting Africa to 
+Unlimited possibilities 
+
+Leïla Dekkar1, Silvia Fiore2  
+1GÉANT, Level 6, Hoekenrode 3, 1102 BR, Amsterdam, The Netherlands 
+
+Tel: +31 (0)20 530 4488 Email: Leila.Dekkar@geant.org 
+2GÉANT, Level 6, Hoekenrode 3, 1102 BR, Amsterdam, The Netherlands 
+
+Tel: +31 (0)61 178 2816 Email: Silvia.Fiore@geant.org 
+ 
+
+Abstract:  
+
+Despite availability of infrastructures having significantly progressed over the recent 
+years, tertiary education and research institutions in Africa are still among the least 
+connected in the academic world, a situation that is particularly critical for 
+landlocked countries. In this context, the AfricaConnect3 project strives to establish 
+secure, adequate, and affordable network infrastructures and offers dedicated 
+services to African National Research and Education Networks (NRENs), as well as 
+it builds adequate human resource capacities and expertise within the community and 
+raises the awareness of the role of digital transformation for research and education 
+(R&E). This paper aims at presenting the achievements and impact of 
+AfricaConnect3 on African R&E communities, as well as advocating for NRENs, by 
+detailing the activities implemented and services offered to R&E institutions in 
+Africa. Finally, this paper addresses the need for NRENs to be better represented in 
+the African digital landscape and understood as part of the solution. 
+
+Keywords: AfricaConnect, AfricaConnect2, AfricaConnect3, Internet Connectivity, 
+Research and Education Community, NRENs, global, connectivity, eduroam, digital 
+divide, inclusion, eduGAIN, roaming, students, authentication, federation, 
+UbuntuNet Alliance, WACREN, ASREN, GÉANT, European Commission. 
+
+ 
+ 
+
+1. Introduction  
+ With an exponential population growth in Africa that should reach 2.5 billion people by 
+2050[1], investing in human capital is essential. Youth unemployment is a critical issue 
+affecting many countries across the continent, and tertiary education and research are 
+sectors which should play a key role in addressing this problem by fostering the 
+development of human capital and skills and contributing to economic growth and to the 
+creation of societal opportunities. Those sectors however do not fully maximise their 
+potential and fail to deliver the expected social and economic returns.  
+  
+ Although the African continent is surrounded by submarine cables, it also faces some of 
+the lowest internet penetration rates worldwide. This results in Africa contributing to less 
+than 2% of the world's research output with only 91 researchers per million people 
+compared to 4,272 for North America and Western Europe[2]. 
+This is partly due to the high costs of connectivity and e-infrastructure, a situation primarily 
+created by Telecom monopolies, landing station monopolies, and last mile monopolies. 
+
+mailto:Leila.Dekkar@geant.org
+mailto:Silvia.Fiore@geant.org
+
+
+Other issues of concerns are the absence of harmonised ICT legal and regulatory 
+frameworks and, in certain countries, excessive taxation of telecommunication providers[3]. 
+Therefore, some countries are lagging behind in terms of national fibre infrastructure and 
+NRENs in some countries not yet having national backbones. 
+If properly harnessed, the Internet can provide both students and lecturers with a wealth of 
+invaluable educational resources. Lecturers can use the Internet to prepare lessons, 
+disseminate information to students and assess them, and students can access online content 
+to extend their range of learning.  
+  
+
+Yet, despite availability of infrastructures having significantly progressed over the recent 
+years, especially through the deployment of international undersea cables circling Africa, 
+tertiary education and research institutions in Africa are still among the least connected in 
+the academic world, a situation that is particularly critical for landlocked countries.  
+As a result, those factors translate into a general disconnectedness of the continent from the 
+global digital economy and all its opportunities.  
+ 
+In this context, strengthening the African Research and Education Networks (RENs) is key 
+to address the problem. As of March 2021, Africa hosts 38 National Research and 
+Education Networks (NRENs) accounting for around a third of the world’s total. Each 
+NREN serves the ICT needs of its national research and education communities. At an 
+upper level, NRENs are interconnected through three Regional Research and Education 
+Networks (RRENs):  
+
+• Northern African NRENs are grouped under the Arab States Research and Education 
+Network (ASREN).  
+
+• West and Central Africa NRENs form the Western and Central African Research and 
+Education Network (WACREN). 
+
+• Eastern and Southern Africa NRENs form the UbuntuNet Alliance (UA).  
+ 
+
+This paper will address some of the key achievements of the AfricaConnect3 project and 
+point out to the main challenges that are obstructing further development in the R&E 
+continent. It begins by briefly explaining the objectives and the methodology of the project, 
+and continues to demonstrate NRENs’ added value detailing the vast array of implemented 
+services in the field of network management, cloud, sustainability, capacity building, and 
+advocacy and donor engagement. It shows the main achievements and impact, with a 
+special focus on the key role of NRENs on higher education during the COVID-19 
+pandemic. Finally, it lays out the project’s business benefits for African researchers and 
+students, the NRENs, and the R&E community worldwide. 
+
+ 
+
+1. Objectives 
+ 
+The AfricaConnect3 project aims to support the creation and consolidation of national and 
+regional RENs across Africa that provide access to dedicated, high-capacity internet 
+connectivity and offer a gateway to global R&E collaborations through their 
+interconnection with the pan-European GÉANT network. 
+ 
+AfricaConnect3 strives to enhance access to tertiary education and research institutions by 
+establishing secure, adequate, and affordable network infrastructures. It fosters the 
+development of research and education through services, applications, and dedicated user 
+support. Finally, it builds adequate human resource capacities and expertise within NRENs 
+
+
+
+and education and research communities and raises the awareness of the role of digital 
+transformation for education and research.  
+ 
+ This paper will present the main achievements of the AfricaConnect3 project in African 
+R&E communities and will advocate for the case for African NRENs defending the right 
+for Africa research and education not to be left behind in an increasingly digitalised world. 
+ 
+ 
+
+2. Methodology 
+ 
+The AfricaConnect3 project is implemented through the following Work Packages:  
+
+• Network Management and E-infrastructures. RRENs ensures secure, adequate, 
+and affordable network infrastructures by providing daily management of the 
+networks, to include procurement for expansions and upgrades. 
+
+• Dedicated Services for R&E Institutions. RRENs deploy Trust and Identity 
+services, such eduroam and eduGAIN, and ensure cybersecurity by establishing 
+security team services and a cooperation framework for NREN Computer Security 
+Incident Response Teams (CSIRTs).  
+
+• Sustainability and Capacity Building. On a regional level, RRENs focus on 
+building human resource capacity and expertise through strengthening their own 
+governance and implementing their financial sustainability plans. On a national 
+level, the project’s partners support their member NRENs by hosting trainings and 
+workshops, promoting exchange of best practices and strengthening coordination.  
+
+• Advocacy and Donor Engagement. RRENs have set up an advocacy and donor 
+engagement strategy and plan targeted at decision makers as well as at international 
+donors and other stakeholders to influence policy change and mobilise funding. 
+
+ 
+The implementation of these activities follows a regional approach. The local NRENs are 
+grouped under geographical areas (also known as “clusters”) and are involved in the 
+delivery of the project in their respective regions. The three clusters are: 
+
+• Cluster 1: Eastern and Southern Africa, led by UbuntuNet Alliance. 
+• Cluster 2: Western and Central Africa, led by the Western and Central African 
+
+Research and Education Network (WACREN). 
+• Cluster 3: North African region, led by the Arab States Research and Education 
+
+Network (ASREN). 
+ 
+ In the execution of their activities, the African RRENs liaise with their own 
+constituencies (member NRENs) and also seek to maximise synergies across regions in the 
+different areas, such as deployment of connectivity, capacity building, and open science 
+cloud. As a result, this fosters collaboration between R&E communities in Africa as well as 
+in Europe, which may lead to other opportunities under EU programmes such as Erasmus+ 
+and Horizon Europe.   
+ 
+ 
+
+3. Services Offer 
+ 
+
+
+
+3.1 Network Management and E-infrastructure 
+To ensure that users continue to benefit from secure, adequate, and affordable network 
+
+infrastructures, RRENs have set up a Network Operating Centre (NOC), staffed by 
+engineers who monitor performance, resolve any issues that arise and take preventative 
+steps to optimise up-time. RRENs also extend or upgrade the infrastructures as and when 
+required to cater for any additional needs. 
+Cloud e-infrastructures are especially relevant to support the development of a trusted and 
+open environment for the scientific community to store, share and re-use scientific data and 
+results. RRENs deploy cloud e-infrastructure individually, with the ultimate aim of 
+achieving inter-operability in order to consolidate a common African Open Science 
+platform for flexible and seamless access to a wealth of online computing services and data 
+repositories. 
+ 
+3.2 Dedicated Services for R&E Institutions  
+
+As they become more digitally driven, academic and research institutions need specific 
+services to support their collaboration activities and to access resources worldwide. In 
+collaboration with the NRENs, the partners  raise awareness among end users of the 
+available relevant services gather the requirements of the end users and identify technical 
+recommendations for the deployment of additional e-services and applications such as Trust 
+and Identity services, including eduroam and eduGAIN.  
+With the motto “Open your laptop and be online!”, eduroam enables students and 
+researchers to enjoy the most secure encryption and authentication standards in existence 
+today as well as roaming access in more than 100 territories. The eduroam community is a 
+worldwide success with over 2 billion international authentications to date[4].  
+eduGAIN, instead, simplifies access to content, resources and the trustworthy exchange of 
+information related to identity, authentication and authorisation (AAI). With about 2,390 
+identity providers accessing services from about 1,520 service providers, eduGAIN has fast 
+become the primary inter-federation mechanism for research and education collaborations 
+around the world[5].  
+ 
+
+Furthermore, AfricaConnect3 support the provision of dedicated services to African 
+communities and support specific or cross-border end-user communities (e.g., librarians 
+and Earth observations groups). An example is the LIBSENSE (Library Support for 
+Embedded NREN Services and E-infrastructure) initiative. The WACREN-led activity 
+brings together RENs and academic library communities in order to strengthen open access 
+and open science in Africa. It aims at providing shared open access infrastructures (regional 
+repository and journal hosting platforms) and federated identity management for library 
+communities. Since its start, the initiative has hosted several workshop and can already 
+count multiple achievements, including three regional surveys and reports, terms of 
+Reference for NREN-Library collaboration in African countries, metadata guidelines for 
+repositories, plans for a regional repository hosting service, national and institutional policy 
+templates. 
+ 
+3.3 Sustainability and Capacity building 
+
+AfricaConnect3 focuses on strengthening human resources capacities and expertise at 
+different levels. At regional level, the partners strengthen their own governance and systems 
+and implement their sustainability plans. They also provide support to their member 
+NRENs in order to encourage exchange of ideas and best practices as well as to reinforce 
+technical skills through trainings in specific areas.  
+An example of this is the RRENs’ support for the development of a community of women 
+in African NRENs and promote the role of women in science, technology, engineering and 
+
+https://spaces.wacren.net/display/LIBSENSE/Home
+https://spaces.wacren.net/display/LIBSENSE/Survey
+https://spaces.wacren.net/display/LIBSENSE/Survey
+https://spaces.wacren.net/display/LIBSENSE/Survey
+https://spaces.wacren.net/display/LIBSENSE/Survey
+
+
+mathematics (STEM). Leading the Women-in-WACREN initiative, WACREN hosts 
+hackathons and cyber events, equipping women with a robust skillset in IT, computers, and 
+software. Another example of how African RENs and NRENs have been actively engaging 
+women and girls in STEM is the ICT4Girls program led by the Nigerian NREN, Eko-
+Konnect. The program offers online courses for women to gain hands-on skills in physical 
+computing and data analysis, virtual hackathons to exploit what they learn and conferences 
+to build community and promote innovation in tech. 
+ 
+3.4 Advocacy and donor engagement 
+
+In order to emphasise the role of digital tools in the transformation of education and 
+research and their multiplier effect for skills development, employability and economic 
+growth, AfricaConnect3  has a greater focus on Advocacy and Donor Engagement and sets 
+up campaigns targeted at decision makers as well as at international donors and other 
+stakeholders to influence policy change and mobilise funding. 
+The project’s partners are committed to join regional conferences where they are able to 
+engage with end users or with peers with a specific outreach focus on earth observations 
+and agricultural capacities. 
+ 
+ 
+
+4. Achievements to date 
+ 
+Since the start of the project in 2011, 20 countries have been connected to the regional 
+
+networks: Burundi, Democratic Republic of Congo, Kenya, Malawi, Mozambique, 
+Rwanda, Somalia, South Africa, Tanzania, Uganda, Zambia and Zimbabwe (under the 
+UbuntuNet Alliance), Côte d'Ivoire, Ghana, Nigeria and Togo (under WACREN), Algeria, 
+Egypt, Morocco and Tunisia (under ASREN).  
+ 
+
+October 2010 October 2016 December 2020 
+ 
+
+  
+
+ 
+Figure 1: AfricaConnect3 Connectivity Map evolution 
+
+ 
+ 
+The AfricaConnect project enabled over 540 institutions to have access to more affordable, 
+reliable and high-speed internet to exchange high volumes of research data. This represents 
+over 5 million students and researchers in Africa that can freely collaborate with their peers 
+across the globe. 
+ 
+
+
+
+Beyond connecting institutions, African Research and Educations networks have a 
+multiplier effect and a greater impact on society: from helping researchers solve some of 
+society’s greatest challenges, in fields like disaster management, agriculture, healthcare, 
+environment, climatology and more, to bridging the digital divide and unlocking 
+opportunities for online education and training.  
+ 
+In particular during the COVID-19 pandemic, RENs have confirmed their place at the heart 
+of R&E networking by supporting the survival of higher education institutions.  
+In North Africa, the Ministry of Education in Morocco launched an e-learning portal, 
+Morocco eLPortal, hosted by the MARWAN network. EUN, the Egyptian Universities 
+Network, has coordinated with IT vendors to support university services in the country. The 
+Tunisian NREN, CCK, has set up a Jitsi-based videoconferencing tool for online classes in 
+Tunisian universities as well as a VPN-SSL service for easy access to scientific resources 
+for the academic community. 
+ 
+
+In East and Southern African, the Zambian NREN, ZAMREN, installed Moodle offering 
+free hosting for 22 member institutions across the country. In Kenya, KENET is offering a 
+40% discount on data bundle to university students. In Uganda, RENU unveiled the metro 
+eduroam initiative aimed at expanding the reach of the NREN’s network to users beyond 
+university campuses. The Ugandan Research and Education Network also introduced zero-
+rated mobile access for students and staff of its member institutions. 
+ 
+
+In Western and Central Africa, WACREN is organising online training activities, 
+including LIBSENSE online workshops, and has been supporting the COVID-19 Smart 
+Development Hack by gathering implementation proposals on an Open Science platform in 
+response to the pandemic. The regional REN also offered its members a licensed use on its 
+Zoom service until the end of 2020 to support their need for online collaboration tools. In 
+Ghana, GARNET is conducting tests to support e-learning via a pilot eduID Ghana 
+federation now involving providers from 12 institutions. In Sierra Leone, SLREN is helping 
+higher education institutions to leverage existing commercial internet access to online e-
+resources websites and provide zero rating of universities URLs.  
+ 
+ 
+
+5. Business Benefits 
+ 
+
+Despite the evident progress, NRENs and RRENs are still facing some specific 
+challenges in Africa. The slow progress of some of them is not a reflection of a lack of 
+interest on the part of potential end users. It is rather due to lack of awareness of their 
+benefits and offering. 
+While the need for NRENs may be well understood among academic and higher education 
+communities, there is insufficient recognition of these organisations nationally and 
+regionally. In some African countries, NRENs are wrongly seen by Telecom providers as 
+competitors. They are also insufficiently represented in the African digital landscape and 
+cannot adequately carry the voices and needs of their end users. Outreach and advocacy 
+work is required to promote greater awareness of the role among national and regional 
+policy makers, donors, decision makers in R&E institutions and telecom providers.  
+ 
+
+The economic case for NRENs is very tangible: by regrouping the demand for internet 
+connectivity and services nationally, universities and research centres can create economies 
+of scale and obtain preferential rates.  
+
+
+
+To provide connectivity to their institutional clients, NRENs lease capacity on fibre 
+infrastructure. In this sense, they are like Internet Service Providers (ISPs), but, contrary to 
+commodity networks, NRENs’ bandwidth offering is not shared. 
+NRENs’ added-value lies in the fact that they provide dedicated bandwidth to each of their 
+member institutions, such as universities, research centres, vocational education and 
+training institutions. They also offer higher levels of security and unique services that 
+differentiate them from commercial ISPs, such as AAI, software licenses, library 
+subscriptions, grid computing middleware, cloud computing services, computing hardware, 
+e-learning and e-science applications as well as technical support.  
+ 
+
+NRENs across the globe have a multiplier effect and a greater impact on society: from 
+helping researchers solve some of society’s greatest challenges, in fields like disaster 
+management, agriculture, healthcare, environment, climatology and more, to bridging the 
+digital divide and unlocking opportunities for online education and training. 
+ 
+ 
+5.1 Benefits to African students and researchers 
+
+AfricaConnect3 greatly improves access for researchers, students and institutions to 
+digital infrastructures and technologies, connecting Africa to unlimited possibilities  
+More specifically, NRENs narrow the digital divide by improving access to and reducing 
+cost of advanced, reliable internet connectivity for R&E. During the first two phases of the 
+AfricaConnect project, focus was primarily on connecting NRENs to the global R&E 
+community. But now NRENs are also deploying value-added services, such as eduroam, 
+with 16 African countries now being eduroam operators[6] and 7 additional ones in a pilot 
+deployment phase. Not only they provide African students and researchers with high-speed, 
+reliable broadband connectivity and services, but also with access to innovative e-learning 
+tools and advanced research resources. This, in turn, enables students and researchers to 
+more collaborative learning and research with peers around the world.  
+ 
+5.2 Benefits to African NRENs 
+
+NRENs not only bring value to their partners by lowering down the cost of connectivity 
+in complex market conditions, but they also strengthen capacity building among their 
+partners to upscale human resources output and enhance human capital development, 
+participate in global R&E events for increased exposure, and transfer knowledge and 
+exchanging best practice. 
+ 
+5.3 Benefits to Global Research and Education 
+
+Looking at the global R&E community, NRENs’ added value lies in the fact that they 
+connect Africa’s scientists, students and educators to the world to, bridging the digital 
+divide and fighting brain drain in Africa and, in turn, unlocking its enormous potential. 
+
+ 
+ 
+
+6. Conclusions 
+ 
+
+R&E connectivity and collaboration tools and services provided by NRENs can only be 
+successful and beneficial to societies when built and managed by people supported to do the 
+task. In countries where little national support and recognition is given to the ICT experts 
+who specialise in running networks for specific R&E needs, it is challenging to realise the 
+full potential. Building adequate human capacity and technical skills is essential for 
+interconnecting the world, and the regional network projects play an important role in 
+building the required skill sets among NREN staff. 
+
+
+
+ 
+This paper demonstrated that AfricaConnect3 and its partner NRENs greatly improve 
+
+access for researchers, students and institutions to digital infrastructures and technologies, 
+connecting Africa to unlimited possibilities.  
+The current and third phase of the project aims at further extending the reach of the regional 
+R&E networks in order to connect more countries and upgrade the capacity of the core 
+networks as well as set up a cloud infrastructure for open science. The project also focused 
+specifically on service applications, which include an open science cloud, network security, 
+and trust and identity, as well as on capacity building and advocacy for research and 
+education networking. 
+
+ 
+This paper also made the case for African RENs and NRENs explaining that their real 
+
+value goes beyond reduced bandwidth prices, in that they are able to provide an advanced 
+and diversified portfolio of ICT services specific to the needs of their members that 
+conventional ISPs, such as eduroam, cloud services, eduGAIN or library databases, do not 
+provide. NRENs have proved to be a vital component in e-learning, e-science and e-
+research strategies as they bring a common approach to the coordination and deployment of 
+national and international communication networks and services.  
+ 
+
+The AfricaConnect3 project seeks to establish that connectivity and NRENs are key to 
+improving education and research, and that NRENs are part of the solution.  
+ 
+ 
+ 
+
+Acknowledgements 
+ 
+
+The AfricaConnect3 project is run in collaboration between the European Union, the 
+pan-European networking organisation GÉANT and the three regional partners supporting 
+local research and education networking across Africa: UbuntuNet Alliance (Eastern and 
+Southern Africa), WACREN (Western and Central Africa) and ASREN (Northern Africa 
+and Middle East Arab countries). 
+
+ 
+AfricaConnect3 builds on the work carried out by AfricaConnect and AfricaConnect2 
+
+and aims to foster the creation and consolidation of national and regional research and 
+education (R&E) networks across Africa that provide access to dedicated, high-capacity 
+internet connectivity and offer a gateway to global R&E collaborations through their 
+interconnection with the pan-European GÉANT network. 
+ 
+
+The total budget for AfricaConnect3 is 37.5 million euros for a period of 4 years from 
+November 2019, with 30 million euros contributed by the European Commission’s 
+Directorate-General International Cooperation and Development (DG DEVCO). The 
+remaining funds (€7.5m) are being provided by the African partners. 
+In each cluster, RRENs are responsible for their own grant agreement with the European 
+Commission whilst GÉANT together with the partners is tasked with the overall project 
+coordination role, including the procurement of connectivity and equipment for all clusters. 
+ 
+ 
+
+References 
+[1] ONE Report, The African Century, June 2017 
+
+
+
+[2] UNESCO Institute for Statistics Fact Sheet No. 53, June 2019 FS/2019/SCI/53, data 
+from 2016 
+[3] Economic Commission for Africa, Review of the legal and regulatory frameworks in the 
+information and communications technology sector in a subset of African countries: What 
+lessons can we learn, 2017 
+[4] eduroam [website] https://www.eduroam.org/ (accessed on 16/02/2021 
+[5] eduGAIN [website] https://edugain.org/ (accessed on 16/02/2021)      
+[6] monitor eduroam [website] https://monitor.eduroam.org/ (accessed on 16/02/2021) 
+
+ 
+
+https://www.eduroam.org/
+https://edugain.org/
+https://monitor.eduroam.org/
+
+	AfricaConnect3: Connecting Africa to Unlimited possibilities
+	1. Introduction
+	2. Methodology
+	3. Services Offer
+	3.1 Network Management and E-infrastructure
+	3.2 Dedicated Services for R&E Institutions
+	3.3 Sustainability and Capacity building
+	3.4 Advocacy and donor engagement
+
+	4. Achievements to date
+	5. Business Benefits
+	5.1 Benefits to African students and researchers
+	5.2 Benefits to African NRENs
+	5.3 Benefits to Global Research and Education
+
+	6. Conclusions
+	Acknowledgements
+	References
+

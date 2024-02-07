@@ -1,0 +1,10 @@
+2023-12-10 20:13:55.476 INFO curate - 2 @ The script has started
+2023-12-10 20:13:55.501 INFO curate - 2 @ Curation task: registerdoi performed on: 1/0 with status: 0
+2023-12-10 20:13:55.520 INFO curate - 2 @ Curation task: registerdoi performed on: 1/1 with status: 0
+2023-12-10 20:13:55.525 INFO curate - 2 @ Curation task: registerdoi performed on: 1/4 with status: 0
+2023-12-10 20:13:55.539 INFO curate - 2 @ Curation task: registerdoi performed on: 1/14 with status: 0. Result: 'DOI registration task performed on 1/14. DOI: (doi:10.60763/africarxiv/8)'
+2023-12-10 20:13:55.540 INFO curate - 2 @ Curation task: registerdoi performed on: 1/5 with status: 0. Result: 'DOI registration task performed on 1/14. DOI: (doi:10.60763/africarxiv/8)'
+2023-12-10 20:13:55.544 INFO curate - 2 @ Curation task: registerdoi performed on: 1/13 with status: 0. Result: 'DOI registration task performed on 1/13. DOI: (doi:10.60763/africarxiv/7)'
+2023-12-10 20:13:55.545 INFO curate - 2 @ Curation task: registerdoi performed on: 1/3 with status: 0. Result: 'DOI registration task performed on 1/13. DOI: (doi:10.60763/africarxiv/7)'
+2023-12-10 20:13:55.547 INFO curate - 2 @ Curation task: registerdoi performed on: 1/11 with status: 0. Result: 'DOI registration task performed on 1/13. DOI: (doi:10.60763/africarxiv/7)'
+2023-12-10 20:13:55.551 INFO curate - 2 @ The script has completed

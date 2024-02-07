@@ -1,0 +1,704 @@
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+ 
+
+  
+
+ 
+
+                                                
+
+ 
+
+ 
+
+Tackling Sustainable Development Goal 9: Examining 
+
+efforts by RENU to build critical national infrastructure 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Nebert Ashaba     
+
+nashaba@renu.ac.ug 
+
+                                                       
+
+ Department of Network Operations,   
+
+    Research and Education Network for Uganda (RENU).           
+
+    Makerere University | 8a Mabua Rd, Kampala 
+
+ 
+
+Brian Masiga  
+
+bmasiga@renu.ac.ug 
+
+mailto:nashaba@renu.ac.ug
+mailto:bmasiga@renu.ac.ug
+
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+ABSTRACT 
+
+The United Nations Sustainable Development Goals (SDGs) provide a crucial framework for 
+
+global progress and the advancement of human well-being. In Africa, the AfricaConnect 3 
+
+team, consisting of GEANT, UbuntuNet Alliance, ASREN, and WACREN, highlights the 
+
+instrumental role of National Research and Education Networks (NRENs) in supporting the 
+
+SDGs. This paper specifically focuses on SDG 9, which emphasizes the establishment of 
+
+resilient infrastructure, inclusive and sustainable industrialization, and innovation. 
+
+In Uganda, the Research and Education Network for Uganda (RENU) is actively addressing 
+
+SDG 9 by constructing the first marine optical fiber in Kalangala district, an island region in 
+
+Lake Victoria. With 84 islands and a population of 67,000 individuals, Kalangala district faces 
+
+economic challenges and resource isolation, leading to a high prevalence of HIV cases. RENU's 
+
+efforts aim to extend reliable, high-speed Internet connectivity to underserved communities in 
+
+Kalangala's island regions. 
+
+This examination explores RENU's deployment of underwater fiber optic cables connecting 
+
+the mainland (Bukakata area) to Bugala Island, benefiting educational and research institutions 
+
+on the main island, including hospitals, schools, and tertiary institutions. The paper presents 
+
+findings and recommendations, including promoting infrastructure sharing between national 
+
+research and education networks and commercial Internet service providers. It also suggests 
+
+the adoption of technically and financially sustainable connectivity technologies by member 
+
+institutions and the implementation of complementary access solutions such as community 
+
+networks, municipal networks, and cooperatives. 
+
+By highlighting RENU's efforts and the outcomes of this examination, this paper provides 
+
+valuable insights for leveraging NRENs to support global development initiatives, like SDG 9 
+
+with initiatives such as RENU’s marine optical cable construction, and promote inclusive and 
+
+sustainable development in underserved regions. 
+
+Keywords: Collaboration, Internet-based learning, Higher education, Research and education 
+
+network, Underserved Communities, Community Networks, Internet Society Foundation. 
+
+  
+
+
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+ACKNOWLEDGEMENT 
+
+The efforts by RENU to establish optical fiber cable to the remote islands of Kalangala district 
+
+have been made possible with a generous grant from the Internet Society Foundation through 
+
+their Resiliency Program [13].  
+
+This program supports projects that increase network resiliency in communities prone to 
+
+natural disasters so that these communities will be better able to prepare for and withstand the 
+
+effects of natural disasters on Internet connectivity. 
+
+The Resiliency Program is one component of the Foundation’s RARE (Resiliency & 
+
+Responding to Emergencies) Program, which seeks to help communities enhance preparedness 
+
+and build Internet resiliency when faced with adverse events such as national disasters. 
+
+  
+
+
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+1. INTRODUCTION 
+
+1.1. Background 
+
+The United Nations Sustainable Development Goals (SDGs) are a set of 17 global goals 
+
+adopted by all United Nations (UN) Member States in 2015 as part of the 2030 Agenda for 
+
+Sustainable Development. These goals are a universal call to action to end poverty, protect the 
+
+planet, and ensure prosperity for all by 2030. They address various social, economic, and 
+
+environmental challenges facing the world today and are interconnected, recognizing that 
+
+progress in one area often depends on progress in others. 
+
+SDG 9 is one of these 17 goals, and it focuses specifically on "Industry, Innovation, and 
+
+Infrastructure with a specific goal of building resilient infrastructure, promoting inclusive and 
+
+sustainable industrialization, and fostering innovation. 
+
+Different organisations are tackling this through different efforts including RENU providing 
+
+Internet connectivity to the remote island of Kalangala surrounded by Lake Victoria. Reliable 
+
+connectivity will be established by the use of an underwater optical fibre cable and when 
+
+established, will improve service delivery in schools, tertiary institutions and research 
+
+organisations in the region by enabling research, learning and collaboration. 
+
+1.2. Problem Statement 
+
+Connectivity to institutions in Uganda’s underserved communities has been limited by 
+
+inadequate investment from different for-profit (commercial) Internet service providers (ISPs), 
+
+as such investments do not guarantee significant returns on investment. This is exacerbated by 
+
+factors ranging from geographical location to terrain, and the demographics of the given area. 
+
+Income levels also contribute to the investment drive of commercial companies. 
+
+Such factors discourage many companies from expanding their network footprints and 
+
+substituting their legacy provider equipment with cutting-edge technologies, as such cutovers 
+
+are usually capital-intensive. 
+
+With the ever-changing research-centred education curriculum in different institutions of 
+
+learning and the need for fast collaboration among different research organizations in Uganda 
+
+with their partners across the globe, the Internet is currently an essential and widely used tool. 
+
+1.3. Objectives 
+
+This paper explores RENU's efforts to contribute to global development agendas by 
+
+establishing inclusive and cost-effective solutions to the community through deploying reliable 
+
+
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+Internet connectivity using fiber cable to Kalangala islands and also presents findings and 
+
+recommendations on how to promote connectivity in under-served communities. 
+
+2. Literature Review 
+
+2.1. Internet service connectivity landscape in Uganda. 
+
+According to the Uganda Communications Commission (UCC) Market Report for the third 
+
+quarter (3Q) financial year (FY) 2022-2023 between January to March 2023, Internet 
+
+subscriptions experienced significant growth, adding *1.2 million new internet subscriptions 
+
+and reaching a total of 27 million in the quarter ending March 2023. This was the second quarter 
+
+in a row that saw growth, demonstrating a steadily rising Internet use trend.  
+
+ 
+
+Figure 1: Internet Subscriptions Comparison 
+
+* These numbers are based on the total number of subscriptions that use above 5MBs of data 
+
+a month. 
+
+The increased use of mobile phones and other data devices like tablets to access the internet is 
+
+primarily responsible for the surge in subscriptions. The strong marketing campaigns for Fiber-
+
+to-the-Home (FTTH) plans and Internet of Things (IoT) gadgets like car tracking devices by 
+
+the telecom industry are accountable for their success [1]. 
+
+Telecom companies like MTN Uganda, Airtel Uganda, and Africell provide mobile internet 
+
+services. MTN Uganda and Airtel Uganda are the main companies dominating the Ugandan 
+
+telecom market. With a 55% market share, MTN Uganda is the market leader with Airtel 
+
+Uganda as the next biggest competitor [2]. 
+
+Other companies like RENU run a private network that specializes in the provision of Internet 
+
+connectivity and related services like cloud to research and education institutions in Uganda. 
+
+  
+
+
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+2.2. Challenges hindering Internet connectivity in Uganda. 
+
+Limited Infrastructure in Rural Areas: The lack of adequate Internet connectivity in rural and 
+
+distant places is one of the biggest obstacles. Rural areas lack or have sporadic connectivity 
+
+due to the concentration of fiber optic cables and network infrastructure footprint in urban areas 
+
+[3]. 
+
+Affordability: Internet services are often considered expensive for many Ugandans, 
+
+particularly those with low incomes. High data costs relative to average incomes make it 
+
+challenging for some segments of the population to access the Internet regularly [3]. 
+
+Geographical Challenges: Uganda is land-locked with no direct access to sea cables but to only 
+
+overland cables [4] and its diverse geography, including lakes, rivers, and hilly and rugged 
+
+terrain as shown in Figure 2, poses challenges for infrastructure deployment, including the 
+
+extension of fiber optic cables. 
+
+ 
+
+Figure 2: RENU Field Visit to Kalangala Cluster Office 
+
+Quality of Service: Users in urban areas sometimes experience network congestion and slow 
+
+internet speeds, especially during peak usage hours. This affects the quality of service, making 
+
+it less reliable for tasks such as remote work and online learning. ISPs therefore have to pro-
+
+actively monitor customer links and occasionally visit these sites to carry out tests and confirm 
+
+optimal performance forexample during field checks as in Figure 3. 
+
+
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+ 
+
+Figure 3: RENU Engineer carrying out tests at Jaana HC in Kalangala islands. 
+
+Limited Digital Literacy: Many Ugandans lacked the digital literacy skills needed to make 
+
+effective use of the Internet. This is particularly challenging for educational institutions and 
+
+related initiatives that aim to leverage the Internet for learning [3]. 
+
+2.3. Existing Initiatives to expand Internet connectivity in Uganda. 
+
+Expanding internet connectivity in Uganda has been a priority for the government and various 
+
+organizations. Several initiatives have been launched to address the challenges and bring the 
+
+benefits of the Internet to more Ugandans. 
+
+Initiatives by non-governmental organisations include the Kalangala Connect Project where 
+
+RENU, with funding from the Internet Society (ISOC) Foundation, is building an optical fiber 
+
+cable to extend reliable and high-speed Internet to the islands of Kalangala. 
+
+Other efforts by governmental organisations include the National Information Infrastructure 
+
+(NII) Project where the government of Uganda is extending fiber optic connectivity to 
+
+underserved areas, including rural regions [6]. This project aimed to improve internet access 
+
+and digital services in remote areas.  
+
+Another project by the government of Uganda managed by the Uganda Communications 
+
+Commission (UCC) is the Uganda Communications Universal Services Access Fund 
+
+(UCUSAF) where UCC partnered with RENU and Airtel to provide dedicated Internet 
+
+connectivity links with a capacity of 5Mbps to over 90 schools [5]. 
+
+  
+
+
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+3. Findings, Projected Benefits and Recommendations 
+
+3.1. Findings leading up to Kalangala Connect Project 
+
+Kalangala district has a total population of over 67,200 people (according to the 2020 
+
+projection by the Uganda Bureau of Statistics) with only 15 health facilities and 56 schools.  
+
+The area is affected by natural disasters like floods and cyclones [8] which in turn lead to a 
+
+widespread of diseases like Cholera, typhoid etc. which puts a strain on the inadequate and ill-
+
+equipped health facilities on the island. The problem of such inadequate facilities is made worse 
+
+by the island’s undeveloped transport system as elaborated in the 2020 US Mission report to 
+
+the Ugandan people [7].  
+
+RENU believed that the Internet could help bridge the gap. Thus at the start of 2022, RENU 
+
+intervened and connected forteen (14) health facilities in Kalangala Islands (Bwendero HC III, 
+
+Kalangala Cluster, Kalangala DHO, Kalangala HC IV, Bufumira HC III, Mulabana HC II, 
+
+Kachanga Island HC II, Kasekulo HC II, Bubeke HC III, Lujabbwa Island HC II, Lulambwa 
+
+HC III, Bukasa HC IV, Jaana HC II and SIAAP) on the wireless connection [9], but that is very 
+
+unstable. 
+
+ 
+
+Figure 4: Sector Out Door Unit (ODU) Installed serving Bufumira HC III 
+
+The unstable Internet connection is also a general problem on the island because Uganda’s 
+
+commercial Internet Service Providers (ISPs) shun it due to the sparse population. It thus does 
+
+not make business sense for ISPs to establish a resilient network presence in the district. The 
+
+Island district's geographical location is also to blame for the poor connectivity [12]. 
+
+
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+ 
+
+Figure 5: RENU field team members walking to an island site in Kalangala 
+
+Such problems affect essential service delivery, particularly in the education and health sectors 
+
+especially where long distances need to be made to access such vital centers as in Figure 5. 
+
+3.2. Projected benefits from the Kalangala Connect Project 
+
+The project will be implemented in Bugala Island found in Kalangala District in the Central 
+
+region of Uganda.  
+
+ 
+
+Figure 6: OFC Illustration from Bukakata to Bugala Island 
+
+
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+Easier access to Information and Education materials: Reliable Internet access will enable 
+
+residents of Kalangala to access a wealth of information, educational resources, and online 
+
+courses. This will lead to improved educational outcomes, including higher literacy rates and 
+
+increased knowledge across various subjects. 
+
+Enhanced Healthcare Services: Healthcare facilities on the islands will benefit from 
+
+telemedicine services, allowing for remote consultations, diagnosis, and monitoring of patients. 
+
+RENU is already connecting over 9 facilities under the Center for Disease Control (CDC)/ 
+
+Rakai Health Sciences Program (RHSP) project using Long-Term Evolution (LTE) and 
+
+microwave access methods. 
+
+Economic Opportunities: Access to the reliable Internet will open up new economic 
+
+opportunities in different fields including agriculture, tourism, and online government services 
+
+that aid commerce. Residents will be able to easily explore online entrepreneurship, access e-
+
+commerce platforms to sell products and connect with markets beyond the islands.  
+
+Disaster Preparedness and Response: Access to the Internet will improve disaster preparedness 
+
+and response mechanisms. Communities will be able to swiftly receive early warnings and 
+
+access resources and information during emergencies. 
+
+This intervention to improve Internet connectivity will improve the area's education, health and 
+
+economic standards, thus hastening the island's social and economic development. 
+
+3.3. Recommendations 
+
+Reducing Internet costs and expanding access, especially to underserved areas is crucial for 
+
+bridging the digital divide and fostering economic and social development. Here are 
+
+recommendations to achieve these goals: 
+
+Infrastructure Sharing: UCC is leading regulatory efforts in promoting infrastructure sharing 
+
+especially through revising the national telecom licensing framework [10] to incorporate such 
+
+new dynamics. The commission has also published different guidelines on infrastructure 
+
+deployment and sharing with an aim to encourage Internet service providers (ISPs), including 
+
+national research and education networks (NRENs), other (commercial) Internet service 
+
+providers, and telecom companies to share infrastructure such as fiber optic cables, cell towers, 
+
+and data centres [11]. This reduces capital expenditure and operational costs, which can be 
+
+passed on to consumers through lower prices. 
+
+
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+Adoption of technically and financially sustainable connectivity technologies by member 
+
+institutions: Internet service providers especially national research and education networks are 
+
+recommended to adopt the use of cost-effective and technically-capable technologies, 
+
+especially for last-mile connectivity. Innovative solutions like fixed wireless access for 
+
+example 4G LTE and 5G, satellite, and mesh networks can be cost-effective, especially for 
+
+reaching remote areas [12].  
+
+Use of complementary access solutions such as community networks, municipal networks, and 
+
+cooperatives: Combining backhaul technologies (like Plesiochronous digital hierarchy (PDH) 
+
+and Synchronous Digital Hierarchy (SDH)/Synchronous optical networking and Point-to-
+
+multipoint microwave-access technologies) with access solutions such as community setup and 
+
+managed networks, for example, a Community LTE (CoLTE) eases the building of financially 
+
+sustainable networks mostly in underserved areas [12]. Where there is no practical way to 
+
+provide continuous coverage or multiple cells, community networks are the right answer for 
+
+distant settlements and islands where customers can still benefit from mobile broadband 
+
+connectivity. 
+
+Discussion, Future Work and Conclusion. 
+
+The Kalangala Connect project, currently at the inception stage, will be done in phases with 
+
+the end goal of establishing a dedicated marine optical fiber cable from Bukakata mainland to 
+
+Bugala island in the Kalangala district. Robust access technologies, for example, Fiber to any 
+
+given site (commonly referred to as FTTx) including fiber to the home (FTTH) will drastically 
+
+reduce Internet costs and aid the expansion of fiber footprint especially when users are involved 
+
+in deployments [14]. This will greatly reduce dependence on unreliable wireless technologies 
+
+such as microwave technology in the future. 
+
+The success of the NREN's member institutions' collective digital future hinges on how well 
+
+and how quickly we deliver the affordable, accessible, resilient, and reliant digital connectivity 
+
+required for the establishment and operation of an inclusive digital society with the aim of 
+
+fostering collaboration in research and education. 
+
+References 
+
+[1] Uganda Communication Commission Market Report 3Q FY 2022-2023 Jan-Mar-2023. 
+
+[Online]. Available: https://www.ucc.co.ug/wp-content/uploads/2023/08/UCC-Market-
+
+Report-3Q-FY-2022-2023-Jan-Mar-2023-compressed-1.pdf. [Accessed: September 9, 2023]. 
+
+https://www.ucc.co.ug/wp-content/uploads/2023/08/UCC-Market-Report-3Q-FY-2022-2023-Jan-Mar-2023-compressed-1.pdf
+https://www.ucc.co.ug/wp-content/uploads/2023/08/UCC-Market-Report-3Q-FY-2022-2023-Jan-Mar-2023-compressed-1.pdf
+
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+ [2] Telecommunication Companies in Uganda: Market Players and Competitive Dynamics. 
+
+[Online]. Available: https://isp.page/news/telecommunication-companies-in-uganda-market-
+
+players-and-competitive-dynamics/. [Accessed: September 9, 2023]. 
+
+ [3] Expanding internet connectivity to underserved communities in Uganda will boost 
+
+economic transformation. [Online]. Available: https://www.independent.co.ug/comment-
+
+expanding-internet-connectivity-to-underserved-communities-in-uganda-will-boost-
+
+economic-transformation/. [Accessed: September 9, 2023]. 
+
+[4] D. Ó Briain, D. Denieffe, Y. Kavanagh and D. Okello, "Rebuilding the Internet Exchange 
+
+Point in Uganda," 2017 28th Irish Signals and Systems Conference (ISSC), Killarney, Ireland, 
+
+2017, pp. 1-6, doi: 10.1109/ISSC.2017.7983601. 
+
+[5] Over 1,000 Schools Benefiting from UCC’s ICT Labs Project. [Online]. Available: 
+
+https://chimpreports.com/over-1000-schools-benefiting-from-uccs-ict-labs-project/. 
+
+[Accessed: September 9, 2023]. 
+
+ [6] National Backbone Infrastructure Project (NBI/EGI). [Online]. Available: 
+
+https://www.nita.go.ug/projects-service-portfolio/national-backbone-infrastructure-project-
+
+nbiegi. [Accessed: September 9, 2023]. 
+
+[7] 2020 Report to the Ugandan people from the U.S. Mission to Uganda. Page 4. [Online]. 
+
+Available:https://ug.usembassy.gov/wp-content/uploads/sites/42/2020-Report-to-the-Uganda-
+
+People-Low.pdf. [Accessed: September 9, 2023]. 
+
+ [8] Kalangala Cyclone Survivors Receive Relief 6 Days Later [Online]. Available: 
+
+https://ugandaradionetwork.net/story/kalangala-cyclone-survivors-receive-relief-6-days-later. 
+
+[Accessed: September 9, 2023]. 
+
+[9] RENU Network Reaches the Islands!, RENU Twitter feed. [Online]. Available: 
+
+https://twitter.com/RENU_256/status/1483716148902477826?s=20. [Accessed: September 9, 
+
+2023]. 
+
+[10] UCC explains review of telecommunications license framework [Online]. Available: 
+
+https://www.pmldaily.com/news/2020/01/ucc-explains-review-of-telecommunications-
+
+license-framework.html. [Accessed: September 10, 2023]. 
+
+[11] The Uganda Communications Commission guidelines on infrastructure deployment and 
+
+sharing [Online]. Available: https://www.ucc.co.ug/wp-content/uploads/2022/02/THE-
+
+https://isp.page/news/telecommunication-companies-in-uganda-market-players-and-competitive-dynamics/
+https://isp.page/news/telecommunication-companies-in-uganda-market-players-and-competitive-dynamics/
+https://www.independent.co.ug/comment-expanding-internet-connectivity-to-underserved-communities-in-uganda-will-boost-economic-transformation/
+https://www.independent.co.ug/comment-expanding-internet-connectivity-to-underserved-communities-in-uganda-will-boost-economic-transformation/
+https://www.independent.co.ug/comment-expanding-internet-connectivity-to-underserved-communities-in-uganda-will-boost-economic-transformation/
+https://chimpreports.com/over-1000-schools-benefiting-from-uccs-ict-labs-project/
+https://www.nita.go.ug/projects-service-portfolio/national-backbone-infrastructure-project-nbiegi
+https://www.nita.go.ug/projects-service-portfolio/national-backbone-infrastructure-project-nbiegi
+https://ug.usembassy.gov/wp-content/uploads/sites/42/2020-Report-to-the-Uganda-People-Low.pdf
+https://ug.usembassy.gov/wp-content/uploads/sites/42/2020-Report-to-the-Uganda-People-Low.pdf
+https://ugandaradionetwork.net/story/kalangala-cyclone-survivors-receive-relief-6-days-later
+https://www.pmldaily.com/news/2020/01/ucc-explains-review-of-telecommunications-license-framework.html
+https://www.pmldaily.com/news/2020/01/ucc-explains-review-of-telecommunications-license-framework.html
+https://www.ucc.co.ug/wp-content/uploads/2022/02/THE-UGANDA-COMMUNICATIONS-COMMISSION-GUIDELINES-ON-INFRASTRUCTURE-DEPLOYMENT-AND-SHARING.pdf
+
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+UGANDA-COMMUNICATIONS-COMMISSION-GUIDELINES-ON-
+
+INFRASTRUCTURE-DEPLOYMENT-AND-SHARING.pdf. [Accessed: September 10, 
+
+2023]. 
+
+[12] Jonathan Brewer, Yoonee Jeong, and Arndt Husar, “LAST MILE CONNECTIVITY: 
+
+ADDRESSING THE AFFORDABILITY FRONTIER”. ADB Sustainable Development 
+
+Working Paper Series. No. 83 | December 2022. [Online]. Available: 
+
+https://www.adb.org/sites/default/files/publication/847626/sdwp-083-last-mile-connectivity-
+
+affordability-frontier.pdf. [Accessed: September 10, 2023]. 
+
+[13] Expanding Internet access, connectivity and resiliency: meet our newest grant cohort 
+
+[Online]. Available: https://www.isocfoundation.org/2023/03/expanding-internet-access-
+
+connectivity-and-resiliency-meet-our-newest-grant-
+
+cohort/?utm_source=Internet+Society+Foundation&utm_campaign=9947e48437-BOLT-
+
+Resiliency-March2023&utm_medium=email&utm_term=0_c552f5914f-9947e48437-
+
+243954092. [Accessed: September 10, 2023]. 
+
+[14] Domingo Vilar, Albert, 1984-. User involvement in FTTH deployments as a key to 
+
+success. 2015 B 4134-2016http://hdl.handle.net/10803/348882 
+
+Appendices 
+
+ 
+
+Figure 7: RENU Field Visit to Jaana Health Center II 
+
+https://www.ucc.co.ug/wp-content/uploads/2022/02/THE-UGANDA-COMMUNICATIONS-COMMISSION-GUIDELINES-ON-INFRASTRUCTURE-DEPLOYMENT-AND-SHARING.pdf
+https://www.ucc.co.ug/wp-content/uploads/2022/02/THE-UGANDA-COMMUNICATIONS-COMMISSION-GUIDELINES-ON-INFRASTRUCTURE-DEPLOYMENT-AND-SHARING.pdf
+https://www.adb.org/sites/default/files/publication/847626/sdwp-083-last-mile-connectivity-affordability-frontier.pdf
+https://www.adb.org/sites/default/files/publication/847626/sdwp-083-last-mile-connectivity-affordability-frontier.pdf
+https://www.isocfoundation.org/2023/03/expanding-internet-access-connectivity-and-resiliency-meet-our-newest-grant-cohort/?utm_source=Internet+Society+Foundation&utm_campaign=9947e48437-BOLT-Resiliency-March2023&utm_medium=email&utm_term=0_c552f5914f-9947e48437-243954092
+https://www.isocfoundation.org/2023/03/expanding-internet-access-connectivity-and-resiliency-meet-our-newest-grant-cohort/?utm_source=Internet+Society+Foundation&utm_campaign=9947e48437-BOLT-Resiliency-March2023&utm_medium=email&utm_term=0_c552f5914f-9947e48437-243954092
+https://www.isocfoundation.org/2023/03/expanding-internet-access-connectivity-and-resiliency-meet-our-newest-grant-cohort/?utm_source=Internet+Society+Foundation&utm_campaign=9947e48437-BOLT-Resiliency-March2023&utm_medium=email&utm_term=0_c552f5914f-9947e48437-243954092
+https://www.isocfoundation.org/2023/03/expanding-internet-access-connectivity-and-resiliency-meet-our-newest-grant-cohort/?utm_source=Internet+Society+Foundation&utm_campaign=9947e48437-BOLT-Resiliency-March2023&utm_medium=email&utm_term=0_c552f5914f-9947e48437-243954092
+https://www.isocfoundation.org/2023/03/expanding-internet-access-connectivity-and-resiliency-meet-our-newest-grant-cohort/?utm_source=Internet+Society+Foundation&utm_campaign=9947e48437-BOLT-Resiliency-March2023&utm_medium=email&utm_term=0_c552f5914f-9947e48437-243954092
+https://repositori.upf.edu/handle/10230/B%204134-2016http:/hdl.handle.net/10803/348882
+
+
+UC  2023, October 26–27, 2023, Kampala - Uganda 
+
+ 
+
+Figure 8: RENU Field Visit to Mulabana Health Center II 
+
+ 
+
+Figure 9: RENU Field Visit to SIAAP Health Center II 
+
+ 
+
+

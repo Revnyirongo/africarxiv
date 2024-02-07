@@ -1,0 +1,622 @@
+
+1
+
+The Lens 
+
+Scholarly and patent literature as 
+a public good to inform 
+problem-solving in Africa
+
+An open platform to improve social 
+impact of science and technology
+
+
+
+Agenda:
+● Introduction to The Lens
+
+○ Background
+○ PIDs and data coverage
+
+● Demonstration of Lens.org Features
+○ Collections, Saved Queries, Dashboards
+○ Lens Profiles for updating ORCID
+
+● Use Cases and Examples
+○ Research output from countries and 
+
+individual institutions
+○ Impact of research from Africa on 
+
+approved pharmaceuticals in the US
+● Q&A
+
+2
+
+OUTLINE
+
+The Lens: Scholarly and patent literature as a 
+public good to inform problem-solving in Africa
+
+Objectives:
+● Knowledge to accelerate innovation: Using Lens.org 
+
+to discover and share
+● Lens Collections to create your own open literature 
+
+reviews and technology landscapes
+● Accelerating innovation in Africa through linked PIDs
+● Use Lens Profiles to support ORCID management
+
+http://lens.org/
+
+
+3
+
+BACKGROUND
+
+The Lens and Cambia
+● Cambia, founded in 1991, started Patent Lens in 
+
+2001, the precursor of lens.org, the worldʼs first 
+free and open full text patent search capability.
+
+● In 2006, launched the worldʼs first public 
+patent-disclosed sequence search capability for 
+United States patent applications, which by 
+2013, Lens.org had become the worldʼs leading 
+open resource for patent sequences.
+
+● In 2011, with seed money from USPTO, Cambia 
+began extracting and resolving non-patent 
+literature strings in collaboration with NIH-NCBI 
+and Crossref, ultimately creating PatCite and 
+In4M metric 
+
+●
+
+● In 2017 Cambia expanded its focus, in substantial 
+collaboration with Microsoft Academic, NCBI PubMed 
+and CrossRef to host and serve global academic 
+research holdings and metadata.
+
+● The Lens is now the worldʼs leading integrated 
+innovation knowledge platform, using open and 
+FAIRE data to merge patents, scholarly, legal and 
+other key data in a single award-winning User 
+Experience
+
+● The Lens ensures privacy and confidentiality and its 
+data is fully open, shareable and reusable, is free to 
+every human on earth and has been up 24/7 for over 
+22 years.
+
+https://www.lens.org/
+https://www.lens.org/lens/patcite
+https://www.nature.com/articles/nbt.4049
+
+
+4
+
+THE LENS
+
+Meta Record Strategy
+Lens use a “Meta Record” concept as a core element 
+of our facility. We use a 15 digit open and persistent 
+identifier, LensID, to expose credible variants, 
+sources and context of knowledge artifacts, such as  
+scholarly works or patents, while maintaining 
+provenance,  and allowing aggregation, 
+normalization, and quality-control of diverse 
+metadata.
+
+https://osf.io/preprints/lissa/t56yh/ 
+
+https://osf.io/preprints/lissa/t56yh/
+
+
+SEPTEMBER 2023
+
+Lens Scholarly Data
+● 265M  Scholarly works records:
+
+● 129M  Journal articles
+
+● 27M     Books and book chapters
+
+● 7.9M    Conference proceedings
+
+● 5.2M    Works cited in patents
+
+● 89M     Works cited by other scholarly works
+
+● 2.1B    Scholarly citations
+
+● 11.5M Springer Nature Full Text discovery index
+
+5
+
+
+
+SEPTEMBER 2023
+
+Lens Patent Data
+
+6
+
+● 151 Million Patent Records 
+
+● 106 Jurisdictions
+
+● 87M Simple Patent Families 
+
+● 83M Extended Patent Families 
+
+● 889K Biological Patents
+
+● 457M Biological Sequences
+
+
+
+7
+
+150,757,805 264,741,880 457,593,326
+
+DATA SILO LINKAGES
+
+Our Special Sauce
+151M   Patent Records
+   85M   Patent Families
+   17M   Applicants 
+  1.6M   Owners
+ 265M   Scholarly Works
+   39M   Authors
+    25k   Research Institutions
+  5.2M   Works cited in patents
+  2.1B   Scholarly citations
+457M   Bio Sequences
+  2.4B   Document Linkages
+
+
+
+Workspaces
+Create dynamic 
+collections, saved queries 
+alerts, analysis 
+dashboards and manage 
+you Lens Profiles.
+
+In4M
+International Industry & 
+Innovation Influence 
+Mapping
+
+API & Data Facility  
+Scholarly API, PatSeq 
+bulk data, Patent API
+
+Reports
+Assemble your saved 
+queries and collections 
+with other knowledge in 
+a dynamic and 
+interactive report*
+
+8
+
+CURRENT OFFERINGS
+
+Discovery, Analytics, 
+And Management Tools
+
+
+
+SCHOLARLY WORKS
+
+Explore, Search, 
+Discover, Analyse 
+Lens serves over 260+ million scholarly records, 
+compiled and harmonised from Microsoft Academic, 
+PubMed, Crossref, OpenAlex and others, enhanced 
+with UnPaywall open access information, 
+OpenCitations, full text and links to ORCID and ROR. 
+
+Discover the influence of scholarship on both 
+academia and industry and  share your findings with 
+anyone.  The full scholarly and patent x scholarly 
+citation graphs are provided for the first time as an 
+open public resource.
+
+9
+
+
+
+PATENTS
+
+Explore, Search, 
+Discover and Analyse
+Our patent search capabilities offer advanced 
+boolean functions, structured search, biological 
+search, classification search, filtering and sorting 
+options to find the most relevant and important 
+patents.
+
+Use advanced search options to find the most 
+relevant and important patents; understand their 
+families and timelines; explore the richness of 
+classifications.  Explore the linkages with 
+non-patent literature. Use facets and analytics to 
+obtain new insights. 
+
+10
+
+
+
+ 
+
+11
+
+WORKSPACES
+
+Lens Profiles
+Unique to open data, Lens Profiles are 
+auto-generated author and inventor profiles 
+compatible with public ORCID records.
+
+Compiled from publicly available data sources using 
+the ORCID iD as the linking identifier.
+
+Lens Profiles can be used to update or populate your 
+ORCID record with scholarly works or patents from 
+the Lens in just a few simple steps.
+
+
+
+12
+
+Freedom to innovate needs freedom to operate
+
+DNA, RNA and proteins in patents are crucial  to 
+deliver new science as outcomes - products and 
+practice changes - for health, agriculture and the 
+environment.    
+
+Lens hosts the worldʼs largest publicly available 
+database and toolkit for biological patents, with data 
+source transparency, with many sequences uniquely 
+in this dataset.
+
+PATSEQ
+
+Explore Biological 
+Sequences in Patents
+
+
+
+13
+
+SEPTEMBER 2023
+
+Lens PatSeq Data
+● 889K Patents with biological sequences
+
+● 457M Sequences disclosed in patents
+
+● 628K Patent applications with sequences
+
+● 367M Sequences disclosed in applications
+
+● 199K Granted patents with sequences
+
+● 90M Sequences disclosed in granted patents
+
+
+
+Create and explore scholarly or patent 
+collections to understand who does 
+what, when and where to inform 
+decision-making.  Annotate the data and 
+collate it along with third party data to 
+develop more comprehensive and 
+dynamic reports (coming soon)
+
+Use open dynamic collections to create, curate, 
+annotate and share dynamic portfolios of scholarly 
+works and patents.
+
+Explore these collections to understand who does 
+what, when and where, who influences whom. These 
+open tools inform decision-making for work product 
+management, for partnering, for investing/funding  or 
+for research trajectories.
+
+WORKSPACES
+
+Collections
+
+14
+
+
+
+15
+
+WORKSPACES
+
+Analysis Dashboards
+Our suite of analysis and visualisation tools enable 
+real-time discovery and analysis.
+
+Create dashboards on a query or a dynamic 
+collection to keep your dashboards current based on 
+the latest data.
+ 
+Dashboards can be saved, presented and shared via 
+LinkedIn, Twitter, Facebook or email.
+
+15
+
+
+
+ 
+
+In4M
+
+Mission-aligned Metrics 
+Measure what matters
+No more proprietary, closed and irrelevant metrics 
+that create perverse incentives and  neither 
+recognize nor value the impact we need from 
+knowledge.
+
+Using rich, open and FAIRE metadata, and 
+comprehensive linked data sets, users can create 
+customized metrics that align with the missions of 
+their institutions.
+ 
+
+16
+
+
+
+ 
+
+In4M
+
+International Industry & 
+Innovation Influence 
+Mapping
+In4M uses rich patent citations to both scholarly 
+work and patents and scholarly citations to map the 
+influence of scholarship on academia, innovation 
+and industry.   
+
+In4M explores, exposes and ranks the degree to 
+which  researchersʼ works, or those of groups or 
+entire institutions influence outcomes for  society.
+
+17
+
+
+
+Use open persistent identifiers (Lens Ids, PMIDs or 
+DOIs) to discover which scholarly articles have 
+influenced what patents and who is using 
+scholarly work to build products. 
+
+Explore who is citing your scholarly work(s) and 
+map the influence on industry by visualising and 
+exploring the network of linkages.
+
+PATCITE
+
+Open Influence 
+Mapping Facility
+
+18
+
+
+
+API & DATA
+
+Lens APIs & Bulk Data
+
+19
+
+The Lens API & Data facility provides additional 
+programmatic options for accessing Patent, 
+Scholarly Works and Biological Sequences data.
+
+The versioned APIs provide programmatic access to 
+Lens scholarly works and patent records, while 
+options for bulk data downloads provide access to 
+the genetic sequences in patents, as well as the 
+FULL corpus of scholarly works and patents. The 
+open data is aggregated from diverse primary 
+sources, with persistent identifiers from the original 
+data sources provided for transparency and easier 
+interoperability for integration and combination 
+with other data.
+
+ 
+
+
+
+Lens Reports is a new prototype facility for 
+creating evidence-based, open, sharable and 
+reusable reports persistently linked to real-time 
+Lens data and analytics. 
+
+Search, collect, analyze, annotate and now 
+present your findings in a flexible, data-driven 
+reporting interface.
+
+Understand the actors and the actions in any 
+institution or groups of institutions, any field of 
+study or innovation, any geographical location.
+
+REPORTS
+
+Lens Reports
+
+20
+
+
+
+21
+
+The Lens Collective Action Project (CAP) levels the 
+playing field with universal and equitable access to 
+open innovation knowledge for inclusive problem 
+solving.
+
+CAP provides a number of different activities for all 
+stakeholders to participate in collective problem 
+solving, categories of participation include:
+
+● Institutional Toolkits & Professional Workspaces
+● Lens Labs
+● Open Content Initiatives
+● Community App Portal
+● Sponsorships & Donations
+
+https://www.lens.org/lens/collective-action 
+
+COLLECTIVE ACTION
+
+Collective Action Project
+
+https://www.lens.org/lens/collective-action
+
+
+22
+
+COLLECTIVE ACTION
+
+Collective Action needs 
+Connected Actors
+
+Community Adoption:
+● Open Metrics
+● Open Literature Reviews
+● Attested Collections
+● Lens Reports
+● Open Apps
+
+Impact:
+● Nudge (or ʻshoveʼ) an ecosystem
+● Transition to open for outcomes
+● Knowledge as open infrastructure
+
+
+
+The Lens builds on open data to provide a unique set 
+of tools for institutions to enhance their innovation 
+capabilities and engage more effectively in the 
+problem-solving process.  
+
+Institutional Toolkits provide an open and affordable 
+alternative service to the restrictive, expensive and 
+closed commercial services and include:
+
+● License & Permissions (No seat limits)
+● Patent & Scholarly API Access
+● Attested Portfolios
+● Management Tools
+● Lens Reports
+● More ITK tools under development including 
+
+Institutional Profiles
+
+COLLECTIVE ACTION
+
+Institutional Toolkits
+
+23
+
+
+
+24
+
+COLLECTIVE ACTION
+
+Open Apps & Data
+The Lens supports open, third-party apps and tools 
+developed by the community. Apps include:
+
+Network Visualization:
+● VOSviewer 
+● CiteSpace 
+
+Systematic Reviews:
+● CitationChaser 
+● SpiderCite
+
+Visual Search:
+● 2D Search
+
+https://www.vosviewer.com/
+http://cluster.cis.drexel.edu/~cchen/citespace/
+https://estech.shinyapps.io/citationchaser/
+https://sr-accelerator.com/#/spidercite
+https://www.2dsearch.com/
+
+
+The Lens Equitable Access Program guarantees 
+access to innovation knowledge and tools and 
+ensures The Lens remains universally available as a 
+community-supported public-good.
+
+Any institution worldwide that needs or wants any of 
+the tools or services in the Institutional Toolkit will 
+have access based on low, fair, tiered pricing. 
+
+All fees go towards keeping knowledge universally 
+available as a community-supported public-good.
+
+COLLECTIVE ACTION
+
+Lens Equitable Access 
+Program (LEAP)
+
+25
+
+
+
+EQUITABLE ACCESS
+
+Professional Workspaces
+
+26
+
+The Lens provides all registered users a Personal 
+Account with a Professional Workspace, providing 
+access to tools and features on the Lens.org platform 
+to support many use cases and use types across 
+industry and the research and innovation sectors. 
+
+The Lens offers a free Professional Workspace to 
+individuals users for public-good and non-profit 
+uses, and a workspace with a commercial use license 
+to users who use The Lens in their professional work 
+or business.
+
+
+
+To learn more, check out these sources:
+
+Richard Jefferson speaking at the Skoll World 
+Forum for Social Entrepreneurship
+
+Richard Jefferson interview with 
+Data4Good 
+
+Support and tips for using Lens.org:  
+https://support.lens.org/
+
+https://www.youtube.com/watch?v=ltvedLRyJq4
+https://www.youtube.com/watch?v=ltvedLRyJq4
+https://www.youtube.com/watch?v=6CpFtmui6IA&t=14s
+https://www.youtube.com/watch?v=6CpFtmui6IA&t=14s
+https://support.lens.org/
+https://support.lens.org/
+

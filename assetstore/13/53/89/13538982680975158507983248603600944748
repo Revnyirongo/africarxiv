@@ -1,0 +1,452 @@
+
+Enabling African 
+research item 
+discoverability 
+through the Research 
+Nexus 
+AfricArXiv Open Science Webinar Series
+
+
+
+Crossref 
+Ambassadors 
+
+
+
+What is a Crossref Ambassador?
+
+● Crossref Ambassadors are trusted contacts who work within our 
+communities around the world and who share a great enthusiasm and 
+belief in our work. 
+
+● They volunteer to support the scholarly community in their locales with 
+ongoing communication, interactive workshops and training from 
+Crossref. 
+
+● They are Crossref’s eyes and ears in the community, and a special 
+part of our team.
+
+
+
+
+
+About us
+
+
+
+Crossref makes research objects easy to find, cite, link, 
+assess, and reuse. 
+
+We’re a not-for-profit membership organization that exists to 
+make scholarly communications better. 
+
+Our mission 
+
+
+
+● >19,000 organisational members from 152 countries
+● >150 million open metadata records with a DOI
+● 1.1 billion DOI resolutions every month  
+● 000s (?) systems reusing metadata through search/API and 
+
+1.2 billion queries every month (up from 607mil in 2018)
+● 150 Sponsor orgs; 50 Ambassadors
+● $1,150,000 on data storage and processing alone in 2024
+● 47 staff across 7 time zones and 10 countries
+
+The Scale Of Crossref 
+Infrastructure
+
+
+
+Why organizations join Crossref
+
+● Connect content with a global network of online scholarly 
+research
+
+● Create a persistent identifier for each object
+● Improve discoverability of publications through robust 
+
+metadata
+● Find out who is citing your content
+● Participate in other collaborative services
+
+
+
+The 
+Research Nexus 
+
+
+
+What is metadata?
+“Metadata is communication.
+
+It describes and identifies an item, it defines relationships, it sets 
+parameters for the range of actions something can engage in. 
+
+As the things we read, write, create, use, move around, and engage 
+with become more digital, metadata becomes more important, 
+because without metadata, all that movement, interaction, and 
+discovery, could not happen.”
+
+- Juliane Schneider, Metadata 20/20 blog, 2017 
+https://metadata2020.org/blog/2017-09-14-metadata-and-communication
+
+https://metadata2020.org/blog/2017-09-14-metadata-and-communication/
+
+
+Basic: titles; dates; author names; abstracts; DOI; location URL
+
+Full-text URLs: e.g. for text-mining and Similarity Check
+
+Crossmark: updates, retractions, corrections
+
+Relationships: versions; translations; data; references; citation
+
+Provenance: publisher/funder/steward information
+
+Subject-specific: e.g. clinical trial info
+
+Funding information: Funder Registry ID; award numbers/Grant DOIs
+
+Contributor & Affiliations: ORCID iDs and ROR IDs preferred
+
+What kind of <metadata>?
+
+
+
+
+
+Reproducibility
+
+Metadata as relationships 
+between literature, data, 
+software, protocols and more
+
+Research integrity
+
+Metadata as signals of 
+trustworthiness including 
+provenance information
+
+Discoverability
+
+More metadata means more 
+systems have more pathways 
+to find your work
+
+Assessment 
+
+Metadata can be used to analyze 
+the outcomes of research and 
+demonstrate compliance
+
+Why metadata?
+
+
+
+Crossref OJS 3.2+ Manual
+
+DOAJ and Crossref sign agreement to remove barriers to scholarly 
+publishing for all, June 2021
+
+A Central Corpus for All Data Citations
+
+https://docs.pkp.sfu.ca/crossref-ojs-manual/en/
+https://www.crossref.org/blog/doaj-and-crossref-sign-agreement-to-remove-barriers-to-scholarly-publishing-for-all/
+https://www.crossref.org/blog/doaj-and-crossref-sign-agreement-to-remove-barriers-to-scholarly-publishing-for-all/
+https://datacite.org/make-data-count-a-central-corpus-for-all-data-citations/
+
+
+ORCID Auto-Update
+
+
+
+Adding records to your ORCID
+
+
+
+Reference metadata at Crossref
+
+● All references openly available 
+since June 2022.
+
+● 52.0% of journal articles, 44.5% 
+of all works have references.
+
+
+
+Relationships:
+The Research 
+Nexus
+
+Our vision of a network of 
+scholarly entities.
+
+We can show connections 
+between items.
+
+
+
+Global Equitable 
+Membership (GEM) 
+Program
+
+
+
+A changing membership 
+ 
+
+392 members
+12,229 records
+
+
+
+Global Equitable Membership 
+(GEM) program
+
+
+
+GEM eligible countries in Africa
+
+Eritrea
+Ethiopia (7)
+Gambia
+Ghana (18)
+Guinea
+Guinea-Bissau
+Mali (2)
+Mauritania (1)
+Mozambique
+Niger
+Rwanda (4)
+
+Sao Tome and 
+Principe
+Senegal (3)
+Sierra Leone
+Somalia (4)
+South Sudan
+Sudan (11)
+Tanzania (11)
+Togo
+Uganda (7)
+Zambia (5)
+
+Benin (1)
+Burkina Faso (2)
+Burundi (1)
+Central African 
+Republic (1)
+Chad
+Comoros
+Cote d'Ivoire
+Democratic Republic 
+of the Congo (6)
+Djibouti
+
+
+
+What does GEM cover?
+No
+
+● Similarity Check fees
+
+● Metadata plus fee
+
+Yes
+
+● Annual member fee
+
+● Content registration fees
+
+
+
+Getting started 
+as a member
+
+
+
+https://www.crossref.org/membership/
+
+
+
+First Steps
+We send you:
+
+● Your unique prefix
+
+● Login and instructions to set your password
+
+● Review of the different methods for registering your content
+
+
+
+What can I register at Crossref?
+
+Journals & articles
+Books
+Book chapters
+Conference proceedings
+Datasets
+Dissertations
+
+Reports
+Standards
+Posted content (preprints)
+Peer reviews
+Grants
+Relationships
+
+
+
+How to register content
+● OJS Crossref plugin 
+
+(https://docs.pkp.sfu.ca/crossref-ojs-manual/en/config)
+
+● Manual web deposit form 
+
+(https://apps.crossref.org/webdeposit)
+
+● Upload XML file 
+
+(https://doi.crossref.org)
+
+• Upload XML file (https://doi.crossref.org)
+
+• The manual web deposit form                          
+
+(https://apps.crossref.org/webdeposit)
+
+• OJS Crossref plugin
+
+• The new Metadata Manager 
+
+•Upload XML file (https://doi.crossref.org)
+
+•The manual web 
+
+deposit form                          
+
+(https://apps.crossref.
+
+org/webdeposit)
+
+•OJS Crossref plugin
+
+•The new Metadata 
+
+Manager 
+
+https://doi.crossref.org
+https://apps.crossref.org/webdeposit
+https://doi.crossref.org
+https://apps.crossref.org/webdeposit
+https://apps.crossref.org/webdeposit
+
+
+Web deposit form https://apps.crossref.org/webDeposit/
+
+
+
+Using OJS
+
+● Enable DOI plugin
+
+Settings > Website > Plugins
+
+Under Installed Plugins > Public Identifier Plugins
+
+● Enable Crossref plugin
+
+Tools > Import/Export > Crossref XML Export Plugin
+
+https://docs.pkp.sfu.ca/crossref-ojs-manual/en/config
+
+
+
+Additional 
+services 
+
+
+
+● Reference linking
+● Cited-by
+● Similarity Check
+● Crossmark
+
+Services for our members:
+
+
+
+Reference linking
+
+Reference linking enables researchers to follow a link from 
+the reference list to other full-text documents, helping them 
+to make connections and discover new things.
+
+https://www.crossref.org/services/reference-linking/
+
+
+
+Cited-by
+
+Cited-by provides an overview of the publications that have 
+cited a piece of content helping to build a picture of how 
+research has been received by the community.
+
+https://www.crossref.org/services/cited-by/
+
+
+
+Similarity Check
+
+Similarity Check offers publishers with a way to actively 
+engage in efforts to prevent plagiarism, using a service 
+provided by Crossref and powered by iThenticate
+
+https://www.crossref.org/services/similarity-check/
+
+
+
+Crossmark
+
+Crossmark provides a cross-platform way for readers to 
+quickly discover the status of a research output along with 
+additional metadata related to the editorial process
+
+https://www.crossref.org/services/crossmark/
+
+
+
+The PLACE  
+
+
+
+
+
+
+
+In conclusion 
+
+
+
+Resources and support
+Technical documentation: https://www.crossref.org/documentation/
+
+GEM program: https://www.crossref.org/gem/
+
+Email us: support@crossref.org and member@crossref.org
+
+OJS/Crossref Manual https://docs.pkp.sfu.ca/crossref-ojs-manual/en/
+
+Have questions? Try our community forum: https://community.crossref.org/
+
+https://www.crossref.org/documentation/
+https://www.crossref.org/gem/
+mailto:support@crossref.org
+mailto:member@crossref.org
+https://docs.pkp.sfu.ca/crossref-ojs-manual/en/
+https://community.crossref.org/
+

@@ -1,0 +1,136 @@
+
+RARE Router: Opportunities and Use 
+Cases for Research and Education 
+
+Networks
+
+Wilson Wasswa, UbuntuNet Alliance 
+Caroline Namuddu, RENU
+
+
+
+RARE/FreeRTR
+
+2
+
+
+
+Why RARE?
+
+One platform that provides multiple solutions. Each solution is able to address a 
+specific Research and Education use case or need. 
+
+3
+
+
+
+RARE Features
+
+● Forwarding: ipv4, ipv6, ipx, mpls, layer2, atom, eompls, vpls, evpn
+● Routing: ospf, is-is, bgp, static, rip, eigrp, babel, bfd, msdp, pim ssm, igmp
+● LSP support: p2p, p2mp, mp2mp built by bgp, ldp, rsvp-te, sr, sr-te
+● Crypto: macsec, ipsec, ikev1, ikev2, tls, dtls, ssh, openvpn, wireguard, sgt
+● Tunneling: gre, ipip, l2tp, pptp, gtp, nvgre, vxlan, geneve, mplsip, mplsudp, 
+
+erspan, etherip, icmptun, pimtun, ipcompress, ipencap, minenc, nos, tmux, 
+l2f, uti, etc
+
+● Encapsulation: Ethernet, vlan, ppp, Framerelay, pwether, virtppp, hairpin
+● Misc: acl, qos, nat, pbr, srv6, vrrp, hsrp, inspect, 6to4, rpl, tunnel, vpdn, pcep
+● Servers: telnet, ssh, socks, http(s), ftp(s), tftp, pop3(s), smtp(s), gopher, irc, 
+
+dcpp, sip, dns, ntp, syslog, lpd, radius, tacacs, etc
+4
+
+
+
+NREN Survey
+
+● A survey was carried out to gain 
+insights into NREN backbones.
+o Most of the NRENs operate 
+
+multivendor backbones
+○ A few NRENs lack their own network 
+
+equipment and instead rely on 
+infrastructure of local operators 
+
+○ Twelve out of thirteen NRENs 
+operate dual stack backbones, 
+supporting both IPv4 and IPv6 
+
+○ Three out of thirteen NRENs offer 
+MPLS services including L2VPNs 
+and L2VPNs.  
+
+○ Two NRENs run PIM
+
+5
+
+
+
+Use Cases
+
+6
+
+
+
+Validation Lab
+
+● Juniper, Cisco IOS-XE and 
+RARE/Freertr
+
+● Routing Protocols
+○ Intermediate System to Intermediate 
+
+System (IS-IS)
+○ Border Gateway Protocol (BGP) 
+
+● BGP Scaling Techniques
+o Peer groups (Templates), Route 
+
+Reflectors
+
+● Multiprotocol Label Switching 
+(MPLS) Applications
+o VPNs and  RSVP-TE
+
+7
+
+
+
+Value Proposition 
+
+● As an open source software, RARE does not require any license
+● For NRENs that are yet to deploy their own network equipment, you can
+
+○ recycle old servers to act as 1Gbps CPEs for primary and secondary schools, OOB servers, 
+route reflectors etc or
+
+○ procure commodity hardware at lower price points to serve as
+■ 10Gbps CPEs for end-user institutions such as university campuses, research centres
+■ Nx10,25,40,100Gbps Internet transit gateways or core nodes
+■ Nx10,25,40,100Gbps Data Centre spine or edge
+■ Nx10,25,40,100Gbps IXP or PNI peering node
+
+8
+
+
+
+Future Tests
+
+9
+
+
+
+Thank you!
+
+10
+
+wilson.wasswa@ubuntunet.net
+cnamuddu@renu.ac.ug
+
+mailto:wasswa.wilson@ubuntunet.net
+mailto:cnamuddu@renu.ac.ug
+

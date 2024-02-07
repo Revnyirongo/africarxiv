@@ -1,0 +1,2353 @@
+
+Emerging Digital Technologies 
+Ecosystems in Kenya and South Africa: 
+States of Maturity 2023
+
+Madara Ogot
+Rebecca Hanlin
+Margaret Muthee
+Wandile Kelly
+Samuel Njuguna
+Rita Muriuki
+
+
+
+© 2023 University of Nairobi, University of Johannesburg
+
+This document is an output from a project funded with UK aid from the UK government for the benefit of developing countries. 
+However, the views expressed and information contained in it is not necessarily those of, or endorsed by the UK government, which 
+can accept no responsibility for such views or information or for any reliance placed on them.
+
+           
+
+Cover Image by Freepik available from freepik.com
+
+
+
+Emerging Digital Technologies Ecosystems of
+Kenya and South Africa: States of Maturity
+
+2023
+
+Prof Madara Ogot
+Rita Muriuki
+
+University of Nairobi
+KENYA
+
+Prof Rebecca Hanlin
+Wandile Kelly
+
+University of Johannesburg
+SOUTH AFRICA
+
+Margaret Muthee
+Samuel Njuguna
+
+NACOSTI
+KENYA
+
+University of Nairobi | University of Johannesburg
+
+
+
+
+
+TABLE OF CONTENTS
+
+1 INTRODUCTION 1
+
+1.1 Background Information 1
+
+1.2 Methodology 1
+
+1.3 Emerging Technology Maturity Model 2
+
+2 MATURITY OF THE EMERGING DIGITAL TECHNOLOGIES ECOSYSTEM IN KENYA 4
+
+2.1 Introduction 4
+
+2.2 Primary Actors 4
+
+2.3 Secondary Actors 11
+
+2.4 Maturity Level 13
+
+2.5 Summary
+
+3 MATURITY OF THE EMERGING DIGITAL TECHNOLOGY ECOSYSTEM IN SOUTH AFRICA 14
+
+3.1  Primary Actors 14
+
+3.2 Secondary Actors 20
+
+3.3 Maturity Level 22
+
+3.4 Summary 22
+
+4 GENDER EQUALITY AND SOCIAL INCLUSION 23
+
+4.1 Introduction 23
+
+4.2 Gender Equality Analysis 23
+
+4.3 Social Inclusion Analysis 24
+
+4.4 Policy Areas for GESI in Emerging Digital Technologies 26
+
+5 DISCUSSION AND RECOMMENDATIONS 26
+
+5.1 Discussion 26
+
+5.2  Key Findings 27
+
+5.3 Recommendations 28
+
+REFERENCES 30
+
+Appendix A – Survey Instrument for Researchers and Innovators 34
+
+Appendix B – Survey Instrument for Policy- Makers, Funders and Decision-Makers 36
+
+
+
+
+
+1 INTRODUCTION
+
+1.1 Background Information
+
+Data generation is  growing exponentially,  driven by the rapid
+increase  in  devices  such  as  mobile  phones,  computers,
+sensors, etc., connected to the Internet and thus to databases.
+The new data sources and technologies (e.g. machine learning
+algorithms)  "can  identify  patterns  in  observed  data,  build
+explanatory  models,  and  make  predictions  quicker  and  with
+more  accuracy  than  humans".1 Emerging  digital  technologies
+(EDT) and X-Data-based applications, for example, have been
+used to develop mitigation measures against Malaria, Zika, and
+Dengue Fever  in  India,  identify  lower-priced generic  drugs in
+South Africa (SA)2  and tackle flooding in Indonesia.3 However,
+these algorithms are mainly created in developed countries and
+often lack transparency arising from intellectual property rights,
+thus hindering the realisation of the enormous potential EDT/X-
+Data-based  applications  have  in  addressing  socio-economic
+challenges faced by developing countries, where data literacy
+levels  are  also  often  insufficient  to  leverage  on  data-driven
+approaches fully.4  In addition, where applications do exist, they
+are often not broadly accessible, especially for vulnerable and
+marginalised groups and persons with disabilities in areas with
+slow internet connections. 
+
+This  study  unpacks  the  generic  term  "big  data"  into  four
+overlapping  categories  of  data:  big  data,  open  data,  user-
+generated  data  and  real-time  data,  and  collectively  refers  to
+them as "X-Data". Reaping the full benefits of X-Data requires
+the  development  of  supportive  systems,  including  more
+approaches to collect, aggregate, analyse, and visualise data,
+as well as building the capacity of communities involved in data
+generation,  governance, and usage.5 Such systems are often
+limited  or  absent  in  developing  countries,  thus  creating  new
+digital  divides  between  developing  and  developed  countries.
+Whereas the access to technology gap is narrowing, gaps in
+social integration and the impact of technology are increasing.6
+
+Further,  barriers  persist  in  the  use  and uptake  of  X-Data  by
+decision-makers,  including competing data sources,  quality  of
+data,  limited  awareness  of  data  existence,  and  inadequate
+transformation of  data into useful  information or  tailoring it  to
+match decision-makers needs.7
+
+EDT are often used together and include artificial  intelligence
+(AI),  blockchain,  Geographic  Information  Systems  (GIS),
+Internet  of  Things  (IoT),  and  big  data  analytics.  AI  includes
+systems, techniques and methods that incorporate human-level
+intelligence at  much faster  speeds,  for  example,  data  mining
+(including  artificial  neural  networks,  Bayesian  networks  and
+support vector machines), machine learning, natural language
+processing, computer vision, and expert systems.8 Collectively,
+they provide enhanced data analytics, better decision-making,
+and improved predictive analysis. 
+
+Kenya and South Africa have for the past few years ranked high
+in Sub-Saharan Africa (Kenya: 4/41 in 2020 and 3/41 in 2021
+and 2022; and South Africa: 2/41 in 2020, 2021 and 2022) and
+reasonably well globally (Kenya: 71/172 in 2020, 78/160 in 2021
+
+1 Wesolowski et al (2013)
+2 Wesolowski et al (2013)
+3 openup.org.za
+4 petajakarta.org
+5 Joubert et al (2021)
+6 GIZ (2014)
+7 Wesolowski et al (2013)
+8 Mgala, M. (2020)
+
+and 90/181 2022; and South Africa: 58/172 in 2020, 68/160 in
+2021 and 68/181 in  2022)  on the Government  AI  Readiness
+Index.9 The  index  evaluates  how  ready  a  government  is  to
+implement AI in delivering public services. However, the Sub-
+Saharan African countries have the lowest average scores on
+households with internet access and the cost of the cheapest
+internet-enabled  device  relative  to  Gross  Domestic  Product
+(GDP) per capita.10
+
+A definition of GIS is a computer system for capturing, storing,
+checking,  and displaying  data  related  to  positions  on  Earth's
+surface. GIS can show different data types on one map, such as
+streets, buildings, and vegetation, enabling easier visualisation,
+analysis, and understanding of patterns and relationships.11 The
+hardware and software systems incorporate many data types,
+including cartographic, photographic and digital data.
+
+Big data combines structured, semi-structured and unstructured
+data collected by organisations. Big data analytics mines this
+data  for  information  for  machine  learning  projects,  predictive
+modelling,  and other advanced analytic  applications to create
+value. Characteristics include great variety, high volume and the
+need for faster processing times. Blockchains are decentralised
+databases that permanently,  without third parties, record user
+transactions.  The  transactions  are  cryptographically  chained
+(thus cannot be altered) and shared with the linked users. 
+
+A definition of IoT is a network of things embedded with sensors,
+software, and other technologies. They connect and exchange
+data with other devices and systems through the Internet. Using
+low-cost computing, the internet cloud, big data analytics and
+mobile  technologies,  physical  objects  (ranging  from everyday
+household  appliances  to  complex  industrial  applications)  can
+share and collect data with minimal human intervention.
+
+This  study  aimed  to  take  a  deep  dive  into  and  assess  the
+maturity  level  of  the  EDT  ecosystems  in  Kenya  and  South
+Africa, focussing on their applications in the context of X-Data. It
+builds upon the United Kingdom (UK), Foreign Commonwealth
+Development Organization (FCDO) – Funded project; Emerging
+technologies  in  Kenya  and  South  Africa  -  A  Landscape
+Analysis.12 
+
+1.2 Methodology
+
+The approach involved an in-depth literature review, a review of
+the policy and regulatory environment, stakeholder engagement
+through interviews/surveys, and an assessment of the maturity
+of the emerging digital  technologies ecosystem in Kenya and
+South  Africa.  The  literature  review  followed  a  multi-vocal
+systematic approach13 of both peer-reviewed academic articles
+and grey literature covering the development and use of EDT in
+Kenya. The grey literature reviewed focussed on reports, trade
+journals,  technical  papers,  books  and  book  chapters.  The
+governance  frameworks,  embodied  in  policies,  laws,  and
+regulations  relevant  to  EDT  and  arising  from  the  literature
+review, were identified and synthesised, providing an overview
+of the regulatory and policy environment. 
+
+Maturity or development stage models of an ecosystem provide
+tools for assessment of where an ecosystem is in its life cycle.
+They  provide  insights  into  the  status  of  recognised  success
+
+9 openup.org.za
+10 National Geographic Society, 
+www.nationalgeographic.org/encyclopedia/geographic-information-system-gis/
+11 petajakarta.org
+12 Madara et al., (2022); Hanlin et al., (2022)
+13 Joubert et al (2021)
+
+1
+
+
+
+factors  essential  for  the  ecosystem's  maturity,  health,  and
+sustainability.  For  example,  the  Ecosystems  Connections
+Mapping  Project  developed  a  model  to  establish  the
+development stage of localised start-up ecosystems. It defined
+three  development  stages  (nascent,  advancing,  and  mature)
+based  on  measurable  metrics  linked  to  the  dimensions  of
+community,  skills,  supporting  infrastructure,  investment,  and
+constraints. The World Bank used the methodology to assess
+the development stages of start-up ecosystems in several cities,
+including Bogata, Dar es Salaam, Cairo, London, New York, and
+Singapore.14 The  International  Telecommunications  Union
+developed an ecosystem maturity  model  whose development
+stages  followed  the  entrepreneurship  cycle:  pre-idea  and
+culture,  ideation,  start-up,  valley  of  death,  and  SME.  These
+stages are evaluated based on five dimensions corresponding
+to  critical  stakeholders:  entrepreneurs,  finance,  support,
+corporate,  academia,  and government.15 A maturity  model  for
+software  start-up  ecosystems  was  developed  with  four
+development  stages:  nascent,  evolving,  mature,  and  self-
+sustaining.16  These  stages  are  assessed  along  eight
+dimensions:  existing  strategies,  entrepreneurship  universities,
+angel funding, culture values for entrepreneurship, specialised
+media,  ecosystem data and research,  ecosystem generations
+and events. These models, however, do not adequately capture
+the peculiarities nor  properly  define the stages of  maturity  of
+EDT.  An  emerging  technologies  ecosystem  maturity  model
+developed  by  Ogot  et  al.17 was  used  for  this  study.  A brief
+description of the model follows.
+
+1.3 Emerging Technology Maturity Model
+
+The emerging technologies maturity model is based on the five
+fundamental activities of the innovation processes framework.18
+
+The activities—education,  research (basic  developmental,
+engineering),  implementation (manufacturing,  deployment),
+end-use (customers of  the product  or  process),  and  linkages
+(bringing together  complementary knowledge)—are performed
+or supported by primary and secondary actors and institutions.
+Collectively,  they  form  the  critical  elements  of  an  innovation
+system. Table 1.1 presents their relationships. 
+
+14 World Bank (2017)
+15 GIZ (2014)
+
+16 Cuiker (2017)
+17 Ogot et al., (2022); Hanlin et al., (2022)
+18 Wesolowski et al (2013)
+
+Education focuses  on  the  university  level  Higher  Education
+Institutions (HEIs) that provide the ecosystem with a continuous
+stream  of  new  knowledge  (for  example,  publications  and
+patents) and new carriers of knowledge (students). They create
+"qualified personnel [in the ETs] who can monitor technological
+and other trends, assess their relevance to the prospects for the
+country and individual firms, and help to develop a strategy for
+reacting  to  and  taking  advantage  of  those  trends".19 On  the
+other hand, research embodies basic research carried out by
+universities  and  research  institutes.  (Universities,  research
+institutes,  and  industry  conduct  research  development,  while
+industry  mainly  performs  engineering  research).  End-use
+embodies the final consumers of the developed products and
+services and ranges from individual consumers to society. Their
+strong and visible changes in preferences influence the setting
+of Research and development (R&D) priorities and technological
+change direction.  
+
+Linkages between  the  actors  are  essential  for  successful
+innovation,  diffusion,  and  exploitation  (Liu  and  White,  2001).
+However,  effective  connections within  innovation systems still
+need to be improved in developing countries, including Kenya.
+Finally,  implementation involves  the  conversion  of  research
+(knowledge) using linkages (networks) and end-use (markets) to
+exploit  new  business  opportunities.  The  key  actors  are  the
+entrepreneurs,  the  start-ups,  and  existing  businesses
+(diversifying their business strategy to take advantage of new
+developments and opportunities). New technologies often only
+compete  with  existing  entrenched  technologies  if  they  are
+disruptive.  Consequently,  organisations  must  implement
+strategies to support their diffusion into the market.
+
+Primary actors are the organisations that perform one or more of
+the  five  fundamental  activities,  including  governments,
+universities,  research institutes,  and private enterprises.  They
+also  include  bridging  institutions  that  act  as  intermediaries
+(linkages) between the different actors, for example, research
+councils  and  associations  linking  research  organisations  and
+government,20 science  and  technology  parks,  incubators  and
+accelerators. Secondary actors are mainly relevant government
+ministries/departments/agencies  (MDAs)  and  funding
+institutions.  Their  actions  include  enacting  facilitative  foreign
+direct  investment  policies,  ensuring  substantial  intellectual
+property  rights  to  provide  an  incentive  for  multinational
+
+19 Ogot et al (2022); Hanlin et al (2022)
+20 Feinson (2003)
+
+2
+
+
+
+companies  to  conduct  research  locally;21 directly  funding
+research and financing utilisation of the research outputs; and
+establishing  a  favourable  regulatory  environment.22 Funding
+institutions,  including  banks,  equity  funds,  venture  capitalists,
+and angel investors, support implementation activities. Finally,
+institutions capture  the  norms,  rules  and  environment  that
+influence  the  decisions  and  actions  of  system actors.23 They
+include the political establishment, for example, parliament and
+the judiciary,  which determine the extent to which democratic
+governance or the tolerance for and the nurturing of a culture of
+corruption, both of which can serve as barriers or enablers to
+innovation.24 Table  1.2  presents  indicators  for  each  of  the
+fundamental activities.
+
+The  emerging  technologies  maturity  model  defines  three
+developmental stages: ideation, nascent, and growth as the final
+stage.  A mature  development  stage,  typical  in  other  maturity
+models,  is  absent  as  a  stage  of  maturity  implies  that  the
+technology is no longer emerging. The ideation stage is beyond
+basic research and testing fundamental  principles.  It  includes
+R&D activities with pilots and proof-of-concepts performed on
+potential commercial applications. The nascent stage embodies
+the  early  development  and  formation  of  the  ecosystem.
+Characteristics  include  extreme  ambiguity  driven  by
+technological  uncertainties,  competition,  structures  and
+demands. There is generally still a lack of governance structures
+and clear guidance on value propositions (the value to create,
+who to create it for, and how to create it) as well as the systems
+for value creation and value capture;25  Commercial  ventures
+have been formed, and sales have begun. Finally, in the growth
+stage,  the  commercial  applications  of  the  technology  start
+gaining strong acceptance in the market with increased demand
+and new entrants, and the ecosystem governance structures are
+becoming more evident. Table 1.3 presents' indicators metrics
+for the three maturity stages. 
+
+Detailed  stakeholder  mapping  of  the  emerging  digital
+technologies actors in both countries, previously performed in
+
+21 Ibid
+22 Smith and Sharmistha (2010)
+23 Lundvall et al (2006)
+24 Cukier (2017)
+25 Ogot et al. (2023)
+
+an  earlier  project,26 were  updated.  Questionnaires  were
+developed and sent to a sample of two groups of stakeholders
+in  each  country:   (a)  researchers  and  innovators  and  (b)
+policymakers,  funders,  and  decision-makers.  Copies  of  the
+questionnaires  are  in  Appendix  A and  B.  The  questionnaires
+were mainly composed of Likert-Scale type questions with a few
+open-ended questions. For the latter, analyses of the responses
+employed  qualitative  content  analysis  (QCA),  defined  as
+“qualitative data reduction and sense-making effort that takes a
+volume  of  qualitative  material  and  attempts  to  identify  core
+consistencies and meanings.”27 It  is  inductive,  "grounding the
+examination of topics and themes, as well as inferences drawn
+from them, in the data."28 and is based on the grounded theory
+approach. The focus, therefore, is to determine unique themes
+that can illustrate a range of interpretations of the issue at hand.
+Using QCA provides good contrast  and directly  complements
+the  quantitative  approach  used  in  the  first  half  of  the
+questionnaire,  where  the  interventions  for  interrogation  were
+predetermined. QCA extracts the proposed interventions from
+the stakeholder's responses.
+
+The analysis used emergent themes as the unit  of  measure.
+These  were  expressed  by  a  few  words,  phrases  or  whole
+paragraphs.  The  key  focus  was  the  expression  of  an  idea.
+Development  of  the  themes  from  the  responses  used  the
+constant  comparative  method  that  involved  the  systematic
+comparison of text assigned to a theme with the text already
+assigned  to  it  to  ensure  consistency  and  to  understand  the
+theoretical  properties  of  the  category  better.  These  were
+captured  and  continually  updated  in  a  coding  table.  The
+responses were analysed several times to ensure accuracy and
+completeness. The themes were changed, and the coding table
+was updated accordingly when necessary.
+
+The collected primary and secondary data formed the basis for
+assessing  the  maturity  levels  of  the  emerging  digital
+technologies ecosystems in both countries.
+
+26 Ogot et. (2022); Hanlin et al., (2022)
+27 Patton, M.Q. (2002)
+28 Zhang, Y. and Wildemuth, B. (Unpublished) 
+
+3
+
+
+
+2. MATURITY OF THE EMERGING DIGITAL 
+TECHNOLOGIES ECOSYSTEM IN KENYA
+
+2.1 Introduction
+
+The  following  sections  discuss  the  level  and  details  of  the
+primary  and  secondary  actors'  activity  in  Kenya's  emerging
+digital  technologies  ecosystem.  Their  assessment  provided
+insight into the maturity level of the ecosystem.
+
+2.2 Primary Actors
+
+Perspectives were obtained from twenty-five  researchers  and
+innovators  from  across  Kenya  to  supplement  the  collected
+secondary data. They included members from the private and
+public  sectors,  with  52% from academia,  20% from research
+institutions and 28% from the private sector.  The participants
+included  research  scientists  (24%),  lecturers  (24%),  ICT and
+
+innovation  directors  (16%),  and  data  analysts  (8%)  among
+others.  Further,  88% of  the participants were male,  and only
+12%  were  female.  These  proportions  reveal  the  prevailing
+gender disparities in the ecosystem. 
+
+All  participants  had  post-graduate  degrees,  with  72%  of  the
+respondents having a Master's degree as the highest academic
+qualification and 28% having a PhD. Further,  the participants
+possessed varied levels of experience in academia or research,
+ranging from below 5 to 25 years, specifically, 8% with over 15
+years  of  experience  in  academia  and  research,  48%  with
+between 6 to 15 years of experience, and 44% with below five
+years  of  experience.  The  following  sections  present  the
+secondary data analysis and the primary actors' perspectives.
+
+Education
+
+The  percentage  of  universities  offering  undergraduate  EDT-
+related  programmes  (excluding  GIS,  whose  programmes  are
+separate)  was 52.4%. The programmes produce an excellent
+
+4
+
+
+
+human resource for developing products and services based on
+current technologies. The EDT-related programmes dramatically
+dropped  at  the  Masters  level  and  fell  further  for  Ph.D.
+programmes,  where only  12.7% and 6.3% of  the universities
+offered related programmes. As a result,  the country remains
+weak in developing new EDT, typically undertaken by Masters
+and PhD students and graduates.  For  GIS,  the proportion of
+universities  offering  related  undergraduate  programmes  was
+11.1%, with  only  6.3% and 3.2% offering the programmes at
+Masters and PhD levels, respectively.29 Therefore, there needs
+to be a more robust human resource pipeline supporting local
+research and development of GIS-related applications.
+
+Primary  data  analysis  from  a  sample  of  researchers  and
+innovators revealed that 56% had undertaken various courses
+and  training  on  EDT  and  X-Data  (see  Table  2.1).  Such
+undertakings are essential  in building capacity and enhancing
+experts' potential in the ecosystem.  
+
+Table 2.1: EDT/X-Data-Related Courses Attended by 
+Surveyed Researchers and Innovators in Kenya
+
+Course
+No. of
+
+participants Percent
+
+Big data and analytics 7 50%
+
+Internet of Things 3 21%
+
+Artificial Intelligence 2 14%
+
+GIS 2 14%
+
+Cloud Computing 1 7%
+
+Open data 1 7%
+
+Machine learning 1 7%
+
+Innovation Sandbox 1 7%
+
+TVET institutions train hands-on workers for industry, and their
+students produce many innovative products. Many innovations
+come  from  industry,  emanating  from  solving  production  and
+process  challenges.30.  TVETS  significantly  contribute  to
+innovation  by  prototyping  and  designing  innovative  products.
+Their teaching methods that combine knowledge and skills are
+very effective in innovation development, key to the exploitation
+of EDT31. Innovations include the solar-powered vehicle with a
+mobile  application  to  detect  obstacles  and  prevent  accidents
+from  Nyeri  National  Polytechnic  and  smart  water  meters  by
+Eldoret National Polytechnic, among others. TVETs have other
+innovations that  can be enhanced using EDT,  including solar
+desalination machines, irrigation pumps and systems, driers and
+cookers. 
+
+TVET institutions have a critical role in innovation development
+and  implementation  processes  by  acting  as  mechanisms  of
+skills formation and diffusion. Developing and implementing vo-
+cational curricula are some of the most fundamental activities in
+TVET systems, especially considering the recent impacts of new
+
+29 Ganter de Otero, Jan Peter (2019)
+30 openup.org.za
+31 Ganter de Otero, Jan Peter, 2019, Innovation in TVET: UNESCO-UNEVOC 
+Trends Mapping. UNESCO-UNEVOC International Centre for Technical and 
+Vocational Education and Training
+
+technologies related to industrial automation or the changes in
+working environments and practices.32
+
+Poor performance in the Kenya Certificate of Primary Education
+(KCPE)  exams  often  serves  as  a  strong  indicator  of  those
+students not meeting their career aspirations. AI tools were used
+to identify  students who needed intervention to  improve their
+KCPE exam performance two years before the exam. Based on
+student records, the intervention prediction models in the pilot
+study  were  relatively  accurate  in  enabling  educators  to  take
+appropriate measures early enough.33 IBM Research Africa has
+been working  with  RTI  International  to  use  AI,  cognitive  and
+mobile technologies targeting schools where students have a
+high risk of failure. The initiative captures data, including class
+size,  grades,  and  school  resources,  to  propose  various
+interventions.  IBM  is  also  exploring  AI  technology  that  can
+support  students  in  Nairobi  to  personalise  their  learning
+experience.34
+
+Research
+
+The recent entrance of multi-national and development partners
+in R&D centres has increased research actors. The centres are
+tapping into local expertise to conduct contextualised R&D while
+acting as nodes within their global R&D activities. For example,
+the Microsoft Africa Development Centre (in Nairobi since 2019)
+is  working  on  software  engineering,  machine  learning,  data
+science, market research, and ICT infrastructure. IBM Research
+Africa,  anchored  in  Kenya  and  South  Africa,  is  an  industrial
+research facility that seeks to "drive innovation by developing
+commercially viable solutions to transform lives and spark new
+business  opportunities."   Their  digital  products,  based on  AI,
+blockchain, and data analytics (among others), support water,
+agriculture,  transportation,  healthcare,  financial  inclusion,
+education, energy, security and e-government businesses.  
+
+Despite the apparent growth in EDT applications in Kenya, the
+absence  of  significant  R&D  has  resulted  in  most  deployed
+applications  relying  on  non-African  technologies.  As  a  result,
+they often lack contextual relevance, especially about aspects of
+culture and infrastructure (Oxford Insights and IDRC, 2019). The
+main  areas  of  EDT research  were  agricultural,  conservation,
+education,  fintech,  governance,  and  health  sectors.  For
+example,  of  the  surveyed  stakeholders,  48%  worked  in
+agriculture,  another 28% in health and the remaining 12% in
+governance (see Table 2.2). 
+
+The study participants'  research touched on all  the stages of
+development  from  Just  Starting  to  Ready  for
+Deployment/Commercialisation  or  Publication  (see Figure 2.1).
+Although 32% indicated they would  likely  file  for  a  patent  or
+copyright  in  the  next  year,  none  had  previously  filed  one.
+Examples of EDT/X-data research and innovations from various
+sectors follow.
+
+Agriculture
+
+The Kenya Marine and Fisheries Research Institute has been
+working  with  international  partners  to  use  unmanned  aerial
+systems  (drones),  high-resolution  satellite  imagery,  and
+Geographic  Information Systems (GIS)  to  map the spread of
+tilapia  cages  on  the  Kenya  part  of  Lake  Victoria.  This  data-
+
+32 National Geographic Society, 
+www.nationalgeographic.org/encyclopedia/geographic-information-system-gis/
+33 petajakarta.org
+34Ogot et al., 2022; Hanlin et al., 2022.
+
+5
+
+
+
+intensive system provides spatial and change detection, yielding
+a deeper understanding of the impacts of growth in commercial
+fish cage culture.35
+
+Table  2.2:  Sectors  Targeted  by  Surveyed  EDT/X-Data
+Researchers and Innovators in Kenya
+
+Sector No. Percent
+
+Agriculture 12 48%
+
+Health 7 28%
+
+Governance 3 12%
+
+Creative arts 1 4%
+
+Marketing 1 4%
+
+Cities 1 4%
+
+Conservation 1 4%
+
+Cyberspace 1 4%
+
+Fisheries and Aquaculture 1 4%
+
+Livelihoods 1 4%
+
+Safety and Security 1 4%
+
+Transport 1 4%
+
+Figure 2.1: Stage of Current EDT/X-Data Research Activities
+of Surveyed EDT/X-Data Researchers and Innovators in 
+Kenya
+
+The Kenya  Agricultural  and  Livestock  Research  Organization
+(KALRO), through the Kenya Climate-Smart Agriculture Project
+(KCSAP)  and  the  National  Agricultural  and  Rural  Inclusive
+Growth Project, has established a big data platform to transform
+the agriculture and food system in the country. The platform has
+enabled KALRO to integrate agro-weather data,  market  data,
+and farmer data to  provide customised geospatial  and timely
+agro-weather  and  market  information  to  farmers  and
+policymakers36.
+
+Conservation
+
+Researchers  at  Dedan  Kimathi  University  have  created  a
+camera  trap  data  set  of  six  wildlife  species  captured  in  a
+conservancy  in  Nyeri.  Zoologists,  ecologists  and  researchers
+
+35 Hamilton et al. (2020)
+36 https://olc.worldbank.org/print/content/digital-ag-series-big-data-platform-
+scaling-data-driven-digital-agriculture-learnings-kenya
+
+use camera traps to acquire wild animal images non-intrusively
+for ecological and conservation research. The dataset that has
+been made globally available has over 10 thousand images.37 
+
+Governance
+
+Hate speech propagated over social  media platforms through
+text messages, pictures, videos, emojis, etc., is becoming a big
+problem  worldwide,  often  with  deadly  consequences.  Hate
+speech distributed over social media is more challenging than
+traditional media (for example, newspapers, TV, and radio) as it
+can be quickly produced and distributed anonymously at a low
+cost,  potentially  reaching  a  global  audience  in  real  time.
+Researchers in Kenya have been working on AI models that can
+detect  political  hate  speech  propagated  over  social  media
+platforms.38
+
+Health
+
+Inadequate  access  to  microscopy  diagnostics  remains  a
+problem in limited resource settings, which impedes diagnosing
+and  treating  common  and  treatable  conditions.  Digital
+microscopy  and  artificial  intelligence  using  deep  learning
+present opportunities to address these challenges.39 A team of
+researchers  conducted  a  pilot  study  in  Kinondo  to  establish
+whether  point-of-care  digital  microscopy  and  AI-based
+assessment of samples (through image and signal processing)
+can  analyse  cervical  cancer  test  results.  Cervical  cancer  is
+highly preventable yet remains a common and deadly disease in
+areas  without  screening  programmes  due  to  a  lack  of
+pathologists.  Their  AI-supported approach was able  to  detect
+atypical  cervical  smears  with  the  same high  sensitivity  as  a
+visual analysis done by a pathologist.40  IBM Research Africa is
+developing  computational  platforms  and  tools  (for  example,
+understanding  natural  language  and  images,  bioinformatics)
+enabling the mining of biological and medical data to transform
+the  prevention,  diagnosis,  treatment  and  management  of
+disease, with a current focus on tuberculosis and HIV.41
+
+The Kenya Health  Management  Information System (KHMIS)
+project  develops  and  maintains  an  integrated  National  Data
+Warehouse (NDW) for anonymised patient-level data. The NDW
+acts  as  a  repository  and  analytics  platform  through  the
+connection, collation, and aggregation of patient data from all
+electronic medical records in the country42. It hosts de-identified
+data to facilitate programmatic monitoring of Health Information
+System  implementations  and  progress  on  clinical  care  and
+outcomes  for  HIV-infected  and  exposed  persons.
+Also,researchers at Jomo Kenyatta University of Agriculture and
+Technology  are  researching  data  analytics,  specifically
+incorporating  data  visualisation  to  develop  techniques  to
+strengthen  healthcare  insurance  management.  The  approach
+can provide deeper insights into healthcare insurance data by
+revealing  previously  undetected  data  integrity  issues,  cost
+management pointers, case management insights and scheme
+performance, thereby guiding premium entitlement and ailment
+cost burden management.43 
+
+Primary  data  from  surveyed  researchers  and  innovators
+revealed that machine learning is the most commonly used EDT
+(44%), followed by AI (24%), as shown in Figure 2.2. Also, the
+
+37 https://www.sciencedirect.com/science/article/pii/S2352340922010666
+38 Mahony et al., 2019
+39 Beck, H.P., 2022
+40 Holmstrom et al (2021)
+41 Ganter de Otero, Jan Peter (2019)
+42 https://kenyahmis.org/documentation/summary-national-data-warehouse/
+43 https://www.jkuat.ac.ke/big-data-poised-to-revolutionise-healthcare-industry/
+
+6
+
+
+
+most  frequently  used  data  source  is  real-time  data  (44%),
+followed by user-generated data (32%). 
+
+Journal  publications  are  critical  research  outputs  in
+disseminating research findings and knowledge transfer. Table
+2.3 presents journal publications output related to EDT/X-Data
+from  our  participants.  56%  of  the  them  had  published  their
+research outputs in journals with the distributions shown therein.
+
+Researchers  and  Innovator  participants  were  asked  to  state
+three challenges they faced. The QCA analysis revealed four
+emergent themes: Inadequate resources, data, researchers and
+innovator aspects, and commercialisation. Table 2.4 presents a
+description  of  each  of  the  themes  that  emerged,  sample
+quotations from the respondents,  thereby placing the derived
+theme in a better context, when the coding was used and how
+many times different respondents proposed the themes. Areas
+submitted by only one respondent were omitted.  The themes
+provided  suggestions  for  possible  intervention  areas  to
+strengthen the EDT/X-Data ecosystem. Overwhelming, the main
+challenge faced by researchers and innovators was inadequate
+resources, specifically computational and financial resources.
+
+Table 2.3: Number of publications Directly Related to 
+EDT/X-Data by Surveyed Researchers and Innovators in 
+Kenya
+
+No. of publications
+No. of
+
+Researchers Percent
+
+0 11 44%
+
+1 6 24%
+
+2 1 4%
+
+3 2 8%
+
+4 1 4%
+
+5 3 12%
+
+6 1 4%
+
+End Users
+
+By March 31,  2023,  internet  subscriptions in  Kenya stood at
+47.96 million, out of which 67.1% were on mobile broadband44.
+There were 66.1 million mobile (SIM) subscriptions, translating
+to a mobile (SIM) penetration rate of 130.5% (greater than 100%
+as  many  people  had  more  than  one  SIM).  Mobile  money
+subscriptions stood at 38.4 million, translating to a penetration
+rate of 76%. At the same time, the number of mobile devices
+was 62.96 million,  translating to  a  device penetration rate  of
+124.5%.  The  penetration  rate  for  feature  phones  and
+smartphones  was  66.2%  and  58.3%,  respectively.  Although
+there is a low gender gap in mobile usage, a significant gap
+persists in Internet usage. Mobile money services, led by  M-
+Pesa, have driven high mobile use by both men and women and
+have  significantly  increased  financial  inclusion.  The  mobile
+gender gap stands at only 6%.  
+
+Source: Statistica data for 2020, viewed May 2023
+
+Figure 2.3. What is the Kenya Digital Citizen Doing?
+
+44 https://www.ca.go.ke/mobile-subscriptions-hit-66m-march-2023
+
+7
+
+
+
+The  Internet  usage  gap  between  men  and  women  is  much
+higher  at  38%.45  The  digital  gender  divide  presents  a  big
+challenge  for  women  in  Kenya  to  participate  fully  as  digital
+citizens. A significant gap also exists between rural and urban
+areas. Estimated access to the Internet is 44% in urban areas
+and only 17% in rural areas. Rural communities remain largely
+unconnected  or  use  only  essential  digital  services  due  to
+affordability barriers to the required digital tools (mobile phones,
+Internet access, computers) and lack of basic digital skills. 
+
+Micro,  Small  and Medium Enterprises are often end-users of
+EDT but need more expertise to implement solutions that could
+boost their businesses. Companies such as Fastagger in Kenya
+provide them with the knowledge and solutions customised to
+the enterprise's needs. Specifically, they use AI- and blockchain-
+
+45Fastagger, fastagger.com
+
+powered  analytics  to  harness  the  potential  of  data  to  help
+MSMEs grow by increasing sales and loyalty.  Their  platforms
+process large amounts of data to identify customer patterns and
+trends that are difficult to detect manually.46
+
+Finally, a study of sentiments of tweets over five years (2016-
+2021) on Kenya's Twitter platform relating to the use of AI to
+further the country's socio-economic development was largely
+positive, with 51.5% of the tweets on the topic positive, 49%
+neutral  and none negative. This optimism may be due to the
+young  EDT ecosystem in  Kenya,  compared  to  South  Africa,
+where the development  and adoption of  EDT,  such as AI,  is
+more widespread and practised that the public may be past a
+
+46 Joubert et al. (2021)
+
+8
+
+
+
+"techno-optimism"  phase  as  possible  being  experience  in
+Kenya.47
+
+Linkages
+
+Linkages  within  the  digital  ETs  ecosystem  were  primarily
+through innovation hubs, incubators, accelerators and industry
+associations. Examples include iHub in Nairobi, with an Open
+IoT programme launched  in  September  2020  (in  partnership
+with  GSMA Africa)  as  a  pan-African IoT community  platform,
+facilitating conversations supporting the growth of  the African
+IoT ecosystem; Ibiz Africa, a business incubator that focuses on
+ICT solutions and based at Strathmore University; and NaiLab,
+an ICT incubator that provides a simplified platform providing
+innovators visibility and
+access  to  venture
+capitalists  and
+business  angels  and
+investors.48
+
+Knowledge  transfer
+between academia and
+industry is an essential
+driver of innovation and
+economic  growth  as  it
+eases  the
+commercialisation  of
+new  scientific
+knowledge  within
+firms.49 Knowledge
+Transfer  Offices
+(KTOs)  have  been
+established  in
+universities to  serve as innovation linkage intermediaries and
+facilitate  transfer  activities,   for  example,  spin-off  creation
+support, patent protection and licensing. Institutions with KTOs
+include  Strathmore  University,  University  of  Nairobi,  Dedan
+Kimathi University of Technology, Jomo Kenyatta University of
+Agriculture  and  Technology,  Kenyatta  University,  Meru
+University of Science and Technology and the Kenya Industrial
+Research and Development Institute.
+
+Industry  associations  are  non-profit  organisations  with
+specialised  knowledge  and  capabilities  performing  innovation
+enabler roles. They are an enabler of innovation by identifying
+and legitimising firms, for example, creating industry directories;
+facilitating  the  creation  of  inter-firm  relations,  for  example,
+through networking activities; and by providing increased access
+to resources through network brokerage activities, for example,
+providing access to knowledge in universities and opportunities
+in  foreign  markets.  50.  Examples  of  industry  associations  in
+Kenya  include  the  Global  Innovation  Society  of  Kenya,  an
+association  of  progressive  innovators  with  a  mandate  of
+addressing  the  challenges  facing  startups  and  small  and
+medium enterprises  (SMEs)  in  Kenya  under  the  umbrella  of
+Kenya  Private  Sector  Alliance;  Association  of  Countywide
+Innovation Hubs, an association of hubs located outside Nairobi,
+whose main objective is to promote activities and programs of
+the  member  hubs  and  supporting  their  vision  of  testing  and
+building impactful  sustainable businesses in rural  and second
+tire towns of Kenya; Association of FinTechs in Kenya, driving
+the  adoption  of  digital  innovation  as  a  core  strategy  for
+
+47 Ogot et al., (2022); Hanlin et al., (2022)
+48Hamilton et al. (2020)
+49 Dalziel, Margaret. (2006)
+50 Ibid
+
+efficiency, scalability, and competitive positioning in the financial
+sector,  while  fostering  national,  regional  and  international
+cooperation in digital innovation; and the Association of Startups
+and  SMEs  Enablers  of  Kenya,  an  association  that  brings
+together  and  represents  the  interests  of  organisations
+supporting the development and growth of startups and SMEs.
+
+Several annual conferences bring together players in the sector.
+These include the Connected Summit,51 organised by the ICT
+Authority and the Ministry of ICT since 2009. It brings together
+over one thousand leaders, policymakers, industry champions
+and  executives,  financiers,  ICT  innovators,  and  related
+associations and networks, including the Computer Society of
+Kenya  and  the  Kenya  ICT  Action  Network52.  The  Kenya
+
+Innovation  Week
+(KIW),  now  in  its
+second  year,  is
+organised by KeNIA to
+provide  a  platform for
+innovators,
+entrepreneurs,
+investors  and
+government officials to
+share  ideas  and
+showcase  practical
+skills  that  lead  to
+innovation  and  with
+impact  on  society53.
+Also,  the  Nairobi
+Innovation Week is an
+annual  event
+organised  by  the
+
+University  of  Nairobi  to  celebrate  local  and  international
+innovations, address critical issues in innovation management
+and  build  Kenya's  innovation  ecosystem54.  Other  universities
+and TVETs across the country have also organised innovation
+weeks  to  provide  a  platform  for  showcasing  and  networking
+among various actors in the ecosystem.   
+
+The survey of researchers and innovators found that they took
+advantage  of  several  platforms  for  learning,  networking  and
+disseminating  their  work  outputs,  especially  conferences
+attended, presented at, and organised, as shown in Figure 2.4.
+However,  a  majority  of  researchers  had yet  to  attend (36%),
+present  at  (52%)  or  organise  (68%)  a  conference  in  Kenya
+touching on EDT/X-Data.
+
+Research  collaboration,  especially  between  academia  and
+industry, presents opportunities for learning, networking, pooling
+of  resources  and  pathways  to  commercialisation,  thus
+strengthening  the  ecosystem  through  linkages  between  the
+actors.  Of  the  study  participants,  44%  had  and  continue  to
+collaborate with industry (see Table 2.5).
+
+Implementation
+
+With the increase in EDT, organisations must create strategies
+for their commercialisation. EDT innovations are disruptive and
+are  rapidly  being  developed  in  many  forms,  touching  on  all
+sectors of the economy. A commercialisation strategy is needed
+to  expound  on  how  EDT  innovators  can  protect  their
+
+51Computer Society of Kenya, cskoline.org
+52 GIZ, (2006)
+
+53 https://kenyainnovationweek.com
+54https://vc4a.com/nairobi-innovation-week/
+
+9
+
+
+
+innovations, some of which are not patentable in the traditional
+sense due to their nature as software applications. Thus, other
+methods,  such  as  data  rights,  licensing  contracts  and
+copyrights, are available for protection. Establishing a monetary
+value  system  to  determine  EDT  value  for  licensing  and
+contracting to investors shall prevent innovator exploitation.
+
+Table  2.5:  Research  Collaborations  by  Surveyed  EDT/X-
+Data Researchers and Innovators in Kenya
+
+ Type of collaboration Researchers
+
+Collaboration with industry in current 
+research activities 44%
+
+Collaboration with industry in past research 
+activities 44%
+
+Collaboration with other 
+universities/research institutions in current 
+research activities 32%
+
+Collaboration with other 
+universities/research institutions in past 
+research activities 28%
+
+The  institutionalisation  of  an  EDT commercialisation  process
+must  firmly  be  established  in  the  Kenya  National  Innovation
+Agency to address the fragmented approach from various public
+and  private  sector  initiatives.  A  framework  to  guide  the
+negotiation at the time of licensing and contracting needs to be
+structured to avoid exploitation of innovators by investors where
+the EDT owner can choose to remain as a founding director in
+the startup, get royalties, or sell off the whole innovation. The
+study found implementation of EDT mainly in the agricultural,
+education,  financial,  health,  manufacturing  and  transport
+sectors. Examples from each of the sectors follow.
+
+Agriculture
+
+Shamba Records,55 based in  Nairobi,  provides several  digital
+tools  leveraging  AI  and  Blockchain  to  help  farmers  in  sub-
+Saharan Africa increase their  yields,  become more profitable,
+track  and  trace  their  crops,  and  exploit  new  market
+opportunities.  For example,  their  real-time data collection tool
+collects  farmer's  production  data,  linking  it  to  aggregation
+centres and the market. The company automates payments to
+the farmers, credit scoring, credit issuance, market linkage and
+agricultural  extension  services  for  the  entire  process.  The
+company leverages blockchain technologies to eliminate ghost
+farmers and prevent manipulation of farm or harvest records.
+The technology also underpins smart contracts between farmers
+leasing  land  from  other  farmers.  In  2019,  more  than  six
+thousand farmers in Kenya in the coffee, tea, and dairy sectors
+were using the platform.
+
+Education
+
+Eneza  Education56 provides  revision  and  study  materials  for
+learners 10 to 18 years old through an SMS system (for legacy
+phones) or a web portal. Millions of students in Kenya, Ghana
+and Cote d'Ivoire use the AI-based tutoring system to receive
+quality and inclusive education.
+
+Financial
+
+55 https://www.shambarecords.com
+56 https://enezaeducation.com
+
+Developing  countries  are  increasingly  using  AI  to  develop
+solutions  to  critical  challenges,  including  providing  financial
+services to under and unserved populations. Machine learning
+algorithms and the growth in digital users make using AI-based
+credit scoring possible. For example, M-Shwari, a product of the
+Kenya  telecom  giant  Safaricom,  uses  machine  learning
+algorithms  to  predict  default  rate  probabilities  of  potential
+borrowers to determine who to provide small loans to and the
+maximum  amounts.  The  systems  use  non-traditional  data
+resident  on  the  user's  devices,  including  mobile  phone  call
+records,  mobile  money transactions data,  text  messages and
+address books. The automated processes significantly reduce
+the cost of providing these loans. By March 2023, the Digital
+Financial  Services  Association  of  Kenya  (formerly  Digital
+Lenders Association of Kenya) reported that digital lenders had
+disbursed over Ksh500 billion in mobile loans to individuals and
+small businesses.57
+
+Utu Technologies is leveraging AI and blockchain to provide a
+trust infrastructure on the Internet, replacing current anonymous
+star ratings,  reviews and scores.  Their  software and platform
+replace  these  approaches  with  AI-based  tools  that  adapt  to
+users' preferences and context, allowing businesses to provide
+personalised recommendations, thereby increasing conversions
+and sales. They use blockchain to prevent the manipulation of
+reviews and ratings.58 Pezesha leverages AI to provide a digital
+lending infrastructure and marketplace that connects small and
+medium businesses with working capital. Their system supports
+alternative  credit  scoring  and  lending  infrastructure  as  a
+service.59 Similarly, Cherehani Africa provides credit services by
+leveraging  mobile-based  technology  to  provide  credit  and
+distribute personalised financial literacy content to women and
+adolescent girls who own micro-enterprises.60
+
+Sarafu,  a community inclusion currency (vouchers) developed
+by  Grassroots  Economics,  a  Kenyan  non-profit  foundation,
+leverages blockchain to empower marginalised communities to
+take charge of their livelihoods and economic futures. In 2020,
+for  example,  the  "currency"  was  used  by  over  forty-one
+thousand people in 60 villages across Kenya.  They performed
+over 335,000 transactions using their mobile phones, equivalent
+to  $2.5  million.  Through  USSD phone  technology,  users  can
+access the platform without the Internet. Community inclusion
+currencies  enable  groups  to  come  together,  form  their
+currencies  and  build  a  resilient  economic  system  from  the
+bottom up. In July 2023, there were over 13,000 transactions.61
+
+Health
+
+Health informatics is the acquisition, storage, retrieval and use
+of healthcare information to improve the care of patients during
+their  interactions  with  the  health  system.  Electronic  medical
+records  combined  with  AI  provide  opportunities  to  improve
+patient care, decision-making and public health informatics.62 A
+commercialised AI and blockchain-based digital platform,  Afya
+AfyaRekod63,  is  premised  on  the  notion  that  patients  should
+maintain the sovereign ownership right of their health data. The
+electronic medical records platform allows health facilities and
+patients to use the data to make informed decisions, resulting in
+
+57 https://www.money254.co.ke/post/kenyans-make-a-comeback-to-mobile-
+loans-as-inflation-continues-to-bite-money-weekly
+58 https://utu.io
+59 https://pezesha.com
+60 https://cherehani.org
+61 https://www.grassrootseconomics.org/pages/sarafu-network
+62 Lee & Kim, (2021)
+63 https://afyarekod.com
+
+10
+
+
+
+doctors  providing  better  healthcare.  The  platform  enables
+doctors to manage patients' health data in real-time and access
+patients' data from all health facilities they have visited. On a
+broader scale, anonymised data supports disease tracking and
+outbreak  and  pandemic  mapping.  Also,  Bora,  an  electronic
+medical  records system, has been used in Kenya to improve
+maternal  and child  health  and HIV treatment.  The 2015 pilot
+study found that the system helped to close critical care gaps.64
+
+Manufacturing
+
+NumeralIOT is an electronic design and manufacturing company
+that has developed products and services that leverage AI and
+IoT.  They  also  provide  electronic  design  and  manufacturing
+support to other businesses. Examples of their products include
+4G speed governor, vehicle tracking and security devices and
+cashless payment solutions.65
+
+Transport
+
+Hello Tractor, a company that started in Nigeria and is now also
+based in Nairobi, has developed an IoT platform to connect farm
+equipment owners, dealers and banks with farmers who need
+those  services.  The  platform  simplifies  and  makes  fleet
+management  more  profitable.  It  supports  every  aspect  of  a
+tractor  fleet,  from the  operators  to  the  farmer  customers,  by
+enabling the farmer to request affordable tractor services and
+providing  enhanced  security  to  the  owners  of  the  tractors
+through  remote  asset  tracking  (using  Global  Positioning
+Systems  –  GPS)  and  virtual  monitoring  (fuel  management,
+driver management, fraud reduction).66
+
+The  study  sought  the  perspectives  of  ten  policymakers  and
+decision-makers (see Appendix B). The participants were 60%
+male and 40% female.
+
+2.2 Secondary Actors
+
+Governance Frameworks
+
+The government has adopted an approach to EDT that protects
+citizens,  ensures fair  markets,  and enforces regulations while
+enabling technologies and businesses to thrive. This approach
+embraces:67
+
+(a) adaptive  regulation  that  encourages  a  shift  from
+"regulate  and  forget"  to  a  responsive,  interactive
+approach; 
+
+(b) regulatory sandboxes and accelerators for prototyping
+and testing of new systems; 
+
+(c) outcome-based regulations that focus on results and
+performance rather than form;
+
+(d) risk-weighted regulation that moves from one-size-fits-
+all regulations to a data-driven, segmented approach;
+and 
+
+(e) collaborative  regulations  developed  by  engaging  a
+broad set  of  players  across the ecosystem to  align
+national and international regulations.  
+
+The key ministries and agencies active in the ecosystem include
+the  Ministry  of  ICT,  Innovation  and  Youth  Affairs,  which
+developed and is implementing the National ICT Policy (2019).
+The policy provides a proactive framework to guide the orderly
+development  of  the ICT sector;  the Communication Authority,
+among others, issued guidelines on the use of IoT devices; the
+
+64 Haskew et al. (2015a), Haskew et al. (2015b)
+65 https://www.numeraliot.com
+66 https://hellotractor.com
+67Kenya ICT Action Network, kictaet.net
+
+Kenya Civil Aviation Authority issued regulations on the use of
+drones;  the  Central  Bank  of  Kenya  published  guidelines  on
+blockchain-based cryptocurrencies; and  the Office of the Data
+Protection Commissioner whose mission is to protect personal
+data through compliance, enforcement,  public awareness and
+institutional capacity development. Additional government plans
+guiding the sector include the Digital Economy Blueprint (2019)
+and the Kenya National Digital Masterplan (2022). 
+
+Further,  to  ensure  a  responsive,  robust  and  innovative
+regulatory  environment,  the  Ministry  of  Information,
+Communications and Digital Economy in 2023 is updating the
+Kenya  Information  and  Communication  Act  regulations.  The
+revisions shall account for the changes in the sector, address
+current  challenges  and  exploit  emerging  opportunities.
+Regulations under revision include the following:68
+
+ Compliance and Enforcement Regulations, 2023 
+ Consumer Protection Regulations, 2023
+ Domain Name Administration Regulations, 2023
+ Electronic  Certification  Administration  Regulations,
+
+2023
+ Fair Competition Regulations, 2023
+ General Licensing Regulations, 2023
+ Numbering Regulations, 2023
+ Postal and Courier Services Regulations, 2023
+ Radio  Communications  and  Frequency  Spectrum
+
+Regulations, 2023
+ Tariff Regulations, 2023
+ Type  Approval,  Importation  and  Distribution  of
+
+Communication Equipment Regulations, 2023
+ Universal Access and Service Regulations, 2023
+
+One  of  the  applications  of  blockchain  technologies  is
+cryptocurrencies.  In  Kenya,  the  uncertainties  associated  with
+cryptocurrencies  have  generated  significant  debate  on
+developing and implementing robust and up-to-date regulatory
+provisions  to  mitigate  the  risks.69.  Some argue  that  adopting
+cryptocurrencies threatens the centralisation of banking services
+that allow regulators to play the watchdog role. The currencies
+could also provide avenues for money laundering and financing
+of terrorism activities.70 Kenya does not have express regulatory
+provisions for cryptocurrencies. The Central Bank of Kenya has
+only issued cautionary statements to the public71. In Civil  Suit
+No. 08 of 2019 at the Milimani Commercial and Tax Division, the
+judge ruled that cryptocurrencies can be identified as securities,
+placing them within the regulatory scope of the Capital Markets
+Authority72. 
+
+Several  regulations  have  also  been  implemented,  especially
+governing the financial services sector that has widely adopted
+EDT.  These  include  the  Digital  Credit  Providers  Regulations
+2021 by  the  Central  Bank  of  Kenya that  provide  for,  among
+other  things,  licensing  of  digital  credit  businesses  and
+requirements  for  digital  credit  providers  to  put  policies,
+procedures and systems in place to ensure the confidentiality of
+customers'  information  and  transactions.  These  include
+circumstances  for  sharing  customer  information  with  licensed
+credit reference bureaus (CRB), limitations on using customer
+information  obtained  from  CRB,  to  whom  CRB  can  release
+
+68 https://ict.go.ke
+69 Arunda, B., (2021)
+70 Ibid
+71 Ibid
+72 Ibid
+
+11
+
+Madara 
+2.3
+
+
+
+information,  and  various  consumer  protection  requirements.
+These  include  receipts  for  all  transactions,  establishing
+customer  complaints  resolution,  systems  integrity,  divulging
+detailed  and  accurate  product  information,  avoiding  false
+advertisements and variation of credit terms.
+
+A review of tax laws has also sought to keep up with the digital
+economy. For example, the Finance Act of 2019 and 2020 were
+amended to address gaps concerning digital economy taxation.
+Within  the  laws,  digital  service  includes  the  supply  of
+downloadable  digital  content,  subscription-based  media,
+software  programs,  products  on  online  marketplaces,  digital
+media  content,  data  management  services,  search  engine
+services, and any other supply determined by the Commissioner
+of Domestic Taxes. Most of these services are built on EDT. In
+the  Income Tax (Digital  Service Tax) Act 2020,  all  businesses
+selling services online must pay a flat tax of 1.5% on the value
+of services offered through digital platforms and a 16% Value
+Added Tax (VAT). 
+
+Implementation  of  these  tax  regimes  in  the  digital  space
+continues to present several challenges, including73
+
+(a) The  restrictive  nature  of  the  physical  presence
+provisions, especially on the definition of permanent
+establishment and the various double tax treaties in
+determining income taxable in Kenya.
+
+(b) Difficulties  in  collecting  taxes  from  non-residents
+without  a  presence  in  Kenya,  especially  for  VAT
+cases.
+
+(c) Complexities  that  arise  from  seeking  to  define
+consumption  places  for  calculating  VAT  and  other
+indirect taxes.
+
+(d) Difficulties in generating a taxpayers list to enhance
+the identification of services provided, their status as
+resident  or  non-resident,  the  value  of  services
+provided and compliance levels with the relevant tax
+laws.
+
+(e) Inadequate access to digital transaction data, making
+it challenging to identify and track online transactions.
+
+73 Kenya Revenue Authority, (2020)
+
+(f) Lack of consensus on taxation of the digital economy
+at global levels.
+
+Most researchers and innovators surveyed agreed or strongly
+agreed (40%) that  the current  government  policies supported
+research  and  development  of  applications  in  EDT/X-Data.
+However, 32% disagreed or strongly disagreed, and 28% had a
+neutral opinion. Of the surveyed policymakers, 50% agreed that
+the policies were supportive, with 20% strongly disagreeing and
+30% neutral. These similar sentiments show that there is room
+for improvement of the existing policies supporting the research
+on and application of EDT/X-Data. The surveyed policymakers
+also indicated that research outputs adequately inform decisions
+and policies that directly or indirectly affect EDT/X-Data (70%
+strongly agreed or agreed). 
+
+The surveyed stakeholders  recommended six  policy  areas to
+strengthen or develop policies: 
+
+(a) Capacity building: Policies to promote the training of
+individuals  in  data  science  and  analytics,  machine
+learning, and other related fields could help to build a
+skilled workforce capable of developing and analysing
+EDT/X-Data.
+
+(b) Data collection and sharing: Clear policies to regulate
+the collection, sharing, and use of data, including real-
+time data, open data, and user-generated data, that
+ensure ethical and legal data collection that is shared
+in  a  way  to  maximise  its  benefits  to  stakeholders,
+while protecting privacy and confidentiality. 
+
+(c) Incentives  and  funding:  Policies  to  incentivise  the
+adoption and use of EDT and X-Data, including the
+provision of funding or tax incentives for stakeholders
+who  invest  in  these  technologies,  as  well  as  the
+establishment of prizes or awards for innovation and
+best practices in the use of EDT and X-Data. 
+
+(d) Public-private partnerships: Policies to promote public-
+private partnerships that support the development and
+application  of  EDT  and  X-Data,  including  the
+development  of  joint  initiatives between government
+agencies, private sector companies, and civil society
+organisations,  as  well  as  the  establishment  of
+
+12
+
+
+
+regulatory frameworks and standards to guide these
+partnerships.
+
+(e) Intellectual  property:  Simplifying  the  patenting
+process. 
+
+(f) Sensitisation: Of all stakeholders on the importance of
+EDT and X-Data.
+
+Funding Resources
+
+One major challenge that hinders research activities, especially
+on  the  EDT/X-Data  in  Kenya,  is  limited  Research  and
+Development  (R&D)  resources.  Few  researchers  and
+institutions can fully sponsor their research activities, thus the
+need for collaborative research projects to pool resources and
+seek external research funding. Among the study participants,
+60% had funding for their current research activities, with 55%
+from  development  partners  and  27%  from  the  government.
+Figure  2.5  shows  the  funding  sources  for  the  study  group's
+research activities. When asked about the availability of funding
+sources, 67% reported that they were few, and 29% could not
+identify any. 
+
+Strategic  government-to-government  partnerships  enhance
+science  diplomacy  and  cooperation,  provide  a  platform  for
+bilateral  collaborations in  innovation-based R&D and promote
+access to a global  strategic  networking system and a bigger
+pool  of  funding  resources.  Examples  of  funders  to  Kenya
+
+include  the  UK  Foreign,  Commonwealth  and  Development
+Office R&D funding (e.g. UK-Kenya Tech Hub) and GIZ-funded
+Innovation hubs.
+
+Figure 2.5: Sources of Research Funding for Surveyed 
+EDT/X-Data Researchers and Innovators in Kenya
+
+2.3  Maturity Level 
+
+According to the study, the EDT/x-data ecosystem in Kenya is at
+the growth stage of maturity. With reference to Table 2.6, all
+the  fundamental  activities  had  a  growth  stage  rating,  except
+research, which was assessed to be in the nascent stage.
+
+13
+
+Madara 
+2.4
+
+
+
+2.4 Summary
+
+Based on the maturity model, the Kenya EDT/X-Data ecosystem
+is  in  the  growth  stage  of  maturity.  The  research  dimension,
+however, was assessed to be in the nascent stage, with the key
+indicators getting stronger. Critical areas for improvement in this
+dimension include low rates of intellectual property protection, a
+relatively small number of researchers in the area, low research
+output  (as  measured  through  journal  publications),  and
+negligible  commercialisation  of  research  output.  These
+weaknesses  must  be  addressed  for  the  ecosystem  to
+significantly address Kenya's socio-economic challenges. All the
+other  dimensions,  namely,  education,  end-use,  linkages,  and
+implementation, are in the early stages of growth, placing the
+country  on  a  promising  trajectory  to  harness  the  benefits  of
+emerging digital  technologies and x-data applications to uplift
+the well-being of her people and ensure that the country is not
+left behind in the new digital space. 
+
+3. MATURITY OF THE EMERGING DIGITAL 
+TECHNOLOGY ECOSYSTEM IN SOUTH AFRICA
+
+3.1 Primary Actors
+
+The  study  identified  primary  actor  stakeholders  across  the
+maturity model dimensions, including research, education, end-
+use, and implementation. Actors were drawn from universities,
+private education institutions, research institutions, and private
+companies across various sectors.  A survey of twelve primary
+actors  (seven  male,  five  female),  including  researchers  and
+innovators, was conducted to obtain their perspectives on EDT
+and augment the data obtained from secondary sources. The
+actors  included  CEOs,  professors,  senior  lecturers,  project
+managers, and postgraduate students.
+
+Most respondents, 41.7%, had PhD degrees, 25% were ongoing
+PhD  students,  and  33.3%  were  Masters  degree  graduates.
+Further, they possessed varied experience levels in academia
+and research, ranging from below 5 years of experience (41.7%)
+to between 6 and 15 years of experience (33.3%) and over 15
+years (25%). The following our findings.
+
+Education
+
+According  to  a  World  Bank  report,  over  10  South  African
+universities  offer  programmes  and  modules  on  the  Fourth
+Industrial Revolution (4IR) and related fields of AI and robotics,
+either  as  short  learning  programmes  or  undergraduate  and
+postgraduate  programmes  and  modules.  For  example,  the
+University  of  Johannesburg  (UJ)  offers  undergraduate  and
+postgraduate programmes specialising in AI. The university also
+established a free Massive Open Online Course (MOOCS) on
+the Introduction to Artificial Intelligence in the 4IR. The course
+seeks  to  understand  what  AI  is,  its  purpose,  associated
+possibilities,  and  implications,  ethically  and  productively.  The
+course  provides  the  public  with  access  to  education  on  AI,
+improving their awareness and knowledge of the basics of AI.
+UJ  also  offers  other  courses  for  continuing  professional
+development (CPD) for Professionals in Business in 4IR, AI and
+Blockchain  Technology  in  accounting,  financial  risk,  taxation,
+and risk management and control, among others.
+
+Moreover, various South African Sector Education and Training
+Authorities (SETA) have developed programmes concerning 4IR
+technologies. Examples include the BankSETA and the Media,
+Information  and  Communication  Technologies  SETA
+
+(MICTSETA),  which  have  set  up  various  digital  courses  that
+meet  their  sectors'  demands.  Beyond  the  offerings  of
+programmes in EDT, many learning institutions are incorporating
+EDT in some of their existing programmes and modules in line
+with  skills  demands.  For  instance,  the  University  of  Pretoria
+integrates notions of Industry 4.0 in all the modules, especially
+in  business  and  computer  engineering  programmes,  with
+departments  such  as  the  Computer  Science  Department
+incorporating a big data science subject area into its Master's
+course.74 
+
+Private  sector  actors  also  provide  education  and  training  on
+EDT  and  related  areas.  For  example,  the  Code4CapeTown
+programme invests  in  women/girls  coders  and  programmers,
+promoting  their  involvement  and  representation  in  the  field.
+According  to  their  website,  participants  are  trained  in  web
+development,  design  principles,  coding  using  different
+languages  (Python,  javascript),  and  social  innovation.  Also,
+Blockchain  Academy  provides  training  and  consulting  on
+blockchain  technology  for  beginners,  executives,  and
+developers on blockchain technology.75
+
+The African Institute for Mathematical  Sciences (AIMS) South
+Africa offers the AI for Science programme under the Master's
+degree in Mathematical Science and seeks to attract students
+from across Africa. The one-year programme is appropriate for
+those  interested  in  Mathematics,  AI  and  Machine  Learning
+(ML).76
+
+Despite  the  view that  the  South  African  education  system is
+advancing to include EDT in the curricula, more must be done to
+link qualification offerings with new and changing job demands,
+necessitating  additional  technology-specific  training  during
+employment. Further, the number of STEM graduates produced
+for academia does not meet demand, and there needs to be
+more  systems  to  train  and  retrain  workers  in  emerging
+technologies and ICT.77
+
+However, an increasing number of technology hubs and sources
+of finance are available in the country for startups. The lack of
+skills and professional expertise can be attributed to the high
+cost of educating and retraining the workforce.78 There is also a
+lack  of  knowledge  on  blockchain.  For  example,  organisation
+executives  associate  it  only  with  cryptocurrency  without
+understanding it  can significantly  improve the industry.  South
+Africa also needs more computing and engineering capacity to
+train  large  language  models  for  machine  learning-based  AI
+systems.79 These gaps can also be attributed to poor primary
+and  secondary  school  education  and  the  limited  curricula  in
+technical  and  vocational  colleges.80 Of  the  surveyed  study
+participants, 33%  had taken various courses and training on
+EDT/X-Data (see Table 3.1).
+
+Research
+
+EDT/X-Data applications have emerged as phenomenal drivers
+of solutions to various corporate and socio-economic challenges
+in both developing and developed countries. The applications
+cut  across  several  sectors,  including  agriculture,  health,
+governance, safety and security.  Table 3.2 shows the various
+sectors targeted by the survey respondents. 
+
+74Mzekandaba (2019)
+75Dogo et al. (2019)
+76AIMS (n.d.)
+77Sutherland (2020)
+78Akinradewo et al (2022)
+79Barrett (2023)
+80Jenkin and Naude (2018)
+
+14
+
+Madara 
+2.5
+
+
+
+Table 3.1: EDT/X-Data-Related Courses Attended by 
+Surveyed EDT/X-Data Researchers and Innovators in South 
+Africa
+
+Course Percent
+
+Artificial Intelligence 29%
+
+EDT Applications 29%
+
+Big data 14%
+
+Data Science 14%
+
+Machine learning 14%
+
+Table 3.2: Sectors Targeted by Surveyed EDT/X-Data 
+Researchers and Innovators in South Africa
+
+Sector Number Percent
+
+Health 3 23%
+
+Industry and Manufacturing 
+(Smart)
+
+3 23%
+
+Energy (including renewable 
+energy)
+
+2 15%
+
+Business/Entrepreneurship 1 8%
+
+Financial Services (FinTech) 1 8%
+
+Education 1 8%
+
+Agriculture 1 8%
+
+Council for Scientific and Industrial Research (CSIR) is one of
+the  leading  research  institutes  in  the  country  and  is  actively
+involved in research, development and innovation (RD&I). CSIR
+aims  to  enhance  socio-economic  prosperity  in  South  Africa
+through the research, development, localisation, and diffusion of
+technologies, thus contributing to industrial development. CSIR
+has a research centre for Emerging Digital Technologies for the
+Fourth  Industrial  Revolution  (EDT4IR),  which  seeks  to
+strengthen  the  RD&I  community  of  practice  in  the  EDT.  The
+centre  produces  research  knowledge  and  contributes  to
+developing  capabilities  from  human  capital,  technology  tools
+and  infrastructure  associated  with  AI,  advanced  Internet  of
+Things  (IoT),  and  distributed  ledger  technology,  among other
+things.  The  research  centre  also  focuses  on  building
+demonstration  tools  for  the  practical  application  of
+transformative  technology  and  offering  digital  tools  that  will
+promote the implementation of smart solutions. The centre has
+three  research  groups  aligned  to  its  focus  areas:  Artificial
+Intelligence  and  Extended  Reality,  Distributed  Ledger
+Technologies, and Advanced IoT.81
+
+The  Centre  for  Artificial  Intelligence  Research  (CAIR)  is  an
+example of a collaborative institution between universities and
+other  stakeholders.  It  was  established  in  2011  and  is
+coordinated by CSIR and funded by the Department of Science
+and Innovation (DSI). CAIR links nine research groups from six
+universities—the  University  of  Cape  Town,  the  University  of
+KwaZulu-Natal,  North-West  University,  the  University  of
+Pretoria,  Stellenbosch  University  and  the  University  of  the
+Western Cape. The research focuses on various aspects of AI,
+including adaptive and Cognitive Systems, AI and Cybersecurity,
+
+81CSIR (n.d.)
+
+AI  for  Development,  Applications  of  Machine  Learning,
+Computational  Logic,  Ethics  of  AI,  Foundations  of  Machine
+Learning,  Knowledge  Representation  and  Reasoning,  and
+Probabilistic  Modelling.  CAIR  seeks  to  develop  world-class
+research  capability  in  the  identified  areas  of  AI  through
+consolidated,  applied  AI  research  initiatives,  building  an
+accredited national and international AI research network that
+promotes AI research and technology in the country.82
+
+The Artificial  Intelligence Institute of South Africa (AIISA) was
+founded  by  the  University  of  Johannesburg,  TUT(??),  the
+Department of Communications and Digital  Technologies. The
+institute is based on the vision of the Presidential Commission
+on the Fourth Industrial Revolution. (PC4IR). AIISA focuses on
+three sectors of the economy: the fourth industrial revolution in
+manufacturing, healthcare, agriculture, and food processing, to
+produce knowledge and applications  that  will  enhance South
+Africa's competitiveness in the global AI sphere.83
+
+Several  research  chairs  and  centres  have  been  established
+across  the  country.  For  example,  the  University  of  Pretoria's
+Faculty  of  Engineering,  Built  Environment  and IT (EBIT)  was
+awarded  the  Chair  in  Machine  Learning  for  Sustainable
+Development,  which focuses on the use of  AI  approaches to
+enhance  the  quality  of  life  and  promote  sustainable
+development while aiming to produce leading researchers in the
+AI field.84
+
+Also, the DSI/NRF-Sasol Research Chair in Energy and Power
+Systems Modelling (UCT) focuses on various aspects of energy
+transition.  It  contributes  to  developing  energy  solutions  and
+advancing knowledge and skills for sustainable development in
+the  country.  The Research  Chair  promotes  using  data-driven
+approaches, such as AI,  artificial  neural  networks (ANN), and
+machine  learning,  in  energy  planning  and  finding  optimal
+solutions. It seeks to strengthen and improve public universities'
+research and innovation capacity to generate high-quality and
+excellent research and innovation outputs and researchers. The
+Chair  has  the  advantage  of  exposure  to  industry  players,
+specifically  Sasol,  promoting  research  outputs  based  on
+academia-industry partnerships.
+
+The University of Johannesburg also runs a research chair on
+4IR  in  partnership  with  the  Education,  Training  and
+Development Practices (ETDP) SETA. Other research activities
+fall within 4IR Centres of Excellence in TVET Colleges, with 10
+TVET colleges receiving financial  support  to  set  up 4IR mini
+laboratories.  The  colleges  shall  collaborate  with  the  relevant
+industries  to  execute  the  programmes.  Other  publicly  funded
+research chairs are held in various South African universities
+focusing  on  AI,  AI  systems,  blockchain  technologies  and
+machine  learning  for  sustainable  development.  This  diversity
+mirrors the responses from the surveyed participants, of whom
+most (91.7%) had ongoing research based on some or all the
+EDT (see Figure 3.1).
+
+The  country  has  also  experienced  significant  growth  in  ICT
+research  activities,  evidenced  by  the  growing  number  of
+research hubs focusing on different aspects of EDT, including
+mobile  robotics,  computational  intelligence,  knowledge
+representation  and  reasoning,  and  human  language
+technologies.85 These  groups  include  the  Computational
+Intelligence Research Group (CIRG), Robotics and Agents Lab
+
+82https://www.cair.org.za/about
+83AIISA, (n.d), Stoltz (2023)
+84UP News (2022)
+85Ferrein and Meyer (2012)
+
+15
+
+
+
+(RAL),  Human  Language  Technologies  Group,  and  Mobile
+Intelligent Autonomous Systems Group (MIAS).
+
+There are also research activities in the Transport sector where
+AI-based algorithms use real-time traffic data to alleviate traffic
+congestion,  accidents  and  high  pollution  rates  caused  by
+increased urban traffic flow. For example, data collected from
+the Mikos Traffic Monitoring (essentially sensors embedded on
+road surfaces to monitor and control vehicles) was used with AI
+techniques to reduce and control traffic by predicting the traffic
+flow ten minutes into the future.86
+
+Journal publications play a critical role in disseminating research
+findings  and  knowledge  transfer.  A  Scopus  search  of
+publications  containing  "Artificial  intelligence"  AND  "South
+Africa"  in  either  their  title,  abstract  or  keywords returned 332
+publications.  Similar  searches  for  other  BRICS  countries
+returned publications for Brazil at 780, Russia at 687, India at
+2,434, and China at 6,882, ranking South Africa at the bottom.
+When compared to other African countries, Kenya (79), Nigeria
+(182)  and  Egypt  (191),  South  Africa  leads  on  the  continent.
+South Africa's annual publications have risen steadily from 5 in
+2009 to 63 in 2022. Of the 332 publications, 43% were journal
+publications, and 40% were conference papers. By discipline,
+23% were in computing science, 14% were in engineering, and
+10% in social sciences. South African-based researchers were
+first authors on most publications, and the main funders (where
+acknowledged)  were  the  South  African  National  Research
+Foundation, followed by the University of Johannesburg.  
+
+The  relatively  low  number  of  publications  found  in  Scopus
+mirrors  the  findings  from  our  survey.  Table  3.3  shows  the
+distribution of participant publications related to EDT/X-Data. A
+small proportion of the surveyed researchers (16.7%) in South
+Africa's EDT/X-Data ecosystem had published in journals. The
+majority,  83.3%,  however,  had  not.  Their  ongoing  research
+activities are at different stages, as presented in Figure 3.2.
+
+Patents  and  other  intellectual  property  protection  measures
+provide  pathways  to  commercialising  research  output.87
+
+Protecting  intellectual  properties  derived  from  research  and
+innovation on EDT/X-Data is essential to safeguard the benefits
+yielded upon deployment and commercialisation. However, only
+8%  of  the  surveyed  study  participants  had  patented  or
+copyrighted their research/innovation outputs related to EDT/X-
+Data. These findings signal concern, especially noting that 63%
+
+86Olayode et al. (2020)
+87Jooste (2023)
+
+indicated that their research outputs were ready for publication,
+deployment,  or  commercialisation.  Critical  interventions  are
+required  to  sensitise  and  facilitate  the  researchers  and
+innovators to protect their work and build up on the 17% who
+indicated that they are likely to file for a patent or copyright in
+the next year.
+
+Table 3.3: Number of publications Directly Related to 
+EDT/X-Data by Surveyed Researchers and Innovators in 
+South Africa
+
+No. Publications No. Researchers Percent
+
+0 10 83.3%
+
+2 1 8.3%
+
+10 1 8.3%
+
+Figure 3.2: Stage of Current EDT/X-Data Research Activities
+of Surveyed EDT/X-Data Researchers and Innovators in 
+South Africa
+
+Whereas funding, knowledge and skills are necessary to carry
+out impactful research and develop solution-based applications
+in  the  EDT/X-Data  ecosystem,  having  the  necessary
+infrastructure, equipment, and a conducive policy environment is
+equally  important.  Only  34%  of  the  surveyed  participants,
+however, agreed that they have the necessary equipment and
+tools  to  carry  out  research  work  in  the  area  of  EDT/X-Data,
+whereas 42% were neutral and 25% disagreed. Therefore, more
+
+16
+
+
+
+must  be  done  to  provide  researchers  with  the  necessary
+infrastructure. 
+
+Survey  participants  were  also  asked  to  state  the  top  three
+challenges  they  faced.  The  QCA  analysis  revealed  three
+emergent  themes:  data,  rapid  advancement  in  EDT,  and
+inadequate resources. A description of each theme is presented
+in  Table  3.4,  together  with  sample  quotations  from  the
+respondents,  thereby  placing  the  derived  theme  in  a  better
+context.  Single  proposals  were  omitted.  The themes suggest
+possible  intervention  areas  to  strengthen  the  EDT/X-Data
+ecosystem in South Africa.  Issues surrounding data were the
+primary  identified  challenges,  specifically  access,  availability
+and data quality.
+
+End Users
+
+The  use  of  interactive  digital  technology  and  access  to  the
+Internet  is  essential  to  enable organisations to  have a digital
+presence in the era of 4IR. In South Africa, various sectors are
+involved  in  end-use  activity,  including  construction,  built-
+environment, mining, health, agriculture, energy and insurance.
+Organisations,  businesses  and  individuals  all  use  various
+technologies,  which include AI,  Blockchain,  IoT and Big Data
+Analytics, to stay competitive. These technologies are adopted
+in  multiple  functions  of  organisations,  including  supply  chain,
+operations  and  marketing,  to  improve  services  and  remain
+competitive  and relevant.  The technologies  enable  access  to
+real-time  information  and  enhanced  communication  for  end-
+users. 
+
+Nonetheless, the rate of adoption of these technologies remains
+slow. South Africa has a higher internet penetration rate than
+other  African  countries.  As  of  2023,  the  country  had
+approximately 43.48 million active internet users, accounting for
+
+72.3%  of  its  population,  while  active  social  media  users
+accounted  for  just  under  43%  of  the  population.88 Also,
+approximately  78% of  the  population  used mobile  phones  to
+access the Internet in 2022, and smartphone users accounted
+for  a  third  of  the  country's  population.89 These  figures  shall
+increase in the next few years as the South African government
+targets  to  meet  universal  web  access  for  all  its  citizens'
+households by 2024. Other factors affect access to the Internet
+and the adoption of digital technologies in South Africa. Among
+these  are  inadequacies  in  infrastructure  and  equipment;  for
+example, many end-users do not have the required devices to
+accommodate  the  levels  of  data  or  information  received  and
+produced.  Also,  improved infrastructure is  needed in  parts  of
+South Africa to boost Wi-Fi coverage and affordability.90
+
+Digital  illiteracy and security  concerns are  some of  the main
+hindrances to accessing and fully utilising various platforms and
+data. For example, there are concerns about the illegal use of
+collected  data  for  other  activities.  Within  the  business
+community,  there are difficulties and complexities in changing
+organisational culture to digital options and the fear of disruption
+to existing jobs.91
+
+As  such,  there  is  a  need  to  bridge  this  digital  divide.
+Organisations  such  as  the  Silulo  and  tech  incubators  like
+Bandwidth Barn have made efforts towards making the Internet
+and the  digital  space accessible  for  entrepreneurs.  However,
+these initiatives require support  to  remain sustainable and to
+reach  a  wider  audience.  There  is  also  a  need  to  upskill
+
+88Cowling (2023)
+89Taylor (2023)
+90Mlaba (2021)
+91Vimal, et al. (2023)
+
+17
+
+
+
+individuals  and  organisations,  particularly  SMMEs,  on  digital
+technologies.
+
+Linkages
+
+Over  the  past  years,  South  Africa  has  witnessed  a  rise  in
+partnerships  to  advance  4IR  interventions.  Government
+departments,  government  agencies,  and  universities  interact
+through joint initiatives, for example, CAIR and AIISA. There are
+also  interactions  between  academia  and  industry,  such  as
+CSIR's interaction with universities through various programmes
+and  research  centres.  These  interactions  are  essential  for
+meeting skills  requirements and work placements,  which also
+promotes  matching
+skills  requirements  and
+knowledge.92
+
+Other interactions occur
+across  government,
+industry  and  academia
+stakeholders. One such
+example  is  the  DSI,
+NRF  &  Sasol
+partnership,  which
+recently awarded grants
+to  four  South  African
+Research  Chairs
+(SARChI)  and  six
+Postdoctoral  Innovation
+Programme Fellowships
+to  stimulate  and
+accelerate joint industry-
+academia  research  in  clean  and  sustainable  energy  and
+contribute to South Africa's transition towards sustainable clean
+energy  and  a  Just  Energy  Transition  (JET).  SARChIs  are
+examples of interactions between government (DSI), academic
+institutions and funders (NRF) aimed at expanding research and
+innovation  (R&I)  capacity  while  responding  to  social  and
+economic  challenges  and  attracting  and  retaining  excellent
+researchers to advance knowledge. 
+
+Other examples of  interactions include the DHET Partnership
+with CISCO and HUAWEI to ensure alignment of existing TVET
+colleges  curricula  with  industry  demands  in  the  digital  skills
+area. Through the CISCO agreement, 3 thousand lecturers are
+being trained and upskilled in 50 TVET Colleges on ICT-related
+qualifications.  The  Huawei  partnership  focuses  on  training
+lecturers  from  TVET  colleges  to  support  the  introduction  of
+subjects,  including  Routing  and Switching,  Big  Data,  Artificial
+Intelligence, and Security and Cloud Computing.93
+
+In collaboration with DFFE (DEA then), the Open Data South
+Africa project hosted training and hackathon events related to
+the South African Air Quality Information System to investigate
+new  uses  of  air  quality  data  and  improved  techniques  for
+monitoring  air  quality  issues.  This  example  illustrates
+interactions  between  government  agencies  and  the  private
+sector through joint initiatives enabling the adoption of Big Data
+in  local  communities.  These  training  and  hackathon  events
+involved teaching local communities how to use and monitor air
+quality  data and tools  to  understand their  living environment.
+They focused on equipping participants with skills for visualising
+data and providing networking opportunities between associated
+civil  society  groups  and  technology  students.  Participants
+
+92Maisiri et al. (2019)
+93Ministry of Higher Education, Science and Innovation website
+
+included  technology  students,  young  developers  and
+entrepreneurs.
+
+Interactions for knowledge sharing are also taking place within
+academia.  These  include  research  communities  in  Africa  in
+which South Africa participates, for example, the Deep Learning
+Indaba,  Data  Science  Africa  and  the  Regional  Academic
+Network  on  IT  Policy.94 Locally,  the  South  African  Artificial
+Intelligence  Association  (SAAIA)  provides  a  platform  for
+professionals and enthusiasts,  including industry,  government,
+academics,  and  startups,  to  promote  knowledge  sharing,
+responsible  AI  commercialisation,  and  collaboration
+opportunities.95
+
+Conferences provide avenues
+for  learning,  networking  and
+dissemination  of  research
+output. A significant number of
+the surveyed researchers and
+innovators,  however,  had yet
+to  attend  (33%),  make  a
+presentation  (75%)  or  take
+part  in  organising  any
+conference (92%) on EDT/X-
+Data in South Africa. Overall,
+42%  had  attended  only  one
+conference  without  making
+any  presentations,  and  17%
+had  participated  in  and
+presented at  one conference
+(see Figure 3.3). Only 8% of
+the surveyed participants had
+
+taken  part  in  organising  a  conference.  When  asked  about
+research collaborations, 67% of the surveyed participants had
+ongoing  research  partnerships  with  industry  and  42%  with
+universities and research institutions on EDT/X-Data.
+
+Implementation
+
+Implementation of EDT has occurred across various sectors in
+the  country,  including  agriculture,  smart  metering,  finance,
+insurance,  healthcare,  and  air  quality  information  systems.  A
+brief presentation on representative examples follows. 
+
+Agriculture
+
+The  use  of  EDT  in  the  South  African  agricultural  sector  is
+growing  to  improve  productivity  and  sustainability.  There  is
+active  development  of  applications  for  crop  monitoring  and
+management  through  satellite  imagery  and  drone  data;  soil
+analysis and management using AI algorithms; pest and disease
+detection  through  AI-powered  systems;  smart  irrigation;  and
+livestock management. For example, in the Data-Intensive Farm
+Management (DIFM) project run in various parts of the world,
+including  South  Africa,  agricultural  firms  use  precision
+technology  to  generate  and  provide  data-based,  site-specific
+farm management guidance. Other organisations use drones to
+provide  imagery,  AI,  machine  learning  and  big  data  for  crop
+health analysis.96
+
+The AI Platform (Hi Saai) was launched in 2023 by the Southern
+African  Agri  Initiative  (Saai).  Hi  Saai  is  a  free  management
+support tool that uses billions of Internet data points to establish
+a framework that offers answers to farm-related questions within
+minutes.  Its  services  include  business  and  financial-related
+94Gwagwa et al. (2020)
+95SAAIA (n.d.)
+96 Ameer-Mia et al. (2020)
+
+18
+
+
+
+issues, chemical applications advice, production planning, and
+marketing advice. Although it is in its early stages (post-pilot), Hi
+Saai is expected to be an inclusive platform catering even to the
+smallest  and  poorest  farmers,  provided  they  have  Internet
+access. 
+
+Air Quality Information System
+
+The  South  African  Air  Quality  Information  System  (SAAQIS)
+platform launched by the Department of Environmental Affairs --
+now  known  as  the  Department  of  Forestry,  Fisheries  and
+Environment  (DFFE)  --  obtains  and  visualises  data  from
+nationwide  monitoring  stations.97 SAAQIS provides  air  quality
+information  to  citizens  and  serves  as  a  research  portal  for
+enhancing policy development on air quality issues.
+
+Finance
+
+Ukheshe  Technologies  is  a  fintech  organisation  that  offers
+solutions for a single API that allows a wide range of payments.
+The company partners with banks, telcos, and financial services
+providers  to  increase  financial  inclusion  through  their  API
+framework (Eclipse API), which can be customised to address
+specific needs to ensure that clients pay and get paid. Some
+industries utilising this service include banking, telcos, insurance
+companies, fintechs, government, e-commerce and businesses
+looking to replace cash handling.98
+
+Healthcare
+
+A data-driven healthcare system may contribute to an improved
+standard of healthcare in South African rural areas (Babbar and
+Rani,  2022).  For  example,  IoT  and  cloud  computing
+technologies  have  created  remote  patient  monitoring  in  their
+homes using networks of  IoT medical  devices equipped with
+sensors and actuators to collect and process patient healthcare
+data. The approach could reduce clinical costs and improve the
+quality  of  life  of  patients  and  their  families.  Several  AI  in
+Healthcare startups have also been established in South Africa
+over the last decade to improve healthcare provision. 
+
+For example, My Doctor is a platform that offers teleconsultation
+and appointment booking options with healthcare providers. The
+AI-based platform,  developed in  2020,  allows users to  locate
+certified  healthcare  providers,  nurses,  and  home  healthcare
+services based on clients' needs. Innohealth Technologies was
+established in 2021 and uses clinical expertise, data science, AI
+and machine learning to provide affordable, value-driven, and
+customised innovative solutions to African healthcare problems.
+The platform offers  imaging and lab diagnostics  solutions for
+doctors and patients. The company uses its data models and
+real-time data to determine and analyse trends, patterns, and
+opportunities  for  improvement  to  ensure  more  improved
+healthcare delivery. Innohealth has collected approximately 400
+thousand  health  records  and  conducted  over  60  thousand
+consultations.99 Accrad (Accelerated Radiology) was established
+in 2020 to provide AI-based software for X-ray image analysis,
+which helps  radiologists  accurately  diagnose patients.  Accrad
+established CheXRad, a deep-learning algorithm that identifies
+diseases on X-ray images at a level comparable to practising
+radiologists.100
+
+Insurance
+
+Implementation of EDT in insurance companies is considered a
+response  to  the  cumbersome  processes  and  poor  customer
+
+97https://saaqis.environment.gov.za/, Open Data South Africa (2022)
+98https://www.ukheshe.com/
+99https://www.innohealthts.com/
+100http://accrad.com/
+
+service provided by other traditional approaches. For example,
+Naked Insurance is an AI-driven company that has eliminated
+human interaction in its buying process. Established in 2018, the
+company offers motor and home cover. It enables their clients to
+buy  cover  through  the  application  where  AI  bots  provide
+estimates,  using the provided individual's  profile  and relevant
+demographics, credit records, and required cover. The platform
+stores data from every quote to improve the system's accuracy
+by identifying how far off  estimates are from the actual value
+when claims are processed.101 Granadilla Insurance also uses
+an  AI  chatbot  named  'Nandi'  for  client  interactions,  avoiding
+human interaction and physical "brick and mortar" infrastructure.
+Nandi offers a quick and seamless onboarding user experience
+with cover provided within 24 hours.102
+
+Manufacturing
+
+In the automotive and manufacturing industries, EDT have been
+demonstrated  to  improve  organisational  performance,  lower
+costs,  enhance quality  and accelerate responsiveness.103 The
+autonomous  decision-making  powers  of  these  technologies
+result  in  a  high  level  of  flexibility  on  the  shop  floor.  Smart
+manufacturing  technology  will  likely  improve  productivity  by
+12%, and overall equipment efficiency can improve by as much
+as 35%.  Sappi, a company that provides everyday materials
+made  from  wood  fibre-based  renewable  resources,  has
+witnessed  the  impact  of  smart  technology  in  improving
+international competitiveness. Its Saiccor Mill underwent a $480
+million technology revamp, resulting in the construction of one of
+the world's largest dedicated dissolving pulp plants. The revamp
+provided  automation,  electrification  and  instrumentation
+upgrades,  allowing  remote  access  and mobility.  Through this
+project,  the  company  has  achieved  impressive  sustainability
+impacts,  including a 17% reduction in water usage and a 40%
+minimum reduction in its carbon footprint. It has increased its
+production by 110 thousand tons.104
+
+Mining
+
+The  mining  sector  uses  big  data  and  EDT  in  its  logistics
+functions,  where  logistics  systems  can  autonomously  relay
+information to those responsible for the logistics process. It uses
+IoT, AI, and data to plan machine loadings, vehicle schedules,
+routes, and deliveries.105
+
+Smart Metering
+
+There  are  numerous  businesses  in  smart  metering  for  water
+demand  management,  including  Aqua  Loc,  Amanzi  Meters,
+Lesira-Teq Smart  Metering,  Krohne,  and Ideal  Repaid.  Smart
+meters generate,  collect and display real-time data, enabling
+prompt decision-making. Lesira-Teq, for example, is a Pretoria-
+based  company  that  designs,  manufactures  and  supplies
+technologically advanced, user-friendly, and reliable smart water
+meters globally. The 20-year-old company continues to enhance
+its product and service offerings through advanced innovation
+and development  interventions that  allow for  intelligent,  high-
+quality  water management.  IoT-enabled smart  meters provide
+wireless transmission of daily updates on usage or leakages to
+the end user, improving consumption management.106
+
+Tourism
+
+101https://www.naked.insure/blog
+102https://granadillaworld.co.za/
+103Bag et al. (2021c)
+104Sappi (n.d.), CNN (2022)
+105Bag et al. (2020)
+106https://lesira.co.za/service/smart-water-meter/
+
+19
+
+
+
+To ensure a sustainable national park system, national parks in
+South  Africa,  including  Kruger  National  Park,  Addo  Elephant
+National Park, Table Mountain National Park and Garden Route
+National Park, are using user-generated data from social media
+to understand visitors' attitudes, perceptions and values of the
+parks.  Questionnaires  were  previously  used  and  were  costly
+and limited in space and time (capturing only a snapshot). User-
+generated data provides real-time data in the form of videos,
+text and pictures on social media, which proves helpful to the
+parks.107
+
+Secondary Actors
+
+Several government departments and agencies were identified
+as  secondary  actors  in  the  EDT/X-Data  ecosystem.  They
+include the Department of Trade and Industry and Competition
+(DTIC),  the  Department  of  Public  Service  and  Administration
+(DPSA), and the Centre for Public Service Innovation (CPSI).
+These departments and agencies guide firms to operate within
+social boundaries through the national digital strategy. They also
+enforce rules and regulations protecting the safe usage of data
+within the framework of regulatory norms.108
+
+There are actors in the private sector that influence the primary
+actors' use of X-data. For example, the Open Data South Africa
+(ODSA) partners, in collaboration with DPSA and CPSI, promote
+the advanced use of government data in local communities for
+social  impact  by  facilitating  community  engagements  and
+updating the open data portal for easy navigation and access
+(Open Data South Africa,  2022).  X-data consulting firms also
+offer services such as data consolidation and warehousing, data
+analysis and business analytics solutions that influence primary
+actors' decision-making.
+
+The government could play a more significant role in several
+areas,  including  creating  awareness,  developing  relevant
+policies  (data  protection  policies,  cybersecurity  policies),  and
+upgrading digital  infrastructure to ensure connectivity that can
+carry and sustain digital technology applications. Policymakers
+in South Africa should also play a more prominent role in the
+ecosystem.  Areas  for  strengthening  include the  setting  up  of
+digital platforms for the public to submit information for analysis
+and examination of trends (for example, in the health sector),
+developing clear digital policies to avoid traceability and misuse
+of  the  information,  policymakers,  and  creating  awareness  of
+policies  among  the  public  to  encourage  the  submission  of
+information by the public.109
+
+Governance Frameworks
+
+Government  regulation  dominates  South  Africa's  EDT
+ecosystem  through  policies  and  laws  relating  to  intellectual
+property,  data  protection,  and  research  and  development
+incentives. There is also legislation that indirectly impacts EDT
+and X-data innovation, for example, support for local technology
+production or health and safety legislation. Examples of these
+are outlined below.  First, regulations that directly impact EDT
+and X-Data innovation include:
+
+(a) Income  Tax  Act  of  1962: Section  11D  allows  for  a
+deduction  equal  to  150%  of  expenditure  incurred
+directly  for  research  and  development  and  an
+accelerated  depreciation  deduction  (50:30:20)  for
+capital  expenditure  incurred  on  machinery  or  plant
+used for R&D.
+
+107Hausmann et al. (2020)
+108Bag et al. (2021c)
+109Bag et al. (2021) and Sutherland (2020)
+
+(b) Protection of Personal Information (POPI) Act - No.4
+of  2013:  Section  71(1)  of  POPIA,  which  governs
+automated decision-making, is crucial for AI systems,
+given  their  inherent  problem-solving  ability.  This
+section protects data subjects from being subjected to
+a  decision  based  solely  on  automated  decision-
+making, which results in legal consequences for the
+data subject and the profiled data subject.
+
+(c) Protection of Personal Information (POPI) Act:  All of
+this Act but especially No.4 of 2013, section 57(1)(a)
+that  requires  a  responsible  party  to  obtain  prior
+authorisation  from  the  Information  Regulator  if  it
+intends  to  process  any  unique  identifiers  of  data
+subjects  (i)  for  another  purpose  than  intended  at
+collection  and  (ii)  to  link  the  information  with
+information processed by other responsible parties.
+
+(d) Copyright  Act,  No.98  of  1978: Provides  for  the
+protection  of  computer  programs  and  includes
+computer-assisted  and  computer-generated  works.
+The  author  of  a  computer-generated  work  will  be
+regarded as the person who created the AI system or
+the algorithm used to create the work.
+
+(e) Patent Act 57 of 1978 and amendments: South Africa
+has related copyright, designs and trademark acts. In
+2018, the government began a phased approach to
+revising the country's IP policies to ensure they are
+up-to-date and meet global standards. The first phase
+of  this  revision  focused  on  the  regulations  in  the
+medical  and health sectors and how they align with
+international standards.  They provide a framework for
+patenting  new  inventions  in  trade,  industry  or
+agriculture. 
+
+(f) Intellectual  Property  Rights  from  Publicly  Financed
+Research  and  Development  Act  51  of  2008:
+Determines  the  ownership  of  inventions  developed
+with public funding and the distribution of profits from
+the commercialisation. 
+
+Those that indirectly impact EDT and X-Data innovation include:
+
+(a) Commercialisation  Framework  (2015/2016):  In
+collaboration  with  the  Development  Bank  of  South
+Africa and the Industrial Development Corporation, the
+DSI  supports  locally  developed  technologies  with
+commercial potential.
+
+(b) The Occupational Health and Safety Act 85 of 1993:
+Provides for the health and safety of persons at work
+and  those  in  connection  with  the  use  of  plant  and
+machinery.  Such  legislation  can  incentivise  firms  to
+develop new AI-driven safety technologies or create
+additional  compliance  requirements  hindering
+innovation.
+
+(c) Consumer  Protection  Act  68  of  2008: Aims,  among
+others, to promote fair business practices and protect
+consumers  from  unconscionable,  unfair,
+unreasonable, unjust, or improper trade practices and
+deceptive, misleading, unfair, or fraudulent conduct.
+
+(d) Skills  Development  Act,  1998  and  amendment  of
+2003  and  Skills  Development  Levies  Act,  1999:
+Dedicated regulations that  set  up training and skills
+development  institutions  known  as  SITAs  and
+
+20
+
+Madara 
+3.2 Secondary Actors
+
+
+
+imposed  a

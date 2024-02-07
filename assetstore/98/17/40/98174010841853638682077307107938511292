@@ -1,0 +1,3 @@
+2023-12-05 11:07:46.085 INFO curate - 1 @ The script has started
+2023-12-05 11:07:46.109 INFO curate - 1 @ Curation task: registerdoi performed on: 123456789/8 with status: 0. Result: 'DOI registration task performed on 123456789/8. DOI: (doi:10.5072/dspace/2)'
+2023-12-05 11:07:46.131 INFO curate - 1 @ The script has completed

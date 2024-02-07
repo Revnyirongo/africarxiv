@@ -1,0 +1,1725 @@
+
+Summary report of QA agency 
+reviews and support and 
+advisory visits 
+
+Amine ALLAL
+
+
+
+This document has been produced under a contract with the European Union (HAQAA-2).
+
+The opinions expressed are those of the contractor only and do not represent the contracting 
+authority’s official position.
+
+
+
+Table of content
+
+1. BACKGROUND AND INTRODUCTION ........................................................................................................ 4
+
+2. METHODOLOGY ........................................................................................................................................ 5
+
+2.1. Organisations visited ......................................................................................................................... 5
+
+2.2. Preparation of the visited organisations ........................................................................................... 6
+
+2.3. Expert preparation and document review ........................................................................................ 6
+
+2.4. Visits (on site and hybrid) .................................................................................................................. 7
+
+2.5. Reports .............................................................................................................................................. 8
+
+3. USE OF THE ASG-QA ................................................................................................................................. 9
+
+3.1. Overview of the coverage of SAH-QA in the missions performed ..................................................... 9
+
+3.2. Overview and analysis by reference ................................................................................................. 10
+
+4. GOOD PRACTICES ..................................................................................................................................... 30
+
+5. GENERAL RECOMMENDATIONS AND CHALLENGES ................................................................................ 31
+
+5.1. Recommendations for QA agencies ................................................................................................. 31
+
+5.2. Challenges for QA agencies .............................................................................................................. 33
+
+5.3. Recommendations on the methodology used ................................................................................. 33
+
+6. GENERAL CONCLUSION ............................................................................................................................ 34
+
+
+
+4
+
+1. BACKGROUND AND INTRODUCTION
+
+The HAQAA initiative1 was adopted to support the development of a harmonised quality assurance and accreditation 
+system in African higher education which is recognised as a key strategic thrust of the African Union’s Agenda 2063. 
+Overall, as part of this policy, one of the goals is to establish higher education structures and systems that would 
+promote the comparability of qualifications, academic mobility and professional insertion.
+
+The first phase of pilot agency assessments and consultancy visits took place in 2018 under the HAQAA1 
+initiative. This exercise involved a test phase of the ASA-QA2 , with reviews of four existing national quality 
+assurance agencies3 and consultancy visits to four other countries4 that were working to establish national 
+quality assurance agencies. The second phase of assessments under the HAQAA2 initiative, which took place 
+in 2022, aimed to further test the methodology for assessing quality assurance agencies, taking into account 
+improvements made as a result of HAQAA1 feedback. The main objective of these assessments was to intensify 
+intra-regional coordination and strengthen the capacity of the quality assurance agencies to implement ASG-
+QA. Although this phase took place in the pandemic context, which led to a methodological adjustment for 
+the visits (in hybrid mode for some), these pilot evaluations and support visits of the HAQAA project made it 
+possible to analyze the relevance of the ASG-QA on a sample of African agencies and ministries while respecting 
+the steps of an external evaluation. It was found that these standards can be applied in diverse and changing 
+environments, even when face-to-face activities are not possible, since online practices are already integrated. 
+
+This report is part of the Phase Two of the HAQAA Initiative. It synthesizes and analyzes the results of these 
+exercises with a view to informing future use of the review methodology and identifying additional guidance 
+needed for the use of ASG-QA by quality assurance agencies. It attempts, when available, to highlight case 
+examples (among the agencies visited) that can inspire other agencies/departments in the development of 
+their quality assurance policies and methodologies, and to give visibility to good practices.
+
+This document is based on the analysis of the external review reports (evaluations or consultancy), produced 
+by the experts, which include the analysis of the self-evaluation reports, the results of the surveys and the 
+interviews conducted with the identified stakeholders. Also, it is structured accordingly: 
+
+• The first part presents the methodology used and examines its different stages: the 
+motivation and preparation of the quality assurance agencies/departments, the preparation 
+by the coordinating body (ENQA, on behalf of the HAQAA Implementating Team), the site 
+visits, and the comments on the external reports, particularly with regard to alignment with 
+the recommendations.
+
+• The second part analyzes the use and understanding of Parts B and C of the ASG-QA by agencies/
+departments and expert panels. Findings from the experts’ visits and additional comments 
+regarding the compliance of practices with the ASG-QA are highlighted.
+
+1. Harmonisation, Quality Assurance and Accreditation of African Higher Education is an initiative that has been established to sup-
+port the development of a harmonised quality assurance and accreditation system at institutional, national, regional and Pan-African 
+continental level. It is funded by the European Union Commission, in the context of the Africa-EU Strategic Partnership. Phase one 
+(HAQAA1) was implemented from 2016-2018. More information is available here: https://haqaa.aau.org/
+2. The ASG-QA are available here in four languages (ENG, FR, PT, AR): https://haqaa2.obsglob.org/
+3. ANAQ-Sup Senegal; CNAQ Mozambique; NAQAAE Egypt; ZIMCHE Zimbabwe
+4. AMAQ-Sup Mali; ANAEQ Morocco; Togo; Cameroon
+
+
+
+5
+
+• The third section highlights trends in recommendations and challenges facing participating 
+agencies and departments with an analysis focused on the ASG-QA as benchmarks.
+
+• The paper concludes with some general comments and suggestions for improving current and/
+or future practices of departmental agencies and organizations.
+
+2. METHODOLOGY
+
+The external evaluation of the individual agencies selected was conducted in accordance with the process 
+described in the HAQAA2 project’s «Methodology for External Evaluation of Quality Assurance Agencies» 
+document. The methodology for the agency reviews and consultancy visits takes an improvement-oriented 
+approach, supported through a structured self-assessment exercise and an on-site visit by a team of quality 
+assurance experts. The exercise does not function as a ranking or rating tool and there are no formal consequences 
+for participating agencies and departments. Each agency/ministry is reviewed against Parts B and C of the African 
+Standards and Guidelines for Quality Assurance (ASG-QA) with recommendations and conclusions.
+
+2.1. Organisations visited
+
+The reviews are conducted with functional quality assurance agencies, while the consultancy visits are 
+conducted with newly created quality assurance agencies or with national authorities where responsibility for 
+quality assurance which are still integrated into the ministry of higher education, but where there are plans 
+to create an independent agency. For the agencies that volunteered for this exercise, the motivations were 
+diverse, but often driven by a need to have an external (more objective) view of current practices in order to 
+initiate a process of progress. In addition, some agencies wanted to verify the conformity of their practices 
+with the requirements of the ASG-QA standard, because they aspire to be part of the CESA continental 
+education strategy of Agenda 2063 and to improve the quality of higher education and gain international 
+recognition. This voluntary commitment will help to consolidate the good practices observed to encourage 
+and advance the assessment teams and increase mutual trust with stakeholders.
+
+Agencies or other quality assurance organizations were selected according to the following steps:
+• HAQAA call for applications;
+• Submission of applications by countries;
+• Selection and sending of notifications to the structures of the selected countries.
+
+In total, seven (7) agencies were to be visited (see table below): one full agency review5 (Mali), and six 
+consultancy visits. All visits were conducted in hybrid mode (face-to-face and distance learning), except for 
+the Algerian agency (CIAQES) and the Angolan agency (INAAREES), for which the visits were conducted face-
+to-face. That said, at the time of writing, the DRC visit had not yet taken place, but the self-evaluation report 
+had been received and the expert team prepared. It should also be noted that South Sudan, Malawi, and 
+Botswana were originally selected for the agency reviews, but had to withdraw from the process due to 
+staffing changes and human resource limitations. 
+
+5. This agency, AMAQ-SUP, was previously contracted in 2018 for a consultancy visit in Phase 1 of the HAQAA project
+
+
+
+6
+
+Table 1. List of organizations visited
+Agency 
+
+Commission
+Country Date of 
+
+creation
+Benchmarks used 
+
+for in-country 
+activities
+
+Activities of the 
+experts during the 
+
+visits
+
+Dates of the visits Mode of 
+the visit
+
+AMAQ-ES Mauritania 04/03/2021 Nationals Support and advice June 13-16, 2022 Hybrid
+
+AMAQ-SUP Mali 27/06/2018 Nationals Evaluation June 28-30, 2022 Hybrid
+
+CIAQES Algeria 31/05/2010 Nationals Support and advice June 27-29, 2022 Presential
+
+ANAQ-GN Guinea 12/01/2017 Nationals Support and advice July 20-22, 2022 Hybrid
+
+EQB Ivory Coast 2016 Nationals Support and advice July 25-28, 2022 Hybrid
+
+INAAREES Angola 29/10/2013 Nationals Support and advice Nov. 16-18, 2022 Presential
+
+ANAQ-ESU Democratic 
+Republic of 
+Congo
+
+2018 Nationals Support and advice Feb. 6-8, 2023 Hybrid
+
+2.2. Preparation of the visited organisations
+
+The most important phase for the agencies/departments was to conduct the self-assessment and send the 
+report to the experts to prepare for their visit. An important part of the preparation was also to collect 
+documented information as evidence for the self-assessment report, which was to be sent first. Many 
+documents were provided (by email or during the site visit) depending on the type of agency (agency or 
+ministry): laws, regulations, decrees, legal texts for the creation of the agency, appointment of its members, 
+minutes of meetings with higher education institutions, standards used, etc. 
+
+ENQA, the HAQAA2 implementing partner that coordinated this activity, conducted several online training sessions 
+in March-May 2022 for both agencies and countries preparing for visits. Topics covered included understanding 
+ASG-QA, preparing a self-assessment, good practices for preparing site visits, and assessment protocols. 
+
+In fact, some experts organised one or more online meetings with representatives of the organisations prior 
+to the site visit to establish initial contact between the two parties, to clarify certain concepts, to request 
+additional documents, and to share and validate the interview schedule. The stakeholders participating in the 
+interviews were often identified beforehand (in agreement with the experts).
+
+Also, all respondents to the agency/department survey indicated that the self-evaluation process was useful, 
+and several mentioned, in particular, the benefits of having to identify and reflect on the agency’s strengths 
+and weaknesses before the external evaluation. At the same time, experts indicated that they were generally 
+satisfied with the quality of the activity reports as a starting point for the reviews. 
+
+2.3. Expert preparation and document review
+
+Experts were selected by the coordinating body based on the previous external quality assurance experience 
+under HAQAA1. They were selected from a list of HAQAA quality assurance experts and from members of the 
+Technical Working Group that drafted the ASG-QA. 
+
+The expert panels were composed to include two experts from Africa and one from Europe, each bringing a 
+
+
+
+7
+
+different perspective, but sharing the ASG-QA as a common starting point. The importance of an appropriate 
+panel composition that ensures diversity of background and expertise was stressed, as well as  complementarity 
+(including, importantly, cultural and contextual knowledge). The importance of including a minimum of one 
+woman on each panel was also considered. 
+
+Although the HAQAA2 Team valued the role of students in the process, no students were included in the 
+expert panels due to budgetary and logistical reasons. Going forward, it would be useful to introduce this into 
+future agency assessment missions to align with international best practices for active student participation 
+in quality assurance.
+
+For each panel, one expert was designated as chairman and another as secretary. The experts took advantage 
+of the online preparatory meetings to get to know each other better in order to better divide the work among 
+them in terms of skills and interests. In this regard, the experts stressed the importance of preparatory meetings 
+prior to the field visits, not only to prepare for the review, but also to establish working relationships and develop 
+a sense of shared responsibility for all aspects of the mission (preparation, interviews and reports).
+
+The coordinating agency (ENQA) provided guidelines and instructions to the experts and two online training 
+sessions. The training covered understanding the ASG-QA, the review methodology, best practices for 
+analyzing the self-assessment report, conducting interviews, and writing the external review report.  In 
+addition, the experts were able to draw on their existing experience in conducting external reviews, as many 
+had participated in the 2018 HAQAA1 reviews and consultancy visits and in the development of the ASG-QA. 
+
+Prior to the visits, the experts had an online meeting with the person in charge of overseeing the assessments 
+and consultancy visits within the HAQAA2 initiative. During this online meeting, the HAQAA2 manager 
+recalled the objectives and purpose of the support visit. She also ensured that all relevant documents that 
+should be consulted during the visit were received. The experts had the opportunity to ask questions and 
+obtain clarifications on the objectives and practical realisation of the visit.
+
+The main document reviewed by the expert team was the self-evaluation report (SAR). 
+
+During the online sessions, the expert evaluators also held small group meetings in which they shared their views. 
+They exchanged their analyses of the ASG-QA in relation to the review methodology, the self-assessment report 
+and other documents received. The choice, the sequence and the formulation of the questions to be asked to the 
+agency staff were discussed and decided during the preparation meetings, following a suggested list sent by the 
+HAQAA coordination, which was adjusted by some experts to take into account the current context. 
+
+In order to avoid absences due to unavailability, the list of stakeholders to be met and interviewed was made 
+jointly with the organisations to be visited.
+
+2.4. Visits (on site and hybrid)
+
+All visits (mostly in hybrid mode) lasted three days and went well; all requests from the expert committees 
+were taken into account. The schedule of site visits was well respected by the different organisations. The 
+panel was able to meet with all groups of stakeholder representatives already identified for interviews. All 
+participants had the opportunity to contribute to the discussions in a free and frank manner.
+
+
+
+8
+
+In each interview, the experts recalled the objectives of the mission, the expected results in terms of advice 
+and support, and finally the form of the external report written in accordance with the HAQAA project outline, 
+in connection with the selected standards and guidelines of the ASG which were to be reviewed. 
+
+At the end of the visit, the experts had a feedback meeting with the members concerned (agency or ministry), 
+where they summarised the main observations, analyses and recommendations following this visit.
+
+Agencies/departments indicated that there were many positive aspects to the site visits, including the physical 
+presence of the experts and their role in facilitating discussion with stakeholders and sharing experiences. 
+In the future, they suggested they would like all experts to be present on site, and for the online mode to be 
+used only for mission preparation.
+
+2.5. Reports
+
+The final review reports, which ranged in length from 23 to 48 pages, were written by the experts following 
+the structure of the template provided, which was applied by all teams, with some modifications for some. 
+Feedback indicated that this prototype was useful, not only to guide the writing, facilitate readability, but also 
+to support the consistency and comparability of the reports between the different panels and to facilitate 
+the synthesis. After the introductory summary note, the descriptive section (including contextual data on 
+the higher education system in the country/region where the agency operates, provided in the introductory 
+chapter) is very useful as it allows the reader to grasp the reality of the situation.
+
+The chapter entitled “Findings, Analysis, and Judgments” has been aligned with the structure of the ASG-QA, 
+at least in the relevant parts (Parts B and C). 
+
+In general, for each standard, there was a balance between the “findings,” “analysis,” and “recommendations” 
+parts, with the exception of two reports. In addition, there was confusion between the term “judgment”6 
+(which can be qualitative or quantitative) in the model and the term “recommendation”7 found in the reports. 
+This resulted in sometimes incomparable treatments of the standard by the different expert teams.
+
+Only one report made “judgments” by inserting a hybrid compliance scale (qualitative and quantitative) for 
+each requirement examined, using the logic of traffic lights; but the “analysis” part was rather poor and did 
+not always justify the judgments made. In the other reports, there are recommendations for each standard 
+examined and recommendations in the “recommendations and assessments” chapter, which makes some of 
+them redundant.
+
+Thus, the above remarks point to the need for additional training of evaluators to make them well aware 
+of possible discrepancies in report writing and to strengthen their judgment and writing skills, which are 
+essential for understanding and calibrating recommendations, and for ensuring their feasibility.
+
+6. Judgment: reasoned opinion given by someone with official jurisdiction
+7. Recommend: to advise someone about something; to indicate to someone that something is of interest
+
+
+
+9
+
+3. USE OF THE ASG-QA
+
+3.1. Overview of the coverage of SAH-QA in the missions performed
+
+As already mentioned above, the missions were of 2 types: Review, or support and advice for the bodies 
+under the ministries (consultancy visits); for the agencies, the choice was left to their discretion. For review 
+visits, the approach was to look closely at the agency’s documents and practices and compare them with 
+the ASG-QA. For consultancy visits, although the approach was the same, the number of standards to be 
+examined was more limited. In fact, the purpose of the exercise was to provide support and guidance to 
+agencies/countries to reflect on, appropriate, and use the standards in their future development. 
+
+The table below summarises the ASG-QA standards covered by the experts (in green). For AMAQ-SUP (Mali), 
+all standards were covered during the agency’s review since it was an agency visit.
+
+Table 2. List of standards reviewed
+References ASG-QA 
+
+covered
+AMAQ-SUP
+
+(Mali)
+AMAQ-ES
+
+(Mauritania)
+CIAQES
+
+(Algeria)
+ANAQ-GN
+(Guinea)
+
+EQB
+(Ivory Coast)
+
+INAAREES
+(Angola)
+
+Part B - standard 1 ü X X X X X
+
+standard 2 ü ü ü ü ü ü
+standard 3 ü X X X X X
+
+standard 4 ü X X X X X
+
+standard 5 ü X X X X X
+
+standard 6 ü X X X X X
+
+standard 7 ü X X X X X
+
+Part C - standard 1 ü ü ü ü ü ü
+standard 2 ü ü ü ü ü ü
+standard 3 ü ü ü ü ü ü
+standard 4 ü ü ü ü ü ü
+standard 5 ü X X X X X
+
+standard 6 ü X X X X X
+
+standard 7 ü ü ü ü ü ü
+standard 8 ü X X X X X
+
+standard 9
+ü X X X X X
+
+
+
+10
+
+With regard to consultancy visits, the information note indicated the standards to be taken into account 
+(some standards are not applicable to them for the time being, given the missions assigned to them) insofar 
+as this was possible given the level of development of the body visited in the country concerned: 
+
+Part B
+
+• Reference 2. Development of external quality assurance mechanisms appropriate to the context
+
+Part C
+
+• Reference 1. Legal personality
+• Reference 2. Vision and Mission Statement   
+• Reference 3. Governance and Management  
+• Reference 4. Independence of the agency
+• Reference 7. Human and Financial Resources 
+
+In addition, the countries participating in the consultancy visits were invited, together with the experts, to 
+analyze any additional references from Parts B and C of the ASG-QA, if relevant and feasible.
+
+3.2. Overview and analysis by reference
+
+3.2.1. Part B
+
+1
+
+Statement Reference Organization 
+concerned
+
+Objectives of external quality 
+assurance and consideration for 
+internal quality assurance
+
+External quality assurance ensures that the 
+HEI has a clearly articulated vision and mission 
+statement. EQA helps the HEI to ensure the 
+effectiveness of its internal quality assurance 
+mechanisms, providing an additional instrument 
+for assessing the quality of the institution.
+
+AMAQ-SUP (Mali)
+
+• Findings
+
+The experts’ report shows that external quality assurance, developed by AMAQ-SUP, encourages HEIs to 
+prove that they have a defined vision and mission. To this end, Article 2 of Law No. 2018-034, which created 
+AMAQ-SUP, states that AMAQ-SUP is responsible for, among other things, supporting HEIs in the development 
+and implementation of their internal quality assurance and self-evaluation procedures. However, interviews 
+with CIAQ officials, rectors and directors reveal that these trainings, support and information activities would 
+benefit from being strengthened to allow for better dissemination and appropriation by all actors (students, 
+teachers, managers, etc.) of HEIs.
+
+• Comments
+
+AMAQ-SUP has already begun to explain the link between IQA and EQA to stakeholders and provides relevant 
+and appropriate tools for evaluating HEIs while ensuring that their development is supported. However, it is 
+
+
+
+11
+
+important for AMAQ-SUP to consolidate these training and support activities in order to cover the needs of 
+all Malian higher education stakeholders, of which there are many (seventeen public and one hundred and 
+twenty-six private HEIs), in order to harmonise quality throughout the country.
+
+• Judgement
+
+Although much has been done in terms of training and coaching, the EQA procedures have not yet enabled 
+HEIs to appreciate the link between IQA and EQA, to comply with established QA principles, benchmarks and 
+guidelines, to develop and consolidate a quality culture by establishing mechanisms for continuous quality 
+improvement, and to be recognised and accepted at national, regional, continental and international levels.
+
+2
+
+Statement Reference Organizations involved
+
+Development of external quality 
+assurance mechanisms adapted 
+to the context
+
+External quality assurance benchmarks, 
+guidelines, and processes are developed in a 
+context-sensitive manner and defined to achieve 
+the intended goals and objectives of EQA and to 
+strengthen institutional-level IQA systems.
+
+AMAQ-SUP
+AMAQ-ES
+CIAQES
+ANAQ-GN
+EQB
+INAAREES
+
+• Findings
+
+[AMAQ-SUP, MALI] The two institutional and training evaluation guidelines of AMAQ-SUP have taken into 
+account both Malian specificities and international good practices (ASG-QA, CAMES, ANAQ-SUP, HCERES). 
+They cover all the missions and dimensions of HEIs and the dimensions of training. The link between training 
+and research is also well highlighted in the institutional reference framework, even if it could be more 
+emphasized in the reference framework dedicated to training. Moreover, it emerged from interviews with 
+the rectors, directors and heads of the CIAQs (quality units) of the HEIs evaluated during the pilot evaluations 
+by AMAQ-SUP and representatives of the Ministry, that consultation and sharing processes have been carried 
+out with a view to effectively taking charge of the realities and context of Mali, through the academic and 
+scientific activities of the HEIs. However, the interview with the employer representative seems to show 
+the need for a better involvement of this category of actors in the collaborative and consultative processes 
+developed by AMAQ-SUP.
+
+[AMAQ-ES, MAURITANIA] Despite its young existence, AMAQ-ES has very quickly put in place a number of 
+tools, such as a programme framework (available on the website) and its self-evaluation guide. An institutional 
+repository was being developed or even finalized at the time of the support visit. It was pointed out that AMAQ-
+ES has been benchmarking repositories from other quality assurance agencies, which is a good approach to 
+learning. That said, although higher education stakeholders were involved in the construction of the above-
+mentioned documents, students, representatives of socio-professional sectors and local communities were 
+not included in the design and validation of the reference systems. 
+
+[CIAQES, ALGERIA] Many preliminary actions to initiate and consolidate institutional quality assurance (internal 
+quality assurance) have been piloted and implemented by CIAQES in accordance with its missions as set out in 
+the decree of its creation. These include the appointment and training of Quality Assurance Managers (RAQs), the 
+
+
+
+12
+
+setting up of Quality Assurance Units (CAQs), the development by the RAQs and members of CIAQES of the national 
+quality assurance reference framework for health care institutions (RNAQES), the general self-assessment of all 
+public health care institutions in 2016, and an experimental external evaluation of institutions that had carried out 
+their self-assessment in the seven areas of the national reference framework. At this stage of QA implementation 
+in Algeria, Part B and Part C, developed in accordance with the African references and guidelines, are not yet 
+written. Only Part A (References and guidelines for internal quality assurance of institutions) has been published 
+under the name “Référentiel National d’Assurance Qualité de l’Enseignement Supérieur” (RNAQES). The interviews 
+conducted by the committee during the visit mention that the publication of these parts B and C is planned in the 
+next version of the RNAQES. The students interviewed said they were interested in the process and convinced of its 
+importance, but at the same time noted that they had hardly heard of it. Similarly, the training operations for the 
+RAQs and the awareness-raising operations for the institutions did not involve private institutions.
+
+[ANQ-GN, GUINEA] The experts noted that the goals and objectives of establishing the QA agency are strongly 
+aligned with the objectives of the international sector players. These include strengthening IQA and building 
+confidence in licensed institutions and accredited programmes. In this regard, ANAQ-GN has proceeded with 
+the development of repositories (institutional, programmatic, etc.) and assessment tools between 2017 and 
+2021. During the site visit, the panel was able to ascertain that the context, goals and objectives of EQA and 
+the strengthening of CIAQs (quality units) at the institutional level were taken into account. In terms of the 
+context, it was found that the various stakeholders - including representatives of students, teachers, heads of 
+quality units in private and public institutions, civil society and the professional world - had been taken into 
+account in the development of the standards used by the agency.
+
+[DGQE, COTE D’IVOIRE] External quality assurance standards, guidelines, and processes are developed by 
+DGQE in a context-specific manner and defined to achieve the intended goals and objectives of external 
+quality assurance and to strengthen internal quality assurance systems at the facility level. However, 
+assessment procedures are not included in the standards. They are announced to facilities at the time of 
+the launch of an assessment campaign, but not published with the standards. The stakeholders that were 
+convened for the consultation meetings were mainly from the higher education context: institutional 
+managers, student associations, parents of students, expert evaluators, representatives of the Ministry. 
+Alumni and representatives of the socio-economic world are absent. Of note, the DGQE regularly organises 
+training seminars for its own staff and those of the Ministry, as well as for the staff of the institutions’ internal 
+quality assurance units.
+
+[INAAREES, ANGOLA] The Angolan agency designed a general system for the cyclical evaluation and 
+accreditation of the country’s higher education system - programmes and institutions - aligned with the ASG-
+QA, called the National Quality Assurance System (SNGQ). Its implementation began with the publication 
+of new legislation; subsequently, INAAREES developed manuals and guidelines for self-evaluation of study 
+programmes and institutions, to support the institutions themselves, and manuals and guidelines for external 
+evaluation (aligned with ASG-QA). In addition, visits were made to HEIs across the country to disseminate 
+the repositories and guidelines and to provide training in the preparation of future evaluations of higher 
+education programmes for accreditation that will include site visits. However, a large contingent of internal 
+and external stakeholders, especially students, professional bodies and labor market representatives, are not 
+involved in the institution’s activities, particularly in the development of the standards. 
+
+
+
+13
+
+• Comments
+
+Although many actions have been carried out in the countries concerned by this operation, it has been noted 
+that the involvement of stakeholders such as students, representatives of socio-professional sectors, and civil 
+society is very low or even non-existent; however, their integration is necessary to guarantee the adhesion 
+and involvement of all actors.
+
+Similarly, in some countries, training and awareness-raising activities in institutions have not included private 
+institutions, which can lead to a feeling of exclusion.
+
+• Judgement
+
+Alignment with the ASG-QA is not always clearly expressed in national documents, which can disrupt the 
+comparability of qualifications, as well as academic mobility. In addition, an explicit and meaningful link 
+between external and internal QA is essential to ensure buy-in and adequacy of QA mechanisms, which is not 
+yet implemented in some countries. As contexts differ, this standard may be implemented in different ways 
+in each country.
+
+3
+
+Statement Reference Organisation concerned
+
+Implementation of external quality 
+assurance processes
+
+EQA benchmarks, processes and procedures are 
+predefined, reliable, published and consistently 
+implemented for accountability purposes.
+
+AMAQ-SUP
+(Mali)
+
+• Findings
+
+AMAQ-SUP has been developing relevant assessment tools (institutional and programme assessment 
+benchmarks, as well as coaching guides for HEIs) since 2018. Most of these tools are now transparently 
+accessible to all on the agency’s website. They were also used during the pilot evaluations conducted by the 
+agency and by the HEIs for the self-evaluation and by the experts for the external evaluation. In addition to 
+the tools mentioned above, AMAQ-SUP has drafted its own operational procedures; the agency also has an 
+evaluation charter, templates for writing evaluation reports, grids for analysing reports, models for expert 
+contracts and declarations of absence of conflict of interest.
+
+• Comments
+
+AMAQ-SUP has a set of solid tools for the implementation of its external quality assurance procedures and 
+ensures that they are accessible through its website. However, as the Scientific Council had not yet been set 
+up at the time of the expert panels’ visit because the dedicated regulatory act had not been signed. The final 
+validation of the external evaluation report was postponed until the Scientific Council was set up.
+
+
+
+14
+
+• Judgement
+
+Alignment with the ASG-QA standard is formally expressed in the documents produced, but implementation 
+takes time, which has not allowed the agency to validate the evaluation actions carried out. The standard is 
+applied, but accountability must become cultural, given that public service employees in some countries are 
+not in the habit of doing so.
+
+4
+
+Statement Reference Organisation concerned
+
+Independence of the evaluation The EQA is conducted by committees of 
+external experts from a wide range of fields of 
+expertise.
+
+AMAQ-SUP
+(Mali)
+
+• Findings
+
+For the pilot evaluations conducted to date, AMAQ-SUP has relied primarily on a pool of experts mobilized by 
+the Ministry. A recruitment procedure for experts, both national and international in scope, was underway 
+at the time of the visit. Candidates had to meet the requirements set by the agency and published on the 
+agency’s website.
+
+• Comments
+
+AMAQ-SUP ensures the independence of the evaluation through a growing pool of experts and procedures 
+to avoid conflicts of interest. During evaluations conducted by the agency, experts must sign a declaration 
+of honor, indicating that the various conditions required and contractual conditions will be respected. The 
+agency also ensures that experts are trained at the time of the launch of the evaluations, which is essential 
+to ensure the quality of the evaluations conducted. On the other hand, the absence of experts from the 
+professional world and of students in the teams of some pilot evaluations limits the multiplicity of views of 
+the different stakeholders, which should be taken into account in EQA procedures.
+
+• Judgement
+
+With a transparent and rigorous process for selecting external experts in place, there is confidence that 
+future evaluations will be independent, which has not been the case to date because experts were selected 
+by the Ministry, which could have led to doubt about their independence. In some countries, the hiring of 
+international reviewers may be hampered by the unavailability of funds, which could make this requirement 
+difficult to meet.
+
+
+
+15
+
+5
+
+Statement Reference Organisation concerned
+
+Evaluation decisions and reports 
+(EQA results)
+
+External quality assurance reports and 
+decisions are clear and based on published 
+and transparently accessible references, 
+processes and procedures.
+
+AMAQ-SUP
+(Mali)
+
+• Findings
+
+The references, processes and procedures, related to external quality assurance, have been defined in the 
+two accompanying guides provided for this purpose. These documents are available on the AMAQ-SUP 
+website and are accessible to all. In these two guides, it is indicated that the experts, after the on-site visit, 
+will produce a provisional report, which is sent to the HEI being evaluated through AMAQ-SUP. This gives 
+the evaluated institution the opportunity to submit remarks on factual errors and to prepare a reasoned 
+letter with observations. Once finalized and validated by the Scientific Council, the final report, together 
+with the observation letter signed by the head of the evaluated HEI, is then sent to the Ministry in charge 
+of higher education. The decision of accreditation or habilitation is the sole prerogative of the Ministry 
+mentioned above. 
+
+• Comments
+
+The AMAQ-SUP decisions resulting from external quality assurance are clear and described in various 
+documents. However, the implementation of these decisions is not always effective. For example, given that 
+the decision to accredit and authorize falls within the competence of the Ministry of Higher Education and 
+Research, there is a question as to whether the opinion of the experts and the Scientific Council is taking 
+into account. On the other hand, and although they exist, many documents were not yet in use since at the 
+time of the experts’ visit, and the Scientific Council was not yet functional. Another point was mentioned 
+during the interviews by the case managers who coordinate external quality assurance activities. They 
+consider that in practice, the rereading and revision of reports is complex when the experts issue divergent 
+opinions. This should be addressed in advance when the experts are preparing the closing meeting. Finally, 
+the reports produced during the pilot evaluations would benefit from being harmonised in order to ensure 
+their readability.
+
+• Judgement
+
+Although external quality assurance reports are clear and based on published references, processes, and 
+procedures, final accreditation and licensing decisions are made solely by the Ministry, which does not ensure 
+that the opinions of the experts are always taken into account. This approach may even call into question 
+the independence of the agency. On the other hand, there may be different approaches to review reports in 
+different agencies (as has been noted in the other HAQAA reports), which would require training for experts 
+and better report templates.
+
+
+
+16
+
+6
+
+Statement Reference Organization concerned
+
+Periodic evaluation of institutions 
+and programs
+
+External quality assurance of institutions and 
+programs is conducted on a cyclical basis.
+
+AMAQ-SUP
+(Mali)
+
+• Findings
+
+The AMAQ-SUP has not yet taken a formal decision on the periodicity of the institutional evaluation cycles, 
+training programs and research. It appears from the interviews with the experts that it is envisaged that the 
+periodicity will be set according to the duration of the accreditation of training programs, which is currently 
+four years for bachelor’s and master’s degrees, and five years for the accreditation of HEIs.
+
+• Comments
+
+External quality assurance is not yet carried out on a cyclical basis, due to a lack of financial resources to ensure 
+the regularity of evaluations, as explained in Part C. The representatives of the AMAQ-SUP management team 
+that participated in the visit indicated that they are currently considering the frequency of evaluations.
+
+• Judgement
+
+This standard is not yet implemented (no alignment with ASG-QA) due to lack of resources, which raises, in 
+addition, questions about the future autonomy of the agency. 
+
+7
+
+Statement Reference Organisation concerned
+
+Complaints and appeals The complaints and appeals process is clearly 
+defined and communicated to the institution 
+concerned.
+
+AMAQ-SUP
+(Mali)
+
+• Findings
+
+AMAQ-SUP has developed an appeal procedures manual that details the steps and activities in the process. 
+However, in the case of an appeal, the existence of an act, signed on the competent authority, is not made 
+public. The appeal may concern the decision by which the Executive Director of AMAQ-SUP declares an HEI’s 
+application for evaluation inadmissible or a diagreement with the self-evaluation report or the opinions of 
+the Scientific Council.
+
+• Comments
+
+The appeal procedures are clearly defined, but they have not yet been applied in practice, since AMAQ-SUP 
+
+
+
+17
+
+has not yet received an appeal; this could be explained by the fact that it has so far carried out only three pilot 
+evaluations. As for the appeal procedures following an accreditation/habilitation decision by the Ministry, it is 
+not mentioned in the manual of appeal procedures and is not part of the agency’s prerogatives.
+
+• Judgement
+
+A recourse system is established and formalised, but it has not yet been used. There is compliance with the 
+ASG-AQ standard. However, this standard must be backed up by the standard for agency independence to 
+ensure fairness in the handling of appeals.
+
+3.2.2. Part C
+
+1
+
+Statement Reference Organisations involved
+
+Legal personality The AAQ is an autonomous legal entity with 
+a clearly defined mandate, scope of action 
+and powers. It is recognized as the quality 
+assurance agency at a national/regional level.
+
+AMAQ-SUP
+AMAQ-ES
+CIAQES
+ANAQ-GN
+EQB
+INAAREES
+
+• Findings
+
+[AMAQ-SUP, MALI] AMAQ-SUP was created by Law No. 2018-034 of June 27, 2018, which gives it the status 
+of a Public Scientific and Technological Institution (EPST). It has its own legal personality and is autonomous; 
+its mission is to “contribute to ensuring the quality of the higher education and scientific research system, 
+its institutions and its training courses”. Decree No. 2018-0734/P-RM of September 21, 2018 sets out its 
+organization and operating procedures. Since the support and advisory visit conducted during HAQAA 1, 
+AMAQ-SUP is now the sole authority in charge of evaluating training, institutions and soon research in Mali. 
+However, it is not in charge of accreditation, which remains the prerogative of the Ministry, which relies on 
+the evaluation reports produced by the agency.
+
+[AMAQ-ES, MAURITANIA] AMAQ-ES was established by Decree No. 2021-031 of March 4, 2021. Its main mission 
+is to “contribute to ensuring the quality of the higher education and research system and to promote the culture of 
+evaluation and quality assurance. It has “legal personality and financial autonomy and is placed under the technical 
+supervision of the ministry in charge of higher education”. It is responsible for higher education (institutions and 
+training programs) and research. Its field of action covers both public and private higher education institutions.
+
+[CIAQES, ALGERIA] CIAQES, created in 2010, is a commission for the implementation of quality assurance in 
+Algerian higher education; it does not have the authority to evaluate (although it has initiated and piloted 
+internal evaluations at the national level) and accredit. That said, the documents brought to the attention 
+of the experts mention the future creation of “a National Agency for Quality Assurance and Accreditation 
+in Higher Education and Scientific Research (ANAQA-ESRS)” placed under the supervision of the Minister in 
+charge of Higher Education and Scientific Research. The agency would be an independent public establishment 
+with a specific character, endowed with legal personality and financial autonomy.
+
+
+
+18
+
+[ANAQ-GN, GUINEA] The National Authority for Quality Assurance in Education, Training and Research 
+ANAQ- GN was created in January 2017. According to Article 1 of the said decree, it is a Public Administrative 
+Establishment (EPA) with financial, organizational, regulatory autonomy and independent in its judgments and 
+decisions. As a public institution, ANAQ-GN has legal personality. It is placed under a double supervision: the 
+administrative and technical supervision of the Minister in charge of higher education and scientific research 
+and the financial supervision of the Minister in charge of finance and state holdings. The scope of action 
+and missions of ANAQ-GN are clearly identified and well defined in its creation decree. The clear exposition 
+of the prerogatives and missions of each body (Board of Directors, Executive Committee and Executive 
+Committee) contributes to the proper functioning of ANAQ-GN. During the visit, the expert committee noted 
+that each body carries out its missions and makes its decisions in complete independence. The synergy 
+and complementarity in the functioning of these three bodies should be emphasized, which contributes 
+to the development of ANAQ-GN. It should be noted that ANAQ-GN is the only body for the evaluation 
+of higher education, technical and vocational education institutions and programs as well as research and 
+documentation centers in Guinea. The autonomy of ANAQ-GN is present in its publications without external 
+injunction. The committee of experts noted that ANAQ-GN, despite its youth, already enjoys recognition, 
+respect and confidence in its evaluation activities on the part of all stakeholders.
+
+[DGQE, COTE D’IVOIRE] Currently, the DGQE is a general directorate of the MESRS and therefore does not 
+have legal autonomy or independence. The DGQE is responsible for quality assurance in higher education 
+and research in Côte d’Ivoire. Its creation decree does not allow for an understanding of its current scope of 
+intervention in relation to «accreditation bodies» and «standardization agencies». The draft decree for the 
+creation of ANAQESR in the version presented at the time of the support mission provides for the creation 
+of an entity with legal personality and financial autonomy. Article 2 provides for an agency «under the 
+technical supervision of the Minister in charge of Higher Education and Scientific Research and under the 
+joint supervision of the Ministers in charge of the Economy, Finance, the Budget and the State Portfolio. 
+
+[INAAREES, ANGOLA] The Angolan authority was created in 2013 after the reorganization of an already 
+existing body; its mission, enshrined in the founding texts, is to “promote the quality of education through 
+evaluation, which ensures the continuous improvement of the quality of the components of the educational 
+subsystem, as well as to homologate the certification of higher education studies carried out in the country, to 
+recognize and issue the equivalence of diplomas and academic titles obtained abroad. Currently, following the 
+organic and technical restructuring it has undergone, INAAREES is a public institution with legal personality, 
+administrative, financial and patrimonial autonomy, and with well-defined bodies and services. Although 
+the legislation explicitly establishes the independence of INAAREES, certain constraints weigh on its real 
+independence. For example, for public information, site construction, choice of experts and other activities, 
+it should be more autonomous, which is not the case today. 
+
+• Comments
+
+The Malian and Mauritanian agencies have their own legal personality and are autonomous. Their scope of 
+activity is well defined and focuses on evaluation; accreditation remains the responsibility of the Ministry for 
+the time being. The other agencies, both current and future, have their own legal personality and financial 
+
+
+
+19
+
+autonomy, but are or will be under the supervision of the Ministry of Higher Education, which can lead to 
+confusion as to their missions and the need for independence in order to meet continental (ASG-AQ) and 
+international requirements. It would be appropriate for future decrees establishing the agencies (currently 
+being drafted) to specify the impact of the «tutelage of the Ministry of Higher Education» on their autonomy. 
+That said, the agencies should take the initiative and develop their activities more independently, since the 
+legislation itself allows them to do so.
+
+• Judgement
+
+Although the current or future agencies are autonomous on “paper” (cf. the decrees of creation), it is not yet 
+proven that they are really autonomous in the sense of the ASG-QA. That said, in terms of the decree and the 
+creation texts, this standard is easy to verify and validate.
+
+2
+
+Statement Reference Organizations involved
+
+Vision and Mission Statement AAQ develops and publishes a vision and 
+mission statement or goals that take into 
+consideration the context of higher education.
+
+AMAQ-SUP
+AMAQ-ES
+CIAQES
+ANAQ-GN
+EQB
+INAAREES
+
+• Findings
+
+[AMAQ-SUP, MALI] AMAQ-SUP has a mission with objectives, which are clearly defined in the law of its 
+creation. Its mission is essentially focused on quality assurance in the higher education and scientific research 
+system in Mali, and is to “contribute to ensuring the quality of the higher education and scientific research 
+system, its institutions and its training programs. The various bodies, the Board of Directors, the Scientific 
+Council (in the process of being operationalized) and the Executive Management, are responsible for ensuring 
+that the mission is carried out in order to achieve the assigned objectives, in accordance with the legal 
+framework and provisions. 
+
+[AMAQ-ES, MAURITANIA] The agency’s missions are defined in its founding decree and are “to design 
+and implement a quality assurance system compatible with the objectives and requirements of our higher 
+education and research system,” and to “contribute to ensuring the quality of the higher education and 
+research system and to promote the culture of evaluation and quality assurance. However, the expert team 
+did not find any document in which the Authority sets out its main missions and vision for the general 
+public. The interviews also showed that the missions, vision, and objectives of the AMAQ-ES are not clearly 
+understood and differentiated by all stakeholders. In addition, AMAQ-ES highlighted six values in the self-
+assessment report (ethics and deontology, equal opportunities and fairness, transparency, professionalism, 
+vision of a shared quality culture, continuous development of the quality assurance system) as well as a draft 
+strategic plan and its translation into an action plan for 2022.
+
+[CIAQES, ALGERIA] According to oral information received, it appears that the missions and objectives of the 
+
+
+
+20
+
+agency being created will take into consideration the context of Algerian higher education. Thus, the future 
+Algerian agency for quality assurance and accreditation will have the mission “to organize and supervise 
+external evaluation of all institutions and to monitor the implementation of the experts’ recommendations, 
+through actions for the continuous improvement of the quality of training and university activities. More 
+specifically, the agency’s mission will consist of the accreditation of institutions and courses. According to the 
+CIAQES and MESRS interlocutors, other expert missions could be entrusted to the future agency and would 
+contribute to covering part of its operating costs. Among these tasks is the processing of applications for 
+recognition of equivalence of foreign diplomas. This being said, and as the agency is in gestation, the vision 
+and objectives are not yet written and therefore not published (and the mission as well).
+
+[ANAQ-GN, GUINEA] The information and documents provided to the experts, outlining the vision, mission and 
+objectives, showed that quality assurance is the agency’s main activity. Everything is included in the strategic 
+plan, whose vision is “to raise the level of quality of institutions and their programs through evaluation for 
+their better recognition and increased employability of graduates. This strategic plan, which took into account 
+the context of Guinean higher education, is at the same time a document of communication, promotion and 
+orientation making clear the vision of the institution. It has also enabled the institution to mobilize its staff 
+towards the same goal. 
+
+[DGQE, COTE D’IVOIRE] The DGQE is not an autonomous legal entity with a clearly defined mandate, scope of action 
+and powers. It has a well-defined mission in its founding decree but no stated vision or strategic plan. It is, however, 
+recognized as a quality assurance body at a national/regional level. That said, plans to create an autonomous and 
+independent quality assurance agency are well underway and should address these shortcomings.
+
+[INAAREES, ANGOLA] INAAREES has a mission and a vision defined in its statutes. Its mission is “to promote 
+the quality of education through evaluation, which ensures the continuous improvement of the quality of the 
+components of the educational subsystem, as well as to accredit the certification of higher education studies 
+carried out in the country, to recognize and issue equivalences of diplomas and academic titles obtained abroad”. 
+Its vision is “to conduct credible, objective, timely, relevant and impartial assessments that meet and/or exceed 
+higher education quality standards, correspond to international standards, respect the right to quality education 
+for all, pursue equity, and respect diversity, utility, feasibility, legitimacy, accuracy and fairness.” The agency has 
+a strategic plan that takes into account the national context of HE and a well-defined sector management plan, 
+linked to the agency’s resources and focused on evaluation activities. During the meetings, it was noted that the 
+planning documents are being revised in line with the vision of the new cabinet.
+
+• Comments
+
+AMAQ-SUP has not yet defined its vision, and although an agency development plan has been developed, 
+there is no practical management plan detailing how to mobilize agency resources to achieve its goals. There is 
+currently no practical management plan detailing how to mobilize the agency’s resources to achieve its goals.
+
+In the current state of the texts and the results of the interviews, the vision and mission of the AMAQ-ES do 
+not appear in a precise way in a document that could be shared with the Authority’s stakeholders and made 
+public, a fortiori through a publication on its website. In the same sense, the mission and the functions or 
+objectives are not clearly dissociated. 
+
+
+
+21
+
+For the future Algerian agency, it is not clear that the vision and missions of the agency are published in 
+different documents that could be shared with stakeholders. The expert missions that are envisaged must 
+be considered carefully. While the assignment of this responsibility is the responsibility of the country’s 
+authorities, the committee is careful to ensure that these expert assessments (by other existing bodies) do 
+not give rise to suspicions of conflicts of interest if they are carried out for the benefit of entities (training, 
+establishment, research entity) that are otherwise evaluated by the Agency.
+
+The tasks assigned to the agencies often require resources that are not always available. In order to carry out 
+the missions and achieve the objectives, it is necessary to substantially increase the technical staff and the 
+financial means.
+
+• Judgement
+
+The document describing the vision and goals of current or future agencies is still often lacking and does 
+not allow these organizations to have a clearly formalized roadmap and strategy, which does not meet a 
+fundamental requirement of ASG-QA. This standard gives agencies the opportunity to contextualize and 
+refine their vision and mission statements in order to enhance their visibility, communicate broadly about 
+their missions and legal goals, and put a plan of action as a consequence of a strategy. It is necessary and 
+useful for agencies to map out their roadmap.
+
+3
+
+Statement Reference Organizations involved
+
+Governance and management QAA has clearly defined structures to 
+ensure rigorous and ethical governance 
+and management, including good quality 
+assurance practices in support of its mission 
+and official mandate.
+
+AMAQ-SUP
+AMAQ-ES
+CIAQES
+ANAQ-GN
+EQB
+INAAREES
+
+• Findings
+
+[AMAQ-SUP, MALI] In accordance with the law of creation, AMAQ-SUP is administered and managed by 
+three governing bodies (the Board of Directors, the Executive Board and the Scientific Council), for which 
+the missions are clearly defined in the above-mentioned law. Thus, AMAQ-SUP has well-defined structures, 
+or those in the process of being finalized, to ensure rigorous and ethical governance and management. All 
+procedures related to financial and management decision-making are set out in a procedures manual that 
+formalizes the main administrative, financial, accounting, operational and internal audit procedures. Staff 
+are recruited on the basis of job descriptions drawn up in advance. That said, the Board of Directors and the 
+Executive Committee are not included in the organization chart. In terms of ethics, the signing of a charter 
+of ethics and deontology, currently being finalized, will set out the practices of internal staff, experts and 
+members of the Board of Directors and the Scientific Council. 
+
+[AMAQ-ES, MAURITANIA] Through its 2021 decree of creation, the Authority has a governance structure 
+whose organs are the Board of Directors, the Scientific Council and the Executive Body. Technical and 
+
+
+
+22
+
+administrative services are provided to assist the Executive Director in his mission to manage WADA-ES. The 
+main officials of AMAQ-ES are appointed by the Minister in charge of Higher Education. The Scientific Council 
+develops the reference documents necessary for the execution of the Authority’s mission. In general, the 
+scientific council is the body that, among other things, validates the documents developed by the experts 
+and deliberates on the proposals of external experts. In the texts establishing the AMAQ-ES, it is not specified 
+who will make the final decision on accreditation or habilitation, although only the Ministry has the power to 
+accredit. There is still no communication plan to disseminate information to the public.
+
+[CIAQES, ALGERIA] As CIAQES is only a QA implementation committee, it is not structured with a relevant 
+governance body and supporting administration. The chairperson and members have been appointed by 
+the Ministry. The prerogatives of this commission are essentially focused on support, awareness, training 
+and advice. The information system is weak in the CIAQES approach, which causes insufficient visibility of 
+its achievements to create buy-in from all stakeholders. That said, the operation of CIAQES has provided 
+interesting experiences of governance and management of a quality assurance system at the national level 
+and within higher education institutions, even though some people have played several roles at once as 
+managers of the central structure, expert assessors, quality assurance trainers, etc. 
+
+[ANAQ-GN, GUINEA] The Guinean agency is supported by three governance bodies: the Board of Directors 
+(BoD), the Scientific Council (SC) and the Executive Secretariat (ES). Based on this organization, its operating 
+rules, and following the various meetings with stakeholders during the visit, the expert committee notes 
+that ANAQ has these three bodies, well coordinated, with clearly defined prerogatives, responsibilities and 
+mandates, thus enabling ANAQ to achieve its vision and fulfill its missions and achieve its medium-term 
+strategic objectives effectively and efficiently. Nevertheless, and although a cell exists in the organization 
+chart, there is no communication strategy to inform the public. 
+
+[Today, the EQMD is a department within the Ministry, and although it has a well-defined structure, it lacks 
+rigorous and independent governance and management. The EQMD does not have adequate and appropriate 
+human, financial, and physical resources to effectively and efficiently carry out its quality assurance mandate. 
+Despite the obstacles, the DGQE has put in place good quality assurance practices to serve Ivorian higher 
+education and scientific research. The repositories are published on a specific DGQE website, the link to which 
+is not announced on the ministry’s website and which cannot be found by search engines. Communication 
+exists only with the HEIs, without being formal; there is no functional communication department. There is 
+very little consultation with stakeholders, who are not sufficiently involved and who complain about the lack 
+of feedback after evaluations. 
+
+[INAAREES, ANGOLA] The structure of INAAREES, as a public institution, is characterized by a well-defined 
+organization, with appropriate departments and committees that deal with issues related to the agency’s 
+core business as well as issues related to human resource management, gender equity and integration, 
+financial management, and probity, all within the framework of the country’s legislation. A National Council 
+for Quality Assurance (NCQA), which will act as a board of directors, is provided for in the law but is not 
+yet functioning. INAAREES management has indicated that it will be established soon. The agency does not 
+yet have a communication and information dissemination system for public accountability. It is the Ministry 
+that manages INAAREES’ public information. Although the representatives of external stakeholders have 
+
+
+
+23
+
+expressed great openness and willingness to collaborate with INAAREES, there is not yet a body for regular 
+consultation. With regard to financial resources, INAAREES will receive additional funding from the State for 
+the evaluation and accreditation of study programs and higher education institutions.
+
+• Comments
+
+AMAQ-SUP does not have a defined communication strategy to disseminate information to the public 
+in a regular and planned manner, nor does it have an internal complaints and appeals procedure for 
+inappropriate or abusive behavior by staff. For the ethics charter, which is currently being drafted, it 
+is important that only AMAQ-SUP be listed on this document to emphasize its independence from the 
+Department. Indeed, when agency members are also part of the Ministry, this leaves very few possibilities 
+for them and for the agency.
+
+There is no evidence of periodic stakeholder consultations and follow-up actions on key aspects of policy 
+and operations.
+
+For the AMAQ-ES, the publication of evaluation and accreditation decisions and reports is not provided for in 
+the current texts. The charter of ethics and professional conduct has not yet been developed for the experts 
+involved in the external evaluation missions set up by AMAQ-ES, for the members of its various bodies and 
+for its staff.
+
+For agencies in the process of being established (Algeria, Côte d’Ivoire), it is useful, as of now, to provide structures 
+to ensure transparent, independent, and autonomous governance, as well as rigorous and ethical management, 
+including formalizing good quality assurance practices in support of its mission and official mandate.
+
+ANAQ-GN must adopt a real communication strategy and activate more its communication structure provided 
+for in its organizational chart. ANAQ must also maintain periodic consultations with stakeholders on the main 
+aspects of its policy and its various activities.
+
+• Judgement
+
+Existing and emerging agencies have defined structures to ensure rigorous and ethical governance and 
+management, including good quality assurance practices in support of their mission. That said, there is 
+diversity in practice, and many do not have a clear system for communicating their activities to civil society. 
+This may be due to contextualized national cultures that do not yet allow this. 
+
+4
+
+Statement Reference Organizations involved
+
+Independence of the AAQ The AAQ is independent in its activities, results, 
+judgments and decisions.
+
+AMAQ-SUP
+AMAQ-ES
+CIAQES
+ANAQ-GN
+EQB
+INAAREES
+
+
+
+24
+
+• Findings
+
+[AMAQ-SUP, MALI] AMAQ-SUP is placed under the supervision of the ministry in charge of higher education 
+and scientific research. To this end, Article 18 of the law creating the agency states that the supervisory 
+authority is exercised over the authorities of AMAQ-SUP by way of substitution, suspension or revocation, 
+as well as over their acts by way of prior authorization, approval, cancellation, substitution or suspension of 
+execution. Thus formulated, these legal provisions do not seem to be in line with the absolute perspective of 
+organizational, operational and official independence of the AMAQ-SUP. Moreover, the same law creating the 
+agency insists on cooperation between AMAQ-SUP and SESB, which threatens the agency’s independence. 
+The position of AMAQ-SUP is thus ambiguous: the two institutions (AMAQ and DGERS), which share the origin 
+of evaluation policies, resources, and practices (AMAQ-SUP was created by the Ministry), tend to adhere to a 
+form of preservation of the original unity. 
+
+[AMAQ-ES, MAURITANIA] The decree establishing AMAQ-ES stipulates that the Authority is placed under 
+the technical supervision of the Ministry of Higher Education. Thus, the texts are not explicit with regard 
+to the independence of the Authority. The modalities for exercising technical supervision do not guarantee 
+the autonomy and independence of the agency. Likewise, the supervision can lead to the revocation of the 
+acts and decisions of the Authority. There is also the intervention of employees of the Ministry of Higher 
+Education, who are members of the Board of Directors and the Scientific Council, in the decision-making of 
+the Authority.
+
+[CIAQES, ALGERIA] Although CIAQES is totally independent, it has no prerogatives to exercise authority in 
+terms of evaluation and decisions on accreditation; it is only a QA implementation commission. In the project 
+for the agency to be set up, the preparatory texts provide for its independence in its financing and in the 
+conduct of its statutory activities, as well as transparency, impartiality and openness to the international 
+scene, with the aim of achieving international recognition as soon as possible. To this end, the agency is 
+to be an “independent administrative authority, with legal personality and financial autonomy”. However, 
+independence has not yet been fully defined (in the creation project) at the decision-making, organizational 
+and operational levels, in accordance with the ASG-QA, in order to ensure that the mechanism promotes 
+freedom of action that takes into account the modes of governance and management of higher education 
+and research that, among other things, seek to strengthen the autonomy of universities. 
+
+[ANAQ-GN, GUINEA] The organizational independence of ANAQ is noted at different levels: from its legal 
+status, at the level of the board of directors and the scientific council, which carry out their legally assigned 
+missions in complete independence, and at the level of the executive secretary, who is vested with the 
+decision-making power necessary for the agency’s operation. Although ANAQ is largely financed by the State 
+(apart from some of its own resources), this does not affect its operational independence, which is reflected in 
+the establishment of procedures, program and institution evaluation guidelines, a code of ethics and a set of 
+internal regulations. ANAQ is sovereign in setting the timetable for evaluation and/or accreditation missions, 
+which is approved by its Scientific Council. Its operational independence is also reflected in the recruitment of 
+its expert assessors, through a call for applications. ANAQ carries out its evaluations in complete independence 
+and the results of these evaluations, which take the form of reports from the expert teams, are submitted to 
+the Scientific Council for approval. The results of the deliberations are notified to the institutions concerned 
+
+
+
+25
+
+and then published as required by the decree establishing ANAQ. That said, as the composition of the Board 
+of Directors is mainly drawn from ministerial departments (seven members out of eleven), one may wonder 
+about the effective and operational autonomy in the decision-making process within the Board.
+
+[DGQE, COTE D’IVOIRE] The DGQE is under the authority of the Minister of Higher Education and 
+reports to him and in some cases awaits his opinion before making decisions. The DGIE sets the main 
+orientations and decides on its action program; proposes evaluation criteria to the administration; drafts 
+its reference systems; and establishes its reports aimed at improving quality in complete independence. 
+In fact, it has no organizational independence, nor for decisions concerning official results; as for its 
+independence, it is partial. This is quite normal, because the DGQE is not a QA agency. Thus, the draft 
+decree for the creation of ANAQESR provides for the constitution of an entity with legal personality and 
+financial autonomy.
+
+[INAAREES, ANGOLA] INAAREES has a relative autonomy dictated by the law. Two aspects define its status: on 
+the one hand, it is a public institute with clearly defined administrative, financial and operational autonomy, 
+and on the other, it is an administrative department of the Ministry. The panel was able to observe that 
+there is operational independence with respect to the design and operationalization of the national quality 
+assurance system and the tools created to carry out the evaluation and accreditation of study programs and 
+institutions. However, it is not yet possible to verify the independence of the formal results, i.e., the final 
+decision of the quality assurance activities, since INAAREES has not yet started the evaluations. Regarding 
+financial and budgetary issues, there are also some limitations; indeed, the budget is allocated by the Ministry, 
+which apparently limits its independence, although the director stated that they do not have financial 
+problems because the Minister has guaranteed an additional allocation and is committed to supporting the 
+accreditation activities.
+
+• Comments
+Although the decrees establishing the agencies always “speak” of autonomy and independence (institutional, 
+organizational, operational, and/or official results?), and apart from the Guinean authority, all the other agen-
+cies do not enjoy the “total” independence necessary for a quality assurance agency.
+
+• Judgement
+Although agencies (existing or future) operate at different speeds in different contexts, the “real” in-
+dependence of these bodies remains one of their greatest challenges, as they often do not have it. 
+Alignment with this GSA-QA requirement is vital to the recognition, performance and sustainability of 
+agencies, even if it will take time to establish in some countries, for cultural and/or centralized national 
+policy reasons.
+
+5
+
+Statement Reference Organization 
+concerned
+
+Policies, processes and activities The QAA undertakes its external quality 
+assurance activities in accordance with the 
+references and guidelines set forth in Part B of 
+the QAA.
+
+AMAQ-SUP 
+(Mali)
+
+
+
+26
+
+• Findings
+
+The AMAQ-SUP criteria, benchmarks and procedures are tailored to the HEIs’ organization and activities and 
+cover both financial and human resources as well as resources for learning and research. They have been 
+discussed with HEIs and other stakeholders in various workshops. Research has not yet been specifically 
+assessed, as the framework is still under development.
+
+• Comments
+
+AMAQ-SUP has clear assessment procedures that it implements effectively through relevant benchmarks, 
+adapted to the core activities of HEIs. Nevertheless, learning outcomes are not sufficiently emphasized in 
+the institutional framework. The monitoring and evaluation of learning outcomes would allow to see if the 
+set objectives are achieved at the end of the training program. The development of objectives and learning 
+outcomes should be prepared in consultation with relevant stakeholders. 
+
+• Judgement
+
+Although the assessments to date have been conducted by experts appointed by the Ministry, the Malian 
+agency has developed frameworks and procedures for undertaking its external quality assurance activities in 
+accordance with the references and guidelines set out in Part B of the GSA-QA. In time, there will be feedback 
+to improve the procedures and other documents, and to further emphasize the learning outcomes.
+
+6
+
+Statement Reference Organization 
+concerned
+
+Internal quality assurance QAA has policies and processes in place for its 
+own internal quality assurance regarding the 
+definition, assurance and improvement of the 
+quality and integrity of its activities.
+
+AMAQ-SUP 
+(Mali)
+
+• Findings
+
+Various implementation documents (administrative, accounting and financial procedure manuals, ethics and 
+professional conduct charter, evaluation charter) ensure objectivity and fairness in the agency’s judgments. 
+AMAQ-SUP’s management is also well aware that a person should be in charge of the agency’s IQA, and 
+it is their goal to recruit the appropriate person. However, AMAQ-SUP does not yet have a specific policy 
+document on its vision for quality assurance and its strategic planning objectives. An agency development 
+plan has been developed, but it does not provide a timeline for action.
+
+• Comments
+
+The agency does not yet have its own internal quality assurance procedures aimed at improving the quality 
+of its services and is aware of this; it is ready to begin the process of hiring an internal auditor. Also, because 
+AMAQ-SUP was established in 2018, it is too early for it to already be implementing thematic analyses of the 
+
+
+
+27
+
+higher education landscape, but interviews with experts indicated that the agency plans to collaborate with 
+the ministry’s information and data division in the future to produce such analyses.
+
+• Judgement
+
+This requirement should be implemented as soon as possible by the Malian agency in order to align with ASG-QA.
+
+7
+
+Statement Reference Organisation 
+concerned
+
+Human and financial resources The QAA has adequate and appropriate human, 
+financial, and material resources to carry out its 
+QA mandate effectively and efficiently.
+
+AMAQ-SUP
+AMAQ-ES
+CIAQES
+ANAQ-GN
+EQB
+INAAREES
+
+• Findings
+
+[AMAQ-SUP, MALI] AMAQ-SUP is aware that it does not yet have the human and financial resources to fully 
+carry out its missions. The agency has already implemented a series of training sessions to ensure that staff 
+skills are adapted to their missions and is in the process of developing a new staff training plan. It is important 
+to note that the bulk of AMAQ-SUP’s human, financial and material resources come from government 
+spending. Financial resources are considered insufficient by AMAQ-SUP authorities. For example, there is no 
+budget line dedicated to the financing of evaluation missions, which are part of the agency’s core business. 
+Moreover, there is no mention of a gender parity policy or of a policy in favor of disadvantaged minorities.
+
+[AMAQ-ES, MAURITANIA] Being still young, AMAQ-ES currently has only the Director, his deputy, administrative 
+and support staff. The agency has not yet begun the process of recruiting the technical quality assurance staff 
+needed to support the Authority’s work on methodology, assessments, etc. For the time being, AMAQ-ES 
+relies on experts for assessments and other technical activities. AMAQ-ES has sufficient and spacious premises 
+with the necessary equipment for its proper functioning. It also has sufficient financial resources that come 
+exclusively from the government. On the other hand, the team of experts was unable to find a training plan 
+for the Authority’s staff members, particularly with a view to developing their expertise in quality assurance. 
+It was also noted that there is little representation of women in the Authority’s authorities, bodies and staff.
+
+[CIAQES, ALGERIA] CIAQES has no resources; it is composed of academics appointed by the Ministry and who 
+are volunteers. Concerning the future QA agency, important efforts have already been made in the reflections 
+conducted by CIAQES and in the proposals presented. Profiles of the members of the administrative and 
+scientific boards and of the Director General have been defined. However, their selection methods and 
+criteria are not clearly addressed (call for applications, co-optation, etc.). Unlike the members of the Board 
+and the Scientific Council, the Director General does not have a mandate, a situation that could limit his/her 
+freedom. As for financial resources, the need to obtain funding commensurate with the agency’s objectives 
+was emphasised in the CIAQES self-evaluation report and during interviews. The various sources of funding 
+
+
+
+28
+
+recommended are: the state subsidy, the costs of evaluation files, the sale of expertise and the costs of 
+processing files for the recognition of foreign diplomas. As far as material resources are concerned, it is hoped 
+that the agency will be provided with the infrastructure, equipment and materials necessary for its proper 
+functioning. There is no mention of a policy for parity between men and women, nor one that favours people 
+from disadvantaged social backgrounds.
+
+[ANAQ-GN, GUINEA] The experts found that ANAQ-GN is adequately funded to achieve its vision, mission, 
+and objectives. It has adequate resources for its quality assurance activities. With regard to human resources, 
+staff is recruited on the basis of a call for applications. This staff is composed of dynamic and motivated 
+men and women (without parity). The staff is recruited from the private and public sectors, mostly from the 
+academic world. As far as financial resources are concerned, the State allocates a quarterly grant to ANAQ-
+GN. The latter allows them to pay salaries, purchase supplies and goods, various consumables, maintenance 
+and repair, capacity building. In addition to this grant, internal revenues are generated mainly from evaluation 
+fees paid by institutions and programmes. Donations and bequests are also part of ANAQ-GN’s resources. 
+It also diversifies its sources of funding through other institutions such as the German Academic Exchange 
+Service (DAAD). As for material resources, ANAQ-GN is equipped with computer tools, office furniture as well 
+as a fleet of cars allowing it to carry out its evaluations.
+
+[DGMEQ, COTE D’IVOIRE] DGMEQ does not have adequate resources that take into account real needs. The 
+allocated budget is often lower than the budget requested, and may even be insufficient. The civil service 
+assigns staff to the DGQE without taking into account the expressed needs. That said, the future agency 
+must have adequate and appropriate human, financial and material resources to carry out its QA mandate 
+effectively and efficiently. It is also important to integrate a gender parity policy.
+
+[INAAREES, ANGOLA] INAAREES has adequate facilities and qualified and experienced staff. However, it has 
+been noted that this staff is insufficient (due to the numerous missions assigned to the institution), hence 
+the need to recruit as soon as possible. Since financial resources are not sufficient, INAAREES will receive 
+additional funding from the State for the start of evaluation and for the accreditation of study programmes 
+and HEIs. In addition, there is a working group that is evaluating the fees to be charged for conducting external 
+evaluation exercises of HEIs as well as the remuneration of external evaluators to maintain financial balance.
+
+• Comments
+
+The organisations do not always have the necessary resources to operate effectively; moreover, they depend, 
+for the most part, on public funding, which limits their autonomy, independence and scope of action.
+
+There is no mention of inclusion of people with fewer opportunities for economic, social, cultural, geographic, 
+health or other reasons such as disability. Respect for gender parity is not described and not supported.
+
+• Judgement
+
+Even if this is not always the case (for young or emerging agencies in particular), agencies are publically funded, 
+but not always sufficiently so as to carry out their missions. If they do not have adequate and appropriate 
+resources to carry out their QA mandate, their operations will be less effective. The fact that there is nothing 
+
+
+
+29
+
+on inclusion of people fewer opportunities and gender balance in the agency staffing and approach towards 
+experts shows that there is still work to be done in this area.
+
+8
+
+Statement Reference Organisation 
+concerned
+
+Benchmarking, networking and 
+collaboration
+
+The AAQ promotes and participates in 
+international initiatives, conferences and 
+workshops and collaborates with relevant QA 
+bodies to exchange and share experiences and 
+best practices.
+
+AMAQ-SUP 
+(Mali)
+
+• Findings
+
+The agency had already established partnerships with CAMES, ANAQ-SUP and HCERES during the first HAQAA 
+1 assessment, and has since expanded its strategy internationally. Indeed, AMAQ-SUP has seized various 
+opportunities to receive training, such as in the QA project piloted by UNESCO and the city of Shenzhen, 
+China between 2017 and 2020. It is also a founding member of the RAFANAQ network (Réseau Africain 
+Francophone des Agences Nationale d’Assurance Qualité), which allows it to share best practices with similar 
+agencies. AMAQ-SUP also collaborates regularly with Moroccan and Senegalese agencies with which it has 
+signed partnership agreements.
+
+• Comments
+
+AMAQ-SUP has continued to develop its regional and international collaborations by targeting relevant 
+partners, adapted to its needs, in order to benefit from an adequate sharing of experiences and good practices. 
+The agency participates in efforts to develop quality assurance at the regional and continental levels. It is also 
+a driving force in the recognition of international programmes and qualifications and has brought the Addis 
+Ababa Convention to the Ministry to ensure its ratification.
+
+• Judgement
+
+Although still young, AMAQ-SUP participates in international initiatives, conferences, and workshops, and 
+collaborates with relevant QA bodies, whether regional, continental, or international. This is a learning 
+process and will help ensure the sustainability of the agency.
+
+9
+
+Statement Reference Organisation 
+concerned
+
+Periodic evaluation of the QAA QAA undergoes periodic internal and external 
+evaluations for the purpose of continuous 
+improvement.
+
+AMAQ-SUP 
+(Mali)
+
+
+
+30
+
+• Findings
+
+AMAQ-SUP has received, as part of the HAQAA initiative, a consultancy visit in 2018 (HAQAA1) and an external 
+evaluation in 2022 (HAQAA2). However, the agency has not yet formally defined the periodicity of internal 
+and external evaluations with a view to continuous improvement. With regard to external evaluations, in 
+2020 Mali requested and obtained the support of two quality assurance experts within the framework of the 
+UEMOA/CAMES Higher Education Quality Assurance Support Project, who were charged with evaluating the 
+national QA system with a view to highlighting the strengths and weaknesses of QA in the Malian environment 
+and proposing avenues for improvement. The frequency of internal evaluations has not yet been determined 
+due to a lack of dedicated staff.
+
+• Comments
+
+AMAQ-SUP seizes a maximum number of opportunities, especially through international projects and calls, to 
+continue its development and improve its practices. However, although the recommendations of the previous 
+HAQAA support visit have been implemented, AMAQ-SUP has not yet implemented the recommendations of 
+the UEMOA/CAMES project experts in order to carry out improvement actions. The implementation of such 
+recommendations also does not appear to be scheduled.
+
+• Judgement
+
+AMAQ-SUP is the only African agency that volunteered for a consultancy visit during HAQAA1, and then for 
+an assessment visit during HAQAA2, which indicates a willingness on the part of its managers to learn and 
+improve through external “eyes” and to align with the ASG-QA. It should be noted that this standard may be 
+difficult to apply in the early years of the agencies.
+
+4. GOOD PRACTICES
+
+The panel affirms that ANAQ-GN, despite its recent creation, has made tremendous progress over 
+the past three years, and is on track with the implementation of its strategic plan. The agency does 
+this by inviting all its stakeholders to become involved in the development of quality assurance in the 
+Republic of Guinea.
+
+The evaluation of the file (self-assessment report and annexed documents) and the meetings with all the 
+stakeholders during the visit enabled the expert committee to note that ANAQ-GN’s reference systems and 
+practices are largely based on the ASG-QA. 
+
+Although there were no rankings or comparisons, it was found that this agency, with its good quality assurance 
+practices, can become a reference in the region and serve as a model (in addition to the Senegalese agency) 
+for newly created or emerging agencies.
+
+
+
+31
+
+5. GENERAL RECOMMENDATIONS AND CHALLENGES
+
+Although many efforts and actions have been taken, it should not be forgotten that many agencies were born 
+or will be born in countries where, historically, higher education policies were centralised and decisions were 
+made only by the ministerial authority. This requires a change of paradigms to achieve performance and a 
+strong commitment from government authorities to ensure that accountability, continuous improvement, 
+evaluation (internal and external), responsibility, participatory approaches, traceability, consultation with 
+stakeholders, autonomy, independence, commitment to the community and learning outcomes are not just 
+empty words.
+
+It is this change in culture, consistent with the strategies to be put in place, that will ensure that agencies are 
+on the “right track”, the track laid out by the ASG-QA, to succeed in this challenge, taking into account the 
+additional recommendations below.
+
+5.1. Recommendations for QA agencies
+
+• The Agency must establish, implement, maintain and continuously improve its practices and 
+standards, in harmony with regional and continental requirements (ASG-QA);
+
+• Agency management must demonstrate leadership and commitment to its missions by ensuring 
+that the policy, vision, goals and strategy are well described, established and planned, and 
+consistent with the agency’s context;
+
+• Continue the dissemination of quality assurance guidelines and procedures, training and 
+support for HEIs (teachers, administrative staff, CIAQ members, students, etc.);
+
+• Establish and maintain a charter of ethics and professional conduct, make it available and 
+communicate it;
+
+• Strengthen the organisational, operational, and official performance independence of 
+Agencies, in order to strengthen the effectiveness and relevance of agency strategies, 
+practices, and activities;
+
+• Develop a strategic plan based on a formalised vision and a budget plan in order to 
+achieve the targeted objectives within the given timeframe and with the human resources 
+identified beforehand;
+
+• Develop a functional mechanism to follow up on the recommendations of external evaluations 
+conducted by the agencies, in order to assist in the continuous improvement of quality in HEIs 
+and their training programmes;
+
+• Consider gender issues in recruitment with a view to achieving better gender balance;
+• Support public and private higher education institutions in setting up their quality assurance 
+
+units and in training their staff;
+• Consolidate and strengthen the credibility, independence, autonomy, impartiality, objectivity 
+
+and transparency of agencies;
+• Put in place mechanisms to recruit and motivate external experts to help ensure the 
+
+Agency’s independence;
+• Publish reports and decisions from assessments and accreditations;
+
+
+
+32
+
+• Increase Agency participation in initiatives to harmonise quality assurance at the regional, 
+African and global levels;
+
+• Gradually broaden the scope of evaluation and accreditation activities to cover all fields and all 
+public and private higher education institutions;
+
+• To create the conditions for a better involvement of stakeholders in the implementation of the 
+agencies’ mission by setting up periodic consultations with stakeholders (employers, students, 
+alumni, etc.) on the fundamental aspects of the evaluation policy and external quality assurance;
+
+• Provide Agencies with an integrated information system to facilitate data management 
+and analysis;
+
+• Review the composition of certain Boards of Directors in such a way as to guarantee their 
+independence while reducing the representativeness of the Ministries and introducing new 
+members recognised for their independence and expertise;
+
+• Train and then involve students as members in external evaluation committees;
+• Ensure that the support of the Agency from the highest authorities is continuous and sustainable;
+• Clarify in the Agency’s texts the roles and tasks of the various bodies and persons involved in 
+
+its activities;
+• Implement a strategy for participatory (from conception to adoption) and inclusive development 
+
+of repositories, guidelines and other reference documents by all stakeholders;
+• Develop and implement a stakeholder outreach and engagement strategy to support the 
+
+Agency’s initiatives and activities;
+• Institutionalize internal quality assurance within higher education and research institutions;
+• Develop an assessment, accreditation, and decision-making mechanism that fosters the 
+
+confidence of stakeholders in the national quality assurance system;
+• Define a clear framework for the mobilization of financial resources that does not hinder the 
+
+credibility of the agency and the effective implementation of its priority missions;
+• Establish a clear and easily accessible communication system for the timely dissemination of 
+
+information and results. This includes publishing a communication policy and strategy to ensure 
+transparency of activities and visibility of the agency;
+
+• Formalise exchanges and improve information sharing with institutions, both before and after 
+the evaluation campaigns;
+
+• The Agency must determine and provide the human resources necessary, both qualitatively 
+and quantitatively, to meet its needs. This is essential to the effective implementation of 
+the quality management system and the implementation the evaluation and accreditation 
+mission of the Agency;
+
+• The Agency shall determine, provide and maintain the environment necessary for the 
+implementation of its internal and external activities;
+
+• The Agency must provide training opportunities for its staff so that they may acquire the 
+necessary skills for the realisation of their activities;
+
+• The Agency must identify and select opportunities for improvement and undertake all actions 
+necessary to achieve this. It must undergo periodic internal and external evaluations for the 
+purpose of continuous improvement.
+
+
+
+33
+
+5.2. Challenges for QA agencies
+
+Agencies existing or in the making need to engage in the most important challenges to be addressed and in 
+the implementation of activities that seem the most difficult. This is because they are context and culture 
+dependent and because their efforts are essential for higher education enable performance, recognition and 
+sustainability. The most important and critical challenges are:
+
+• Guarantee the full independence of the authority performing external QA (organisational 
+independence, operational independence and independence for official results and final decisions);
+
+• Ensure that transparency and provision of information about the agency ; its activities and 
+results should be public, accessible and available, particularly to relevant stakeholders;
+
+• Ensure the financial viability of the agency so that it can carry out its activities and achieve 
+its objectives;
+
+• Ensure that the agency’s human resources are competent on the basis of initial or professional 
+training, or appropriate experience. Where appropriate, take action to acquire the necessary 
+skills and enable continuous improvement in practice;
+
+• Engage all higher education stakeholders (internal and external) in the development of external 
+QA methodologies, including employers and students;
+
+• Balance the accountability and improvement aspects of the external QA process to ensure 
+that higher education institutions/programmes meet the requirements of the ASG-QA and 
+stakeholder expectations and needs.
+
+5.3. Recommendations on the methodology used
+
+• For the consultancy visits, it was more difficult to use the ASG-QA as an external evaluation tool, since 
+the agencies visited (except for the Guinean agency, ANAQ-GN) do not fully function as agencies 
+in terms of mission, vision, strategy, objectives, etc. Also, it was found that some of the standards 
+reviewed were not relevant to the evaluation. One question to be asked is, in the future, should one 
+assess only the agencies and rather provide a lighter service for QA systems under development?
+
+• It is not clear that the consultancy visits can positively impact future agencies since it is not 
+known if the individuals in the agencies visited will be among the future actors in the agency 
+once it is established;
+
+• Sufficient financial resources need to be mobilized to conduct future agency reviews under 
+appropriate conditions and to allow for the integration of students in review panels and in site visits;
+
+• Ensure that all activities (from the self-assessment to the validation of the report by stakeholders) 
+are carefully planned to meet the deadlines;
+
+• To avoid confusion in the assessments and ensure consistency between the reports. It would 
+be wise to include a “strengths” section, a “weaknesses” section and an “opportunities for 
+improvement” section in the report, for example;
+
+• Although the preparation of the visits is done online, it would be desirable that the actual visits 
+are done face-to-face for all the experts mobilised; this will bring a certain added value and will 
+dispel many subjective perceptions;
+
+
+
+34
+
+• The drafting of evaluation reports must be harmonised in order to ensure fair decisions and 
+improve in readability and impact. Ameeting with the experts should be held before submission to 
+fine tune and a training session could also be offered, if necessary. This is important to make them 
+aware of possible discrepancies and biases, and to strengthen their judgment and writing skills;
+
+• Although there were no reports of tension during the visits, it would be wise to establish 
+and maintain a charter of ethics and professional conduct for visits, make it available and 
+communicate it;
+
+• It would be appropriate for agencies that wish to do so to establish a concrete follow-up process, 
+integrated into the agency’s review methodology, that would reinforce the impact of reviews 
+and consultancy visits, while supporting a culture of continuous improvement. 
+
+6. GENERAL CONCLUSION
+
+Following the 2018 assessment of the agency reviews piloted under HAQAA1, this second round of agency 
+reviews and consultancy visits provided a clearer picture of how the ASG-QA align to and also inspire QA 
+agency activities. It also helped to assess the implementation of external QA in African countries, which 
+remains a fairly novel practice.
+
+Overall, participating agencies and departments found the review experience to be positive, with beneficial 
+outcomes, but would have liked to see the visits conducted entirely in a face-to-face mode, which would add 
+greater value.
+
+Of note, the fact that all of the proposed standards were adequately addressed is a strong indication that 
+ASG-QA is broadly adequate to examine external QA processes and agency work. In addition, the reports 
+provide a picture of the wide variety of situations among the six pilot cases, showing that ASG-QA allow 
+sufficient room to accommodate this diversity while providing comparable results.
+
+There was some consistency in the structure and format of the review reports (due to the template provided), 
+although there were some differences and shortcomings in the approach to content development, particularly 
+in the judgments section, which appears to be due to misunderstandings. Therefore, there is a need to train 
+the experts to strengthen their judgments and writing skills before they conduct the reviews. In the future, 
+consistency of reporting will be an important issue, especially if the results are to be used to make judgments/
+decisions and have formal consequences.
+
+With regard to the implementation of external QA in the continent, progress is notable and changes are 
+perceptible. Many new agencies have been born and have integrated good practices aligned with the ASG-
+QA, while many others are in the gestation or creation phase with projects supported by legal texts that are 
+more or less in line with the requirements of the ASG-QA; the major challenges being the implementation 
+of these texts, particularly with regard to the autonomy and independence of the agency. It is these future 
+objectives, among the most important, that are most relevant to the agencies.
+
+

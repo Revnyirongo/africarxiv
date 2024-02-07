@@ -1,0 +1,336 @@
+
+The implementation of a framework for 
+utilizing open-source cloud services in tertiary 
+
+academic institutions
+
+
+
+About The Presenter
+Eng. Mutandavari Mainford
+A holder of an MTech degree in Computer Science from Jawarlal 
+Nehru Technology University, Hyderabad, India, an MTech degree in 
+Strategy and Innovation from Harare Institute of Technology and BSc 
+(hons) degree in Computer Science from Midlands State University, 
+MSU, Zimbabwe. He has more than 11 Years of experience in 
+teaching, project supervision, exam setting and marking. He is 
+presently an acting Cloud Computing and IT postgraduate studies 
+coordinator in the School of Information Science and Technology, HIT 
+Harare.
+
+
+
+What Will Be Covered
+
+✓Brief Intro
+
+✓Potential Benefits
+
+✓Key Activities in Tertiary Institutions
+
+✓Word Cloud of Open-Source Cloud Services
+
+✓ Literature Survey of Bespoke Frameworks
+
+✓ Framework Design
+
+✓Case Scenario
+
+✓Conclusion
+
+
+
+Introduction
+
+✓As technology continues to shape the way we learn and teach, it is 
+crucial for institutions to leverage cost-effective and scalable 
+solutions to provide quality education to students. 
+
+✓Open-source cloud services offer a promising alternative to 
+traditional proprietary software, providing flexibility, customization 
+and collaboration opportunities. 
+
+✓ It is of paramount importance to explore the benefits of open-
+source cloud services in tertiary education and propose a 
+framework for their implementation.
+
+
+
+Key Terms
+
+✓ Open-Source – refers to software or technology that is freely 
+available for anyone to use, modify and distribute. The source 
+code is openly shared and can be modified and improved by a 
+community of developers. 
+
+✓ Cloud Services – refers to the delivery of computing resources 
+including software, storage and processing capabilities over the 
+internet. These are provided by third-party providers who 
+maintain and manage the underlying infrastructure required to 
+deliver these services.
+
+
+
+Potential Benefits (1)
+
+✓ Costs saving- typically free/low cost allowing institutions to save 
+money on licences.
+
+✓ Scalability –Cloud Services can easily scale up or down providing 
+flexibility and agility.
+
+✓ Accessibility –can be accessed anywhere where there is internet 
+connectivity.
+
+
+
+Potential Benefits (2)
+
+✓ Customization –can be customized to meet specific needs, 
+providing tailored solutions that meet unique requirements.
+
+✓ Innovation  - constantly evolving and improving
+
+✓ Collaboration – Encourage collaboration and knowledge sharing 
+among educational institutions, enabling them to work together to 
+solve common challenges and share best practices. 
+
+
+
+Important Activities in Tertiary 
+Institutions
+
+These are some of the key tasks at tertiary institutions 
+
+▪ Teaching and learning activities 
+
+▪ Research and innovation activities 
+
+▪ Community engagement and outreach activities 
+
+▪ Student support services 
+
+▪ Infrastructure development and maintenance 
+
+▪ Collaborations and partnerships with other institutions and 
+
+organizations 
+
+▪ Library and information services 
+
+
+
+Open-Source Cloud Services    
+                                                                                                                             
+
+
+
+Literature Survey
+
+Framework Key Features 
+
+TOGAF based on four architecture domains: 
+
+Business, Data, Application, and Technology.
+
+ITIL The ITIL agile methodology features focus on a distinct 
+
+component of the IT service's lifecycle:
+
+Service Strategy
+
+Service Design
+
+Service Transition
+
+Service Operations
+
+Continual Service Improvement (CSI)
+
+Design Sprint build and test a prototype in just five days. You'll take a 
+
+small team, clear the schedule for a week, and rapidly 
+
+progress from problem to tested solution using a proven 
+
+step-by-step checklist.
+
+
+
+Framework Design (1)
+Step 1:Preliminary Phase - Self Assessment
+ 
+The first step for any educational institution is to self assessment of the activities 
+they do. Different universities offer have different activities . This lays the 
+foundation for the softwares to be added in their matrix.
+
+Step 2: Architectural Roadmap
+
+This requirements gathering step focuses on defining the design  vision and 
+architectural roadmap, which aligns with the institutional operation strategy and 
+goals.
+
+
+
+Framework Design (2)
+Step 3: Cloud Information Systems Architecture
+ 
+This step deals with defining the cloud services  and their interactions with the 
+institutitional activities.There should be a marriage between services on offer vs 
+institutional activities. Loose coupling should be encouraged to handle unrelated 
+but interlinked services. For instance, Use of ERPNext to handle adminisrative 
+authentication of registered students to attend a Bigbluebutton offered class. 
+
+Step 4: Refactoring and Migration planning
+
+This step involves developing a roadmap for implementing the new designs 
+defined in the previous phases. At this step, it is important to engage a Solution 
+Architecture so as to refactor into new and improved designs. The Migration 
+phase involves  the movement of refactored applications from proprietary service 
+providers to open-source cloud services.
+
+
+
+Framework Design (3)
+Step 5:Implementation Governance & Change Management
+ 
+Most organizations resist change and it is important to condition stakeholders for 
+change. This step deals with user acceptance   and managing the changes to the 
+architecture over time.
+
+Implementation Governance include drafting and implementation of usage 
+policies,training strategies and getting feedback from stakeholders(mostly the 
+students and the lecturers)
+
+
+
+Implementation Matrix
+Step 1:
+
+Self 
+
+Assessment 
+
+(5%)
+
+Step 2:
+
+Architectural 
+Roadmap
+
+(15%)
+
+Step 3:
+
+Cloud Information 
+
+System 
+
+Architecture
+
+(25%)
+
+Step 5:
+
+Implementation 
+
+Governance & 
+
+Change 
+
+Management
+
+(15%)
+
+Step 4:
+
+Refactoring and 
+
+Migration Plan
+
+(40%)
+
+Framework 
+
+Implementation
+
+
+
+Case Scenario
+A small university has about 1000 students and 50 faculty members. The 
+university’s limitation is that they have limited IT infrastructure to conduct 
+practical classes. Another challenge they face is  difficulties in managing its 
+administrative tasks The university decides to implement open source cloud 
+services to address these challenges.
+
+Solution 
+The university can use the OpenStack cloud platform to manage its administrative 
+tasks. The university must define the scope of the architecture, identify 
+stakeholders, and create a high-level architecture vision for the open source cloud 
+infrastructure. Openstack can create a centralized database for storing student 
+and faculty information, an email server for communication, a document 
+management system for managing files, and a Moodle server to centrally manage 
+online classes.
+
+
+
+Conclusion
+
+Implementing a framework for open source cloud services can provide numerous 
+benefits, such as cost-effectiveness, scalability, and customizability.
+
+However, it also comes with challenges, such as complexity and security risks.
+
+To ensure a successful implementation, it's important to choose the right 
+platform, plan your deployment, train your staff, monitor performance, and 
+engage with the open source community. 
+
+By following best practices and regularly reviewing and updating the 
+implementation framework, universities can maximize the benefits of open 
+source cloud services and reduce their expenditure on ICTs.
+
+Edit Text Edit Text
+
+
+
+References
+⚫ The Open Group. (2018). TOGAF® 9.2 Standard. https://www.opengroup.org/togaf
+
+⚫ AXELOS Limited. (2019). ITIL 4 Foundation: ITIL 4 Edition. https://www.axelos.com/store/book/itil-4-
+foundation-itil-4-edition
+
+⚫ I. Voras et al., "Evaluating open-source cloud computing solutions," 2011 Proceedings of the 34th 
+International Convention MIPRO, Opatija, Croatia, 2011, pp. 209-214.
+
+⚫ S. Ismaeel, A. Miri, D. Chourishi and S. M. Reza Dibaj, "Open Source Cloud Management Platforms: A 
+Review," 2015 IEEE 2nd International Conference on Cyber Security and Cloud Computing, New 
+York, NY, USA, 2015, pp. 470-475, doi: 10.1109/CSCloud.2015.84.
+
+⚫ T. D. Cordeiro et al., "Open Source Cloud Computing Platforms," 2010 Ninth International 
+Conference on Grid and Cloud Computing, Nanjing, China, 2010, pp. 366-371, doi: 
+10.1109/GCC.2010.77.
+
+Edit Text Edit Text
+
+https://www.opengroup.org/togaf
+https://www.axelos.com/store/book/itil-4-foundation-itil-4-edition
+https://www.axelos.com/store/book/itil-4-foundation-itil-4-edition
+
+	Slide 1
+	Slide 2
+	Slide 3
+	Slide 4
+	Slide 5
+	Slide 6
+	Slide 7
+	Slide 8
+	Slide 9
+	Slide 10
+	Slide 11
+	Slide 12
+	Slide 13
+	Slide 14
+	Slide 15
+	Slide 16
+	Slide 17
+

@@ -1,0 +1,689 @@
+
+ 
+  
+IST-Africa 2023 Conference Proceedings 
+Miriam Cunningham and Paul Cunningham (Eds) 
+IST-Africa Institute and IIMC, 2023 
+ISBN: 978-1-905824-71-7 
+
+Copyright © 2023 The authors www.IST-Africa.org/Conference2023 Page 1 of 11 
+
+eduroam in Africa 
+Silvia FIORE1, Leïla DEKKAR1, Kennedy ASEDA2 
+
+1GÉANT, Hoekenrode 3 6th floor, Amsterdam, 1102 BR, The Netherlands 
+Tel: +31(0)611782816, Email: silvia.fiore@geant.org, leila.dekkar@geant.org,  
+
+2KENET, Jomo Kenyatta Memorial Library, University of Nairobi, Nairobi 00100 
+Tel: +73 2150500, Email: kaseda@kenet.or.ke 
+
+Abstract: eduroam is the secure, world-wide roaming access service developed for 
+the international research and education community to address the increasing need 
+for fast and secure Internet connection everywhere. With over 6.4 billion 
+international authentications to date stretching across 106 countries, eduroam is 
+expanding in Africa where National Research and Education Networks (NRENs) are 
+going beyond the traditional campus connectivity aiming at bridging the digital 
+divide. Uganda, South Africa and Kenya are leading the way and connecting users 
+off campus at bus stops, libraries, cafes, and hospitals. NRENs are at the helm of 
+Africa’s digital transformation and eduroam is a tangible solution to bridging the 
+digital divide. This paper is therefore a guidebook detailing the technology behind 
+eduroam, the benefits and the challenges for its four main target groups in Africa: 
+users, institutions, NRENs and municipalities. The call for action is to further deploy 
+eduroam hotspots and provide connectivity everywhere on the continent, including 
+remote areas and unprivileged communities where students, researchers and teachers 
+are present. 
+
+Keywords: AfricaConnect, AfricaConnect2, AfricaConnect3, Internet Connectivity, 
+Research and Education Community, NRENs, eduroam, digital divide, inclusion, 
+ICT4D, eduGAIN, roaming, students, authentication, federation, e-learning, COVID-
+19, UbuntuNet Alliance, WACREN, ASREN, GÉANT, RENU, TENET, KENET, 
+European Commission. 
+
+1. Introduction  
+
+Students, researchers and lecturers are becoming more and more mobile. They are never 
+stationed in one place. Lecturers often teach in different universities or campuses; students 
+usually roam between different locations such as libraries, classrooms, hostels, and other 
+assembly points; researchers move from place to place, looking for collaborations and 
+exchanges. The need for fast and secure Internet connection everywhere has seen a drastic 
+increase with the outbreak of the COVID-19 pandemic and the advent of remote working 
+and online learning.  
+ However, despite the urgent need of users to connect in different locations, institutions 
+hardly have the capacity to address wireless network needs. This leaves roaming students 
+and staff to resort to insecure practices such as borrowing login details or accessing open 
+networks.  
+ In this context, eduroam plays a key role in addressing the problem.  
+
+1.1 What is eduroam? 
+
+As the name suggests – it comes from education roaming -, eduroam is the secure, world-
+wide roaming access service developed for the international research and education 
+community. By simply opening their laptop or picking up their phone and with just one 
+profile, users can connect anywhere and anytime when visiting participating institutions. 
+ Its main target groups consist of students, researchers, and staff who can benefit from 
+the flexibility of obtaining Internet connectivity across campus and abroad, as well as 
+
+
+
+ 
+
+Copyright © 2023 The authors www.IST-Africa.org/Conference2023 Page 2 of 11 
+
+municipalities who want to respond to the evolving needs of mobile students and break the 
+impression that Africa is lagging behind.  
+
+1.2 How it started 
+
+Back in 2002, Klaas Wierenga – then working for SURFnet and now Chief Information & 
+Technology Officer at GÉANT – was “getting annoyed by the fact that whenever I visited a 
+university I had to register my wireless card or borrow one from the local IT department to 
+get online” [1]. After some initial experiments, Klaas turned to what was then called the 
+TERENA Task Force on Mobility1, a group of experts from the wider European National 
+Research and Education Networks (NRENs) Community, to get feedback and improve his 
+ideas.  
+ The eduroam initiative launched in 2003 with 6 countries, the Netherlands, Germany, 
+Finland, Portugal, Croatia, and the United Kingdom.  
+ Twenty years on, eduroam has reached over 6 billion national and international 
+authentications [2]. Now eduroam is a project of the pan-European network GÉANT, and it 
+receives funding from the European Union’s Horizon 2020 research and innovation 
+programme [3]. Thanks to the global agreement, the eduroam Wi-Fi roaming service is 
+free-of-charge to users. The fee for member institutions is covered by the basic fee 
+infrastructure that they pay to the respective NREN.  
+ What started as a “half-baked” [4] idea to bring a solution to an annoyance is now 
+available in 106 territories worldwide, of which 17 are in Africa [5], where users can now 
+roam freely and securely from hundreds of hotspots, like cafes, hospitals, campuses, bus 
+stations, and libraries. 
+
+ 
+Figure 1: world eduroam map, September 2022. Source: https://eduroam.org/where/  
+
+1.3 Paper structure 
+
+This paper will address some of the key achievements of eduroam in African countries and 
+highlight its crucial role for the continent’s digital transformation. 
+ It begins by briefly explaining the technology and governance of eduroam and 
+continues to demonstrate its added value detailing the vast array of its applications and 
+developments in Africa. It shows the main achievements and impact, with a special focus 
+on the key role that eduroam played during the COVID-19 pandemic. It continues to lay out 
+                                                 
+1 TERENA merged with DANTE to become the GÉANT Association in 2014. The Task Force on Mobility 
+moved to become the Task Force on Mobility and Network Middleware. The Task Force ceased to exist when 
+the European eduroam confederation was established as part of the GÉANT project. 
+
+
+
+ 
+
+Copyright © 2023 The authors www.IST-Africa.org/Conference2023 Page 3 of 11 
+
+the benefits for the main target groups: African researchers and students, institutions, 
+NRENs, and municipalities. Finally, it discusses the existing challenges that will need to be 
+overcome to unlock eduroam’s full potential. 
+
+2. Objectives 
+
+This paper will present the impact of eduroam in African research and education 
+communities and will be a useful basis for developing guidelines for stakeholders interested 
+in considering and assessing the eduroam service. The ultimate goal is to advocate the case 
+for more institutions to adopt the secure, world-wide roaming access service and leave no 
+one behind in an increasingly digitalised world. 
+
+3. How does eduroam work? 
+
+The technology behind eduroam is based on the IEEE 802.1X standard and a hierarchy of 
+RADIUS proxy servers2 [6]. The abovementioned Task Force on Mobility created a test 
+bed to demonstrate the feasibility of combining a RADIUS-based infrastructure with 
+802.1X standard technology to provide roaming network access across research and 
+education networks. With every successful test, eduroam started gaining momentum in the 
+European Community and with other NRENs joining, the infrastructure was eventually 
+named eduroam. [7] 
+ eduroam allows users from member sites to connect to an authenticated network at any 
+other location where the service is enabled. Depending on the policies of each institution, 
+users might also have access to additional resources.  
+ eduroam is operated as a digital commons, reconfirming the crucial role of 
+collaboration in the research and education community. 
+ Thanks to its secure and privacy-preserving technology, connecting to eduroam does 
+not require entering any credentials. The device will identify a valid eduroam access point 
+and login automatically, using pre-configured credentials. The password for the user’s 
+online identity is provided by their home institution.  
+ The user credentials are kept secure and are not shared with the access point. Instead, 
+the credentials are forwarded securely to the user's home institution, where they can be 
+verified and validated. The system uses a network of servers run by the institutions, and the 
+participating institutions to securely route these requests back to your home institute.  All 
+this happens seamlessly, virtually, and instantaneously. 
+ Participating organisations can apply their own filtering policies as long as they clearly 
+inform users about the rules.  
+ All these features make the eduroam service far more secure than typical commercial 
+hotspots.  
+
+4. Supporting eduroam globally: governance and participation 
+
+The Global eduroam Governance Committee (GeGC), which comprises of regional 
+representatives of roaming operators (ROs) including from Africa, monitors that eduroam 
+operators comply with the service’s high technical and organisational standards [8]. 
+In order to be authorised to use the eduroam service, institutions need to be part of the 
+respective national RO, which, in most cases, is the NREN but it can be any lead institution 
+
+                                                 
+2 To read about the details of the eduroam architecture of network roaming, visit https://www.rfc-
+editor.org/rfc/rfc7593 (2015, September) 
+
+
+
+ 
+
+Copyright © 2023 The authors www.IST-Africa.org/Conference2023 Page 4 of 11 
+
+willing to take on the role. It is important to point this out as not all African countries have 
+a functioning NREN and yet could join eduroam3. 
+ eduroam access can also be made available through public, commercial or city Wi-Fi 
+initiatives to broaden access for students.  This is possible because eduroam separates the 
+functions of access infrastructure and user authentication in a scalable and secure manner. 
+This means that commercial entities cannot become identity providers and offer services to 
+their customers that will work via eduroam. Instead, they set up the access infrastructure to 
+provide hotspots, which then reintegrate into eduroam through the national ROs. If they 
+partner with eduroam, commercial entities cannot charge users of a hotspot for accessing 
+the Wi-Fi network. 
+
+5. Target groups 
+
+The four main target groups of eduroam are individual users, institutions, NRENs, as well 
+as municipalities in Africa. 
+
+5.1 eduroam for users  
+
+For students, researchers and academic staff, the possibility to turn on their device and 
+immediately get high performance, secure Wi-Fi access is a game-changer as it completely 
+transforms their learning and work experience. Learners have better chances to excel thanks 
+to easy and fast access to good quality Internet and the learning material they need. 
+
+5.2 eduroam for institutions 
+
+As eduroam provides a single solution for all the mobile connectivity requirements of an 
+institution, the administrative burden imposed on local IT departments for supporting 
+visitors is reduced drastically. Implementing and maintaining eduroam does not cost more 
+than deploying any other secure Wi-Fi solution and brings significant cost savings thanks to 
+the reduced IT department workload. Not only does it support local users to connect to the 
+local network, but it also provides streamlined connectivity to visiting users and allows 
+local users to connect to other participating networks.  
+
+5.3 eduroam for African NRENs 
+
+eduroam offers a unique value-added service that NRENs can offer to their member 
+institutions for the benefit of the ever-growing mobile audience. With research and 
+education becoming increasingly international, eduroam becomes a key tool to enable 
+collaboration and mobility by giving students and researchers the ability to roam for free 
+across 106 countries around the world. 
+
+5.4 eduroam on city wireless networks 
+
+Many cities across Africa are increasingly focusing on responding to students’ mobility 
+needs and are taking active steps to ensure that those students, often from under-privileged 
+backgrounds, have equal opportunities. By deploying eduroam on city wireless networks – 
+leveraging existing infrastructure and fibre optics - and making it available on multiple 
+public hotspots allow students to access study materials closer to their homes and decrease 
+the number of journeys to university campuses while, at the same time, reduces the burden 
+of high cellular data costs [9]. 
+ With eduroam available at public access points, African cities break the impression that 
+Africa is lagging behind and instead are world-class destinations for international students 
+and academics. The deployment of eduroam in both Cape Town and Kampala (see 8.1 and 
+
+                                                 
+3 New institutions can use the eduroam Configuration Assistant Tool (CAT) to help them offer eduroam to 
+their users. The tool is customised to support the individual configuration of every campus: 
+https://eduroam.org/how/  
+
+
+
+ 
+
+Copyright © 2023 The authors www.IST-Africa.org/Conference2023 Page 5 of 11 
+
+8.2) has attracted international attention, and visitors who connect to eduroam in 
+unexpected locations praise their experience on various social media. This means there are 
+significant direct and indirect public relations opportunities for cities to showcase that they 
+care for their research and education community [10]. 
+
+6. Eduroam in Africa 
+
+To date, eduroam is available in 106 territories worldwide, 17 of which are in Africa.  
+
+6.1 AfricaConnect3 support to eduroam in Africa 
+
+The AfricaConnect3 regional Partners -the UbuntuNet Alliance (UA), the West and Central 
+African Research and Education Network (WACREN) and the Arab States Research and 
+Education Network (ASREN)4, played a crucial role in implementing eduroam across the 
+African continent. They established an African eduroam confederation that resulted in the 
+deployment of regional proxy servers in Johannesburg, South Africa and Lagos, Nigeria 
+which not only improved the quality of service but also provided community support for 
+NREN roaming operators. 
+
+The Partners also work with NRENs in the region and support them where necessary in 
+deploying the service. The activity will also include enhancements of the service in those 
+NRENs where the service already exists and where further work needs to be done on the 
+NROs.  
+
+In particular, during the first year of implementation, AfricaConnect3 supported 7 
+NRENs. In Eastern and Southern African, UA supported EthERNet and MAREN by 
+enhancing their eduroam service, both NRENs already had some eduroam infrastructure 
+that was not operating optimally.  
+
+In Western and Central Africa, 3 WACREN NRENs in Benin, Côte d’Ivoire and Togo 
+received support.  
+
+In North Africa, all 4 ASREN member NRENs received support to deploy eduroam. 
+During the reporting period, the NRENs continued to maintain and to enhance their 
+eduroam services. Algeria and Morocco, for instance, continued to roll out eduroam and 
+identity federation services. Egypt deployed eduroam services at EUN premises and efforts 
+are underway to deploy at universities. Tunisia is in the eduroam pilot phase. 
+
+By 2020, NRENs in Africa had supported the deployment of eduroam in 151 
+institutions (116 in UA, 30 in WACREN and 5 in ASREN) and 303 locations. As of 
+February 2023, the numbers of connected institutions have increased to 205 and locations to 
+345. By the end of the project in 2023, they aim at deploying eduroam in a total of 267 
+institutions5.  
+
+National Roaming 
+Operators 
+
+Country No. of eduroam 
+Service 
+Locations6 
+
+No. of eduroam 
+Identity 
+Providers 
+
+No. of eduroam 
+Service 
+Providers 
+
+UA  
+1 EthERNet Etiophia 1 2 2
+
+2 KENET Kenya 43 43 43
+3 iRENALA Madagascar 1 3 1
+4 MAREN Malawi 3 4 4
+5 MoRENet Mozambique - 1 1
+
+                                                 
+4 More information about the AfricaConnect project and its third and current phase, AfricaConnect3, can be 
+found at https://africaconnect3.net/  
+5 These data have been sourced from the AfricaConnect3 project’s interim reports. 
+6 While a service provider is a federation partner that provides services to the end user, an identity provider 
+manages and authenticates the user identity. Service locations, also known as hotspots, are the sites where the 
+user can connect to the eduroam network, i.e. a school, a library, a café, a bus station, etc. 
+
+
+
+ 
+
+Copyright © 2023 The authors www.IST-Africa.org/Conference2023 Page 6 of 11 
+
+6 TENET South Africa 169 44 46
+7 TERNET Tanzania 5 8 4
+8 RENU Uganda 427 89 16
+9 ZAMREN Zambia - 73 72
+WACREN 
+10 BeninRER Benin N/A N/A N/A
+11 GARNET Ghana 75 4 4
+12 NgREN Nigeria - 7 6
+13 SnRER Senegal N/A N/A N/A
+14 TogoRER Togo N/A N/A N/A
+ASREN 
+15 MARWAN Morocco 6 6 6
+16 ARN Algeria N/A N/A N/A
+Total 345 284 205
+
+Table 1: eduroam rollout in Africa as of February 2023. Source: www.monitor.eduroam.org. KENET figures 
+were sources from https://eduroam.ac.ke/  
+
+7. Case Studies 
+
+While traditionally eduroam is mainly present on university campuses, African NRENs are 
+more and more innovative and committed to bridge the digital divide and offer connectivity 
+wherever students are. 
+
+The following case studies are examples of good practice in the countries of Uganda, 
+South Africa and Kenya that can potentially be adopted elsewhere.   
+
+7.1 Connecting off campus with metro eduroam in Uganda 
+
+Since the COVID-19 pandemic broke out in 2020, institutions have been experiencing 
+learning disruptions and have had to quickly adapt to the needs of their students being away 
+from campus. To support their member institutions switching to online learning and their 
+students and staff studying and working off-campus, on 1st September 2020 the Research 
+and Education Network of Uganda (RENU), launched metro eduroam, an unprecedented 
+initiative in the continent that allows students, university staff, and researchers to access 
+free and secure wireless Internet connectivity off-campus [11].  
+ Users with an eduroam profile can connect in over 400 locations countrywide at no 
+cost. The number of available hotspots and participating institutions is rapidly increasing 
+[12]. 
+ Since the launch of Metro eduroam, as of August 2022, 37 institutions joined the 
+initiative and 609,916 successful logins have been registered, out of which 1,556 are 
+unique, with the average daily peak traffic being 33.37 Mbps8.  
+ Metro eduroam has also seen challenges. A fundamental requirement to adopt the 
+eduroam service is for the institution to have a user database under their institutional 
+domain, but this is not always available. The institutional user database is used for 
+managing eduroam authentications at any hotspot. As an alternative solution, the RENU 
+team is exploring a managed Identity Provider (Managed IdP) solution, which would free 
+institutions from the burden of having to set up costly user database to benefit from the 
+eduroam service.  
+ Building on the success of metro eduroam and in an effort to address the limitation of 
+coverage, in September 2022 RENU launched eduroam on the Go, a pocket-size routing 
+device that enables researchers and university staff to connect to eduroam fulltime and not 
+only from a few fixed locations. eduroam on the Go works with the same authentication 
+
+                                                 
+7 This does not include the number of service locations for metro eduroam and eduroam on the go. 
+8 Locations can be checked at https://eduroam.renu.ac.ug/ 
+
+
+
+ 
+
+Copyright © 2023 The authors www.IST-Africa.org/Conference2023 Page 7 of 11 
+
+infrastructure as eduroam and metro eduroam, so the features of security and gratuity for 
+the users remain unchanged. Researchers, students and academic staff from RENU member 
+institutions can enjoy unlimited data connection while on the move. [13] 
+
+7.2 Connecting public libraries and hospitals with eduroam in South Africa 
+
+In June 2019 the City of Cape Town and the Tertiary Education and Research Network of 
+South Africa (TENET), installed eduroam in 57 of Cape Town’s public libraries [14]. This 
+has given access to students and staff from any university which uses eduroam, including 
+all four of the public universities in the Western Cape (Cape Peninsula University of 
+Technology, Stellenbosch University, University of Cape Town and the University of the 
+Western Cape), to their institution’s high-speed Internet network from local libraries. This 
+way students not only reduce their travel time to campuses but also drastically reduce their 
+mobile data bills. 
+ Only in the first week of eduroam use in the Cape Town, eduroam saw over 15,000 
+authentications from 121 institutions including users from Europe, Asia, America, and 
+Oceania. This is indicative of the reach of the eduroam service. 
+ More recently in 2021, TENET worked with the Western Cape Government, an 
+initiative by Stellenbosch University, to pilot the roll out of eduroam to four hospitals in the 
+Western Cape [15]. The pilot was successful, and plans are underway to expand it to other 
+hospitals in the area and also in the Gauteng provincial government.  
+ The 2019 Statistics South Africa General Household survey revealed that less than one-
+tenth (9,1%) of South African households had access to the Internet at home [16]. The 
+COVID-19 crisis has really amplified the impact of the gaping digital divide in the country 
+with many students battling high data costs and poor Internet connection. TENET’s 
+eduroam initiatives do not only address the universal right to affordable connectivity but are 
+serve the South African research and education community by giving institutions and users 
+the means to be active contributors. Rolling out eduroam to public libraries shows that they 
+play a crucial role in democratising access to information and, therefore, creating 
+opportunities to participate as active digital citizens [17]. 
+
+7.3 Connecting students’ halls of residences with eduroam in Kenya 
+
+The Kenyan Education Network (KENET) implemented its first eduroam deployment in 
+2010 and has since then activated eduroam in 44 universities and colleges [18]. 
+Traditionally, eduroam Wi-Fi locations were situated in libraries and areas where students, 
+staff and researchers would normally converge at while on-campus. 
+ Over the years and with the adoption of blended learning due to the COVID-19 
+pandemic, there has been an increased need for students to access to connectivity off-
+campus to, for example, attend classes virtually while at their hostels or halls of residence. 
+Oftentimes, the halls of residence that are located inside the university lack both cables and 
+wireless connectivity and those that are off-campus face similar challenges. 
+ In order to find a solution to this problem, in 2022 KENET, in collaboration with 
+selected universities, deployed the first ever cloud based OpenWifi architecture in Africa by 
+extending Wi-Fi coverage of student learning spaces, lecturer halls, and hostels at main 
+campus of Kenyatta University, in Nairobi, Kenya [19].  
+ The expansion extended the reach of eduroam to at least 1,700 additional students 
+residing at the halls of residence at Kenyatta University with a capacity of supporting 
+approximately 14,000 concurrent connections, mostly within and around the hostels. This 
+expansion also increased the eduroam coverage at Kenyatta University to 90% of the 
+students within the university9. 
+                                                 
+9 This information is not public but based on factual knowledge on KENET’s knowledge of the project and its 
+outcomes.  
+
+
+
+ 
+
+Copyright © 2023 The authors www.IST-Africa.org/Conference2023 Page 8 of 11 
+
+ KENET has also extended eduroam to students’ hostels at Jomo Kenyatta University of 
+Agriculture and Technology as well as Laikipia University with an aim of providing 
+ubiquitous connectivity to students while on campus and also at their halls of residence in 
+order to promote seamless learning and access to educational resources. 
+
+8. Challenges 
+
+If properly harnessed, eduroam can provide both students and lecturers access to a wealth 
+of invaluable educational resources. Lecturers can use the Internet to prepare lessons, 
+disseminate information to students and assess them, and students can access online content 
+to extend their range of learning.   
+ With the recent focus on e-learning methods and connectivity, especially since the 
+outbreak of the COVID-19 pandemic, eduroam has proved its crucial role within the 
+research and education community. However, many challenges still exist and need to be 
+overcome. 
+
+8.1 Limited locations in Africa 
+
+With only 17 African countries with access to eduroam in 345 locations, the potential of 
+eduroam is not yet fully unlocked on the continent. NRENs in Africa need support, need to 
+go beyond standard practice, use existing case studies, and continue to be innovative to 
+bring connectivity where needed to all students, researchers, and lecturers. 
+ Remote and rural areas often do not yet have access to eduroam due to several of the 
+challenges highlighted below.  
+
+8.2 Insufficient and unaffordable connectivity  
+
+Despite availability of infrastructures having significantly progressed over the recent years - 
+especially through the deployment of international undersea cables circling Africa, tertiary 
+education and research institutions in Africa are still among the least connected in the 
+academic world, a situation that is particularly critical for landlocked countries.  
+ Overall, African education and research communities suffer from very low Internet 
+penetration levels as well as from very high connectivity prices, a situation compounded by 
+the presence of telecom monopolies or market dominance by a single player and a weak 
+regulatory environment [20]. As a result, those factors translate into a general 
+disconnectedness of the continent from the global digital economy and all its opportunities.  
+ In order for eduroam to operate optimally, sufficient connectivity need to be provided 
+by the institutions to the students, but, in practice, institutions often consume the 
+connectivity they can afford rather than the connectivity that they need.  
+Furthermore, small coverage areas can be improved by increasing the number of access 
+points, but this could lead to overwhelming the already insufficient bandwidth in some 
+institutions. 
+
+8.3 Devices and technical challenges 
+
+In addition to sufficient connectivity at the hotspot level, eduroam requires students, 
+educators and researchers to have access to IT devices. Nevertheless, according to the 
+International Telecommunication Union (ITU), the proportion of households in Africa with 
+access to a computer is 9%, compared to over 75% of households in Europe [21]. This 
+digital gap was particularly noticeable during the start of the Covid-19 pandemic, while the 
+rest of the world moved their classes online, millions of students and researchers on the 
+continent were disconnected and could not access e-learning solutions due to lack of 
+affordable equipment. 
+
+In addition to the lack of equipment eduroam needs to be compatible with the 
+equipment most commonly purchased on the continent. In fact, according to the State of the 
+
+
+
+ 
+
+Copyright © 2023 The authors www.IST-Africa.org/Conference2023 Page 9 of 11 
+
+ICT Sector Report in South Africa, smartphone penetration reached over 91% in 2019 [22]. 
+However, some devices using the legacy wireless adapter cards may not work with 
+eduroam authentication processes. Hence, it is crucial for the GeGC and the local IT 
+personnel to be always very attentive that new eduroam updates are compatible with IT 
+equipment purchased in the continent. The eduroam community could develop guidelines to 
+standardise the testing of devices for compatibility, including setting up an interest group 
+with a mandate of testing and providing reports on device compatibility.  
+
+8.4 Implementation challenges 
+
+ICT policies vary depending on the institution. This means that while some institutions may 
+allow traffic from certain sources (i.e. YouTube or torrents), others may not, creating 
+confusion among the users about the services and sources they can access through eduroam. 
+Therefore, there is a need to create a standardised ICT policy to effectively regulate how 
+eduroam users can access the services. [23] 
+
+Another implementation issue is that, before the authentication takes place, a pre-
+configured key is shared between RADIUS entities but it needs to go through several other 
+servers to reach the intended authorising one if the user is roaming. With this approach, if 
+there is just one point of failure in the authentication process, the user cannot access the 
+service. This issue creates the need to have redundant links within the network to avoid one 
+point of failure when authenticating users of eduroam. [24] 
+
+8.5 Human resources and capacity building 
+
+Engineers and experts with the right IT skills to deploy, operate and maintain eduroam is 
+essential. Nevertheless, these skills are not always available at a campus or institution level, 
+this is even stronger in remote and rural areas. In addition, higher education institutions 
+have a high staff turnover, which plays a significant role in the amount of regular training 
+that they will need to invest in.  
+
+Therefore, the support provided by NRENs is essential, as in several African countries 
+the NREN organises trainings and provide direct engineering assistance to institutions. 
+Institutions can also partner with external trainers and other institutions more experienced 
+in eduroam deployment in order to enhance the human capacity with the aim of reducing 
+the skills gap relating to design, implementation and operation of eduroam infrastructure. 
+
+8.6 eduroam awareness raising  
+
+Some users are not willing to connect to unknown networks from other institutions, 
+anticipating security issues. Therefore, there is a need to raise awareness among students 
+about eduroam and its secure mode of operation as well as the nearest access point, 
+especially if it is not necessarily in their own institution. Conversely, many students are 
+willing to share access codes with others. Because eduroam credentials are often the 
+student’s primary access credential for many services, this activity needs to be discouraged 
+through the awareness programme.  
+
+9.  Conclusions 
+
+This paper provides background information and points to additional material to assist 
+NRENs and their member institutions that are considering rolling out eduroam in their 
+countries, find information on how the eduroam technology works as well as case studies to 
+showcase its value and examples of good practice.  
+
+With the global research and education community being ever so mobile and the drastic 
+switch to online learning since the outbreak of the COVID-19 pandemic, there is no better 
+moment in time to roll out eduroam. Although eduroam was originally meant to be 
+deployed on campus only, in recent years there has been a realisation that, students and 
+
+
+
+ 
+
+Copyright © 2023 The authors www.IST-Africa.org/Conference2023 Page 10 of 11 
+
+researchers need connectivity off-campus as much as on-campus– whether they are 
+studying in their accommodations or visiting a library to do some research.  
+
+As a consequence, there have been efforts to deploy eduroam in public spaces and 
+locations other than university campuses. This paper calls for support and action to further 
+deploy hotspots and provide connectivity everywhere on the continent including remote 
+areas and unprivileged communities.  
+
+Thanks to its secure encryption and authentication standards, the eduroam roaming 
+service is safer than that of commercial providers. This, together with its low 
+implementation and maintenance costs, worldwide presence and easy login experience, 
+makes it a tangible solution for institutions and NRENs to contribute to bridging the digital 
+divide and offer connectivity to their students and staff. 
+
+NRENs are transforming the deployment of and access to digital technologies in Africa. 
+Their work and impact on the community could leapfrog and be fully integrated to the 
+fourth industrial revolution if they bridge the gap with affordable, dedicated, secure and 
+sufficient connectivity for researchers and students.  
+
+Students, researchers and academic staff of eduroam member institutions can check the 
+closest access points and all the available local hotspots in their respective regions on the 
+eduroam website. NRENs and institutions that are interested in deploying eduroam can 
+contact their respective regional networks (UA, WACREN or ASREN). 
+
+Acknowledgments 
+
+The AfricaConnect3 project is run in collaboration between the European Union, the pan-
+European networking organisation GÉANT and the three regional partners supporting local 
+research and education networking across Africa: UbuntuNet Alliance (Eastern and 
+Southern Africa), WACREN (Western and Central Africa) and ASREN (Northern Africa 
+and Middle East Arab countries).  
+
+AfricaConnect3 builds on the work carried out by AfricaConnect and AfricaConnect2 
+and aims to foster the creation and consolidation of national and regional research and 
+education (R&E) networks across Africa that provide access to dedicated, high-capacity 
+Internet connectivity and offer a gateway to global R&E collaborations through their 
+interconnection with the pan-European GÉANT network. 
+
+The total budget for AfricaConnect3 is 37.5 million euros for a period of 4 years from 
+November 2019, with 30 million euros contributed by the European Commission (DG 
+INTPA). The remaining funds (€7.5m) are being provided by the African partners. In each 
+cluster, partners are responsible for their own grant agreement with the European 
+Commission whilst GÉANT together with the partners is tasked with the overall project 
+coordination role, including the procurement of connectivity and equipment for all clusters. 
+
+As part of the GÉANT 2020 Framework Partnership Agreement (FPA), eduroam 
+receives funding from the European Union’s Horizon 2020 research and innovation 
+programme under Grant Agreement No. 856726 (GN4-3). 
+
+The authors would also like to acknowledge the precious inputs received by Guy Halse, 
+Head of Trust & Identity at TENET; Klaas Wierenga, Chief Information & Technology 
+Officer at GÉANT; and Karl Meyer, Product Marketing Manager at GÉANT. 
+
+References 
+ [1]  “eduroam celebrates a decade of providing secure roaming internet access for users”, RealWire, 24 
+
+May 2012 (https://www.realwire.com/releases/eduroam-celebrates-a-decade-of-providing-secure-
+roaming-Internet-access-for-users)  
+
+[2]  Eduroam (2023, 14 February) Twitter post https://twitter.com/eduroam/status/1625466091181953025 
+[3]  Eduroam, https://eduroam.org/  
+
+
+
+ 
+
+Copyright © 2023 The authors www.IST-Africa.org/Conference2023 Page 11 of 11 
+
+[4]  “eduroam celebrates a decade of providing secure roaming internet access for users”, RealWire, 24 
+May 2012 (https://www.realwire.com/releases/eduroam-celebrates-a-decade-of-providing-secure-
+roaming-Internet-access-for-users) 
+
+[5]  Eduroam, https://eduroam.org/where/  
+[6]  Eduroam, https://eduroam.org/faqs/ 
+[7]  RealWire, 24 May 2012 
+[8]  Eduroam, https://eduroam.org/about/  
+[9] Making eduroam available on city wireless networks, TENET July 2019  
+
+https://eduroam.ac.za/static/TENET-eduroam-on-city-WiFi-Case-Study-20190725.pdf  
+[10] Making eduroam available on city wireless networks, TENET July 2019  
+
+https://eduroam.ac.za/static/TENET-eduroam-on-city-WiFi-Case-Study-20190725.pdf  
+[11]  Metro eduroam at One Year, RENU website (https://renu.ac.ug/metro-turns-one.html)  
+[12]  Metro eduroam at One Year, RENU website (https://renu.ac.ug/metro-turns-one.html)  
+[13]  eduroam on the Go Anytime, Anywhere, RENU website (https://renu.ac.ug/eduroam-OTG.html)  
+[14]  South African students can now access high-speed WiFi in city of Cape Town's libraries, TENET 
+
+website July 2019 (https://www.tenet.ac.za/news/eduroam-coct-libraries-jul-2019) 
+[15] Rolling out eduroam for medical staff and students, TENET website March 2022 
+
+(https://www.tenet.ac.za/news/rolling-out-eduroam-for-medical-staff-and-students)  
+[16] General Household Survey, Department of Statistics South Africa, December 2020 
+
+(https://www.statssa.gov.za/publications/P0318/P03182019.pdf) 
+[17] Rolling out eduroam for medical staff and students TENET website March 2022 
+
+(https://www.tenet.ac.za/news/rolling-out-eduroam-for-medical-staff-and-students) 
+[18]  Eduroam KENET https://eduroam.ac.ke/  
+[19]  KENET deploys first commercial OpenWifi solution in Africa (https://www.kenet.or.ke/content/kenet-
+
+deploys-first-commercial-openwifi-solution-africa-0) 
+[20]  Africa's Pulse, No. 19, April 2019: An Analysis of Issues Shaping Africa’s Economic Future 
+[21]  Measuring digital development – Facts and Figures 2020, International Communication Union  
+[22]  The State of ICT Sector Report in South Africa, March 2020, ICASA 
+[23]  Wierenga, K and Florio, L (2005) ‘Eduroam: past, present and future’ Computational Methods in 
+
+Science and Technology, 11(2) pp. 169-173. 
+[24]  Chembe C, Kunda D, Simfukwe M (2014) “Challenges and Benefits of Educational Roaming 
+
+(eduroam) Service to ZAMREN Member Institutions” 
+https://repository.ubuntunet.net/bitstream/handle/10.20374/144/chembec.pdf?sequence=1&isAllowed=
+y   
+
+

@@ -1,0 +1,444 @@
+
+Roles of PIDs in
+Research Outputs Connectedness
+
+Bosun Obileye
+bosun.obileye@datacite.org
+26th of October 2023
+UbuntuNet Connect 2023
+
+@datacite
+
+@datacite@openbiblio.social
+@paul4kant@scicomm.xyz
+
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by/4.0/
+http://@datacite
+https://twitter.com/datacite
+https://openbiblio.social/@datacite
+https://scicomm.xyz/web/@paul4kant
+
+
+Persistent Identifiers
+
+
+
+Understanding Identifiers
+
+★ A long lasting reference to a digital resource (ORCID)
+★ A unique long-lasting reference to digital objects of various types, and are a 
+
+core element of open research. (Westminster)
+★ PIDs are labels that locate, identify and share information about digital objects
+★ A PID may be connected to a set of metadata describing an object rather than to 
+
+the object itself. 
+★ Allow different platforms to exchange information consistently and 
+
+unambiguously and thus provide a reliable way to track citations and reuse.
+
+
+
+PIDs
+What is a persistent identifier (PID)?
+
+https://research-
+data.urosario.edu.co/dataset.xhtml?
+persistentId=doi:10.34848/GJO6SY
+
+https://doi.org/10.34848/GJO6SY
+
+Unique alphanumeric string referring to a 
+digital resource.
+
+Always points to the same resource 
+(a metadata representation)
+
+DOIs for research outputs and resources
+https://doi.org/10.5281/
+
+zenodo.3630248
+
+ORCID iDs for researchers
+https://orcid.org/
+
+0000-0001-6622-4910
+
+ROR IDs for research organizations
+https://ror.org/01y2jtd41
+
+https://doi.org/10.5281/zenodo.3630248
+https://doi.org/10.5281/zenodo.3630248
+https://orcid.org/0000-0001-6622-4910
+https://orcid.org/0000-0001-6622-4910
+https://ror.org/01y2jtd41
+
+
+PIDs for people, places and things
+
+PIDs for people (researchers) 
+include ISNI and ORCID
+
+https://orcid.org/0000-0001-6622-4910
+
+PID for places (research 
+institutions) include ROR
+
+https://ror.org/01y2jtd41
+
+PIDs for things (research out outs and 
+resources) include DOIs, handles, IGSN, 
+
+ARK and more
+
+https://doi.org/10.5061/dryad.708gr
+
+https://orcid.org/0000-0001-6622-4910
+https://ror.org/01y2jtd41
+
+
+Reusable
+(Meta)data  are richly described with a plurality of accurate & relevant attributes
+
+Interoperable
+(Meta)data use a formal, accessible, shared, and broadly applicable language for 
+knowledge representation.
+
+Accessible
+(Meta)data are retrievable via an identifier using a standardized protocol
+Metadata are accessible, even when the data are no longer available
+
+Findable
+(Meta)data are assigned a globally unique and persistent identifier
+
+Making research data FAIR
+With PIDs
+
+
+
+Why are PIDs important?
+
+PIDs like DOIs, ORCID iDs y ROR IDs increase the
+discoverability, access, citation, reutilization, and 
+
+recognition of research outputs and resources
+
+VALUE
+
+
+
+Connecting Research
+PIDs and Metadata
+
+
+
+Find and connect
+Metadata
+
+Lorem ipsum 
+
+cngue
+Metadata
+
+DOI
+
+ROR ORCID 
+
+
+
+Research Impact
+The PID Graph
+Number of nodes and connections 
+(August 2022)
+
+
+
+DataCite Commons: Work
+
+https://commons.datacite.org
+/doi.org/10.14454/3w3z-sa82
+
+https://commons.datacite.org/doi.org/10.14454/3w3z-sa82
+https://commons.datacite.org/doi.org/10.14454/3w3z-sa82
+
+
+DataCite Commons: Repository
+
+https://commons.datacite.org
+/repositories/nxrc8v
+
+https://commons.datacite.org/repositories/nxrc8v
+https://commons.datacite.org/repositories/nxrc8v
+
+
+Connecting Research
+Advancing Knowledge
+
+
+
+DataCite
+Beyond Internet Connection
+
+
+
+Why we exist
+
+We are a global community that share a common interest: to ensure that research 
+outputs and resources are openly available and connected so that their reuse can 
+advance knowledge across and between disciplines, now and in the future.
+
+DataCite
+
+
+
+More than DOI
+
+Create DOIs. Creation of persistent identifier 
+(PID) metadata records. Make research outputs 
+and resources discoverable and citable for the 
+long term
+
+Integrate workflows. Enhance research 
+workflows and services through integration
+
+Enable discovery. Enable discovery of research 
+outputs and resources and reporting with 
+advanced tools and analytics.
+
+Promote reuse. Promote reuse with flexible, 
+state-of-the art tools and technology
+
+
+
+Our community
+
+2900+
+Repositories
+
+280+
+Members
+
+51
+Countries
+
+56m+
+DOIs
+
+1300+
+Organizations
+
+(July 2023)
+
+
+
+Partnering
+
+Our approach has always been to partner with communities (such as UbuntuNet 
+Alliance, IGSN, RDA) to learn more about their needs, develop capacity and partner 
+with a common vision.
+
+Some key partners that may be of interest:
+
+Community of communities approach
+
+
+
+DataCite
+Membership
+
+Direct
+
+Consortium
+
+
+
+DataCite and UbuntuNet Alliance
+Relationship
+
+DataCite
+
+UbuntuNet Alliance
+
+Consortium 
+Organization
+
+Lorem Ipsum
+
+Repiasitory 1 Repository 2
+
+Consortium 
+Organization
+
+Repository 1 Repoasitory 2
+
+
+
+Research outputs and resources
+The research outputs and resources that we identify and connect currently includes:
+
+Published Outputs
+Book Chapter, Conference Paper, Conference Proceeding, Data Paper, Dataset, Dissertation, Journal Article, 
+Preprint, Report, Text, Book, Journal, Event, Collection
+
+Multimedia
+Audiovisual, Image, Interactive Resource, Sound
+
+Processes & Workflows
+Model, Peer Review, Standard, Workflow
+
+Physical Resources
+Physical Object, Instrument
+
+Code
+Software, Computational Notebook, Service
+
+Research inputs
+Data Management Plans (DMPs)
+
+
+
+DataCite
+GAP and GAF
+
+
+
+Global Access Program
+
+DataCite has launched a global access program with support 
+from the Chan Zuckerberg Initiative to promote greater equity 
+in the global research ecosystem. 
+
+By expanding access to research outputs and resources in 
+under-resourced regions, the program aims to support the 
+participation of researchers in the global scholarly community 
+and enable greater collaboration and innovation across 
+borders.
+
+
+
+Global Access Program
+
+● The program is focused on building relationships with 
+organizations and individuals who are working to support 
+research and innovation in emerging and underrepresented 
+communities.
+
+● By working together with these communities, DataCite hopes 
+to learn more about their unique needs and perspectives, and 
+to develop new tools and resources that can help to meet 
+those needs.
+
+● The program is also focused on building capacity within these 
+communities, by providing training and resources that can 
+help organizations to better manage and share their research 
+outputs and resources.
+
+Building Capacity
+
+
+
+Global Access Program
+
+Funding. The program will provide the opportunity for communities to 
+seek funding to support activities related to the program.
+
+Technical infrastructure. Through partnerships with local and 
+international stakeholders, the program will seek to support communities 
+in building technical infrastructure per their needs (and design).
+
+Capacity building. In learning from local community stakeholders, we 
+seek to build better capacity to support emerging regions.
+
+Three components
+
+
+
+The Global Access Fund
+
+● It aims to enable organizations worldwide to 
+make their research outputs discoverable. 
+
+● Non profit orgs in Africa, Asia, Middle East and 
+Latin America can apply.
+
+● Funding categories:
+○ Outreach activities: up to €10,000
+○ Infrastructure development: up to €20,000
+○ Demonstrators: up to €50,000
+
+● Applications open Sep 1 - Oct 15
+● 160 Applications from all GAP regions
+● Projects will run throughout 2024
+● Working towards 2024 GAF
+
+https://datacite.org/global-access-fund/
+
+https://datacite.org/global-access-fund/
+
+
+Feel free to contact
+Bosun Obileye
+
+bosun.obileye@datacite.org
+Regional Engagement Specialist - Africa (DataCite)
+
+
+
+info@datacite.org @datacitepidforum.org datacite.org
+blog.datacite.org
+
+support.datacite.org
+support@datacite.org
+
+DataCite
+
+in
+
+@datacite
+
+mailto:info@datacite.org
+http://@datacite
+https://twitter.com/datacite
+https://pidforum.org
+https://datacite.org
+http://blog.datacite.org
+https://support.datacite.org
+mailto:support@datacite.org
+http://@datacite
+https://www.youtube.com/channel/UCVsSDZhIN_WbnD_v5o9eB_A
+https://www.youtube.com/channel/UCVsSDZhIN_WbnD_v5o9eB_A
+https://www.youtube.com/channel/UCVsSDZhIN_WbnD_v5o9eB_A
+https://www.youtube.com/channel/UCVsSDZhIN_WbnD_v5o9eB_A
+http://@datacite
+https://www.linkedin.com/company/datacite/
+
+	Slide 1: Roles of PIDs in
+	Slide 2: Persistent Identifiers 
+	Slide 3: Understanding Identifiers
+	Slide 4
+	Slide 5: PIDs for people, places and things
+	Slide 6: Making research data FAIR
+	Slide 7
+	Slide 8: Connecting Research PIDs and Metadata
+	Slide 9: Find and connect Metadata
+	Slide 10: Research Impact
+	Slide 11: DataCite Commons: Work
+	Slide 12: DataCite Commons: Repository
+	Slide 13: Connecting Research Advancing Knowledge
+	Slide 14: DataCite
+	Slide 15: Why we exist
+	Slide 16: More than DOI
+	Slide 17: Our community
+	Slide 18: Partnering
+	Slide 19: DataCite
+	Slide 20: DataCite and UbuntuNet Alliance
+	Slide 21: Research outputs and resources
+	Slide 22: DataCite
+	Slide 23: Global Access Program
+	Slide 24: Global Access Program
+	Slide 25: Global Access Program
+	Slide 26: The Global Access Fund
+	Slide 27: Feel free to contact
+	Slide 28
+

@@ -1,0 +1,634 @@
+
+ror.org
+
+ROR, The Identifier for 
+Research Institutions - 
+Spotlight on Africa
+
+AfricArXiv webinar
+December 11, 2023
+
+Amanda French, Ph.D.
+Technical Community Manager, ROR
+amanda@ror.org
+
+
+
+ror.org
+
+What we'll cover
+
+● What are persistent identifiers and what do they do? 
+
+● What is ROR and what does it offer?
+
+● Examples of ROR integrations, especially in Africa
+
+● The future of research with ROR
+
+
+
+What are 
+persistent 
+
+identifiers and 
+what do they 
+
+do?
+
+
+
+ror.org
+
+Persistent identifiers (PIDs) - definition
+
+A PID (persistent identifier) is a digital identifier that is globally 
+unique, persistent, machine resolvable, has an associated metadata 
+schema, identifies an entity (e.g. a person/researcher, publication, 
+award, organization, or research output), and is frequently used to 
+disambiguate between entities. … The identifier is a string of 
+numbers, letters, and/or symbols assigned to the digital object. 
+
+- Office of Scientific and Technical Information, U.S. Department of 
+Energy, https://www.osti.gov/pids/about 
+
+PID Forum discussion of definitions: https://pidforum.org/t/persistent-identifier-pid-definition/1502 
+
+https://www.osti.gov/pids/about
+https://pidforum.org/t/persistent-identifier-pid-definition/1502
+
+
+ror.org
+
+ROR for research organizations
+
+DOI for research outputs
+
+ORCID for researchers
+
+https://doi.org/10.7557/5.6654
+
+https://orcid.org/0000-0002-4325-1809
+
+https://ror.org/02twcfp32
+
+
+
+ror.org
+FREYA video "The Power of PIDs": https://www.youtube.com/watch?v=fwlePgYar58 
+
+https://www.youtube.com/watch?v=fwlePgYar58
+http://www.youtube.com/watch?v=fwlePgYar58
+
+
+What is ROR 
+and what does 
+
+it offer?
+
+
+
+ror.org
+
+The Research Organization 
+Registry (ROR) is a global, 
+
+community-led registry of open 
+persistent identifiers for 
+research organizations.
+
+
+
+ror.org
+https://ror.org/05bk57929 - ROR record for Stellenbosch University
+
+https://ror.org/05bk57929
+
+
+ror.org
+https://api.ror.org/organizations/05bk57929 - ROR record for Stellenbosch University, ROR API
+
+Elements of a ROR record
+
+https://api.ror.org/organizations/https://ror.org/05bk57929
+
+
+ror.org
+
+What problems does ROR solve? 
+
+● Many different variants of organization names in user-entered, free 
+text data make internal reporting difficult and produce inconsistent 
+search results
+
+● Research institutions have a hard time tracking the output of their 
+researchers
+
+● Funders have a hard time tracking research outputs they have 
+funded
+
+
+
+ror.org
+
+User submits 
+research in a 
+
+system integrated 
+with ROR
+
+Organization is 
+selected from a 
+ROR-powered 
+controlled list
+
+Shareable 
+metadata 
+
+includes the 
+ROR ID
+
+Systems use 
+the ROR ID to 
+track research 
+by organization
+
+ROR is designed for research workflows
+
+
+
+ror.org
+
+ROR enables data to travel between systems 
+with no barriers and no distortion
+
+
+
+ror.org
+
+ROR makes information about research 
+organizations clean, normalized, and easy to 
+
+exchange among software systems so that journal 
+articles, datasets, and other research outputs can 
+be reliably associated with universities, funders, 
+companies, laboratories, and other institutions.
+
+
+
+ror.org
+
+
+
+ror.org Visit https://ror-community.github.io/ror-typeahead-demos to try this demo yourself
+
+https://ror-community.github.io/ror-typeahead-demos
+
+
+ror.org Dryad - https://datadryad.org  
+
+https://datadryad.org
+
+
+ror.org DataCite Commons at https://commons.datacite.org 
+
+https://commons.datacite.org
+
+
+ror.org
+
+ROR is well-established and community-led
+● ROR was developed over three years of workshops and working groups from 
+
+2016-2018 in which 17 organizations outlined requirements for an open 
+organization identifier.
+
+● In 2018, a Steering Group consisting of California Digital Library, Crossref, 
+DataCite, and Digital Science stepped up to implement the ROR pilot with a 
+donation of seed data from Digital Science’s GRID database. 
+
+● In 2019, a "minimum viable registry" was launched as a sync of GRID. 
+● In July 2021, GRID announced its plans to sunset its public data and pass 
+
+the torch to ROR. 
+● In March 2022, ROR released its first independently curated registry. GRID 
+
+URLs ceased to resolve in June 2022. 
+
+See https://ror.org/about/#history for more information on ROR's history.
+
+https://ror.org/blog/2018-12-02-the-ror-of-the-crowd/
+https://ror.org/blog/2018-12-02-the-ror-of-the-crowd/
+https://ror.org/about/#history
+
+
+ror.org
+
+ROR's community groups are international
+
+See https://ror.org/about/#history for more information on ROR's history.
+
+https://ror.org/about/#history
+
+
+ror.org
+
+ROR is noncommercial and sustainable
+➔ ROR is operated as a collaborative initiative by the California Digital 
+
+Library, Crossref, and DataCite as part of each organization's ongoing 
+operational budget.
+
+➔ All ROR tools and services are free of cost and will remain so.
+
+➔ ROR does not depend on grants or on fees, and it cannot be transferred to 
+a commercial entity. 
+
+➔ ROR is committed to following the Principles of Open Scholarly 
+Infrastructure (POSI).
+
+https://openscholarlyinfrastructure.org
+https://openscholarlyinfrastructure.org
+
+
+ROR has 
+essential 
+
+features and 
+services
+
+➔ 105,000+ records, global coverage
+
+➔ Open CC0 data and free REST API
+
+➔ Easy to integrate into software systems
+
+➔ Multilingual metadata and character sets
+
+➔ Hierarchies and relationships
+
+➔ Searchable on the web 
+
+➔ Easy to request changes and additions
+
+➔ Fast, accurate, and transparent curation 
+
+➔ 2-4 weeks to process most requests
+
+➔ Updates released at least monthly
+
+
+
+ROR serves 
+crucial 
+
+functions
+
+➔ Collect researcher institutional affiliations
+
+➔ Standardize and disambiguate 
+organization names
+
+➔ Enable institutional research intelligence
+
+➔ Connect funders to the research they have 
+funded
+
+➔ Make research easier to find 
+
+➔ Manage institutional Open Access deals
+
+➔ Follow national guidance on open 
+infrastructure
+
+➔ Improve affiliation metadata in the global 
+research ecosystem
+
+
+
+ROR is a trusted, 
+globally used, 
+
+standard identifier 
+that connects 
+systems and 
+
+ensures the free 
+flow of metadata
+
+➔ Open CC0 data means no barriers to use
+
+➔ Entire dataset is downloadable in both JSON 
+and CSV formats
+
+➔ Registry is searchable on the web in attractive 
+modern interface
+
+➔ Free tools and services can be easily 
+integrated by organizations of any budget
+
+◆ REST API for simple and advanced 
+queries with results returned in JSON
+
+◆ Affiliation matching endpoint for 
+matching text strings to ROR IDs
+
+◆ ROR OpenRefine Reconciler for powerful 
+manual cleanup of messy data
+
+
+
+ror.org
+
+ROR is an established, trusted, no-cost, 
+widely-adopted service for identifying 
+
+research organizations and funders that 
+is becoming a global standard.
+
+
+
+Examples of 
+ROR 
+
+integrations
+
+
+
+ror.org
+
+Key systems and services using ROR
+
+● ORCID
+● Crossref
+● DataCite
+● Sherpa Romeo and Juliet (JISC)
+● Open Access Switchboard
+● COUNTER
+● DOAJ
+● OpenAlex
+● The Lens
+
+See https://tinyurl.com/ror-integrations for a full list of known ROR users
+
+https://tinyurl.com/ror-integrations
+
+
+ror.org
+
+OpenAlex's 
+institution 
+model is 
+based on 
+
+ROR
+
+
+
+ror.org
+
+Repository and CRIS systems using ROR
+
+● Dryad, California Digital Library (CDL)
+● Zenodo
+● InvenioRDM, CERN
+● Mendeley Data 
+● Open Science Framework (OSF), Center for Open 
+
+Science (COS)
+● Vivli
+● DSpace-CRIS
+
+See https://tinyurl.com/ror-integrations for a full list of known ROR users
+
+https://tinyurl.com/ror-integrations
+
+
+ror.org
+
+ROR in 
+InvenioRDM
+
+
+
+ror.org
+
+Publishing systems using ROR
+
+● ScienceOpen
+● OJS
+● eLife
+● Janeway
+● Octopus
+● Scholastica
+
+See https://tinyurl.com/ror-integrations for a full list of known ROR users
+
+https://tinyurl.com/ror-integrations
+
+
+ror.org
+
+ROR on ScienceOpen and BookMetaHub
+- Platform-wide roll-out of ROR as part of affiliation data (02-2023)
+
+- Support of ROR on all records within database
+- Implementation within all manuscript submission systems and enhancement 
+
+interfaces (SO + BMH) and part of metadata records
+- Easy look-up & match via simple form field
+- (Open Funder Registry rolled out in 06-2022)
+
+For more on ROR and ScienceOpen see https://ror.org/events/#ror-community-call-november-2023 
+
+https://ror.org/events/#ror-community-call-november-2023
+
+
+ror.org
+
+ROR on ScienceOpen and BookMetaHub
+- Support on record-level, example Nature Medicine article
+
+- (DOI: 10.1038/s41591-023-02597-w)
+
+For more on ROR and ScienceOpen see https://ror.org/events/#ror-community-call-november-2023 
+
+https://www.scienceopen.com/document?vid=a740bc51-73a6-48f8-999d-9fa26814b817
+https://ror.org/events/#ror-community-call-november-2023
+
+
+ror.org
+
+ROR in OJS/OPS now and in future
+
+
+
+ror.org
+
+Funding systems using ROR
+
+● U.S. Department of Energy
+○ Carly Robinson of the Department of Energy's Office of Scientific and Technical 
+
+Information (OSTI) is a member of ROR's Curation Advisory Board and is overseeing 
+the incorporation of ROR into several DOE systems
+
+● Swiss National Science Foundation 
+○ The SNSF is the first national funder to launch a live integration of ROR in its funding 
+
+portal
+
+● Proposal Central
+○ Altum's Proposal Central includes ROR IDs in institutional profiles
+
+● Europe Pubmed Central
+○ Europe PMC sends ROR IDs in grant DOIs to Crossref on behalf of the Wellcome 
+
+Trust and has just incorporated ROR into its Grant Finder
+
+See https://tinyurl.com/ror-integrations for a full list of known ROR users
+
+https://ror.org/registry/#curation-advisory-board
+https://www.youtube.com/watch?v=Tx5y7lX030U
+https://portal.snf.ch/core/landing-page
+https://portal.snf.ch/core/landing-page
+https://proposalcentral.com/
+https://europepmc.org/grantfinder
+https://tinyurl.com/ror-integrations
+
+
+ror.org
+ROR in Altum's Proposal Central - https://proposalcentral.com/ 
+
+https://proposalcentral.com/
+
+
+ror.org
+
+Reporting & analytic services using ROR
+
+See https://tinyurl.com/ror-integrations for a full list of known ROR users
+
+● COKI Open Access Dashboard
+● ChronosHub
+● DataSalon MasterVision and PaperStack
+● Germany's OA Monitor
+● OA.Report
+
+https://tinyurl.com/ror-integrations
+
+
+ror.org
+OA.Report page for NIH - https://oa.report/01cwqze88/ 
+
+https://oa.report/01cwqze88/
+
+
+The future of 
+research with 
+
+ROR
+
+
+
+ror.org
+
+ROR IDs in Crossref affiliations - 75k+
+
+See full spreadsheet with results over time, queries, and charts at https://ror.org/about/#impact 
+
+https://ror.org/about/#impact
+
+
+ror.org
+
+ROR IDs in DataCite affiliations - 1.17m+
+
+See full spreadsheet with results over time, queries, and charts at https://ror.org/about/#impact 
+
+https://ror.org/about/#impact
+
+
+ror.org
+
+Affiliation IDs in DataCite by type
+
+See full spreadsheet with results over time, queries, and charts at https://ror.org/about/#impact 
+
+https://ror.org/about/#impact
+
+
+ror.org
+
+Funding IDs in DataCite by type
+
+See full spreadsheet with results over time, queries, and charts at https://ror.org/about/#impact 
+
+https://ror.org/about/#impact
+
+
+ror.org
+
+Elements of a ROR record - v2.0!
+
+https://ror.readme.io/docs/schema-v20 
+
+https://ror.readme.io/docs/schema-v20
+
+
+ror.org
+
+The Open Funder Registry 
+and ROR are merging!
+
+https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/ 
+
+https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/
+
+
+ror.org
+
+Request features and changes at https://github.com/ror-community/ror-roadmap 
+
+https://github.com/ror-community/ror-roadmap
+
+
+ror.org
+
+Do more with ROR!
+➔ Consult our technical documentation at ror.readme.io for help 
+
+integrating ROR into your own systems
+
+➔ Ask your colleagues and vendors to adopt ROR 
+
+➔ Share links ROR informational materials from 
+zenodo.org/communities/ror-community-materials 
+
+➔ Register to attend a ROR event at ror.org/events 
+
+➔ Get involved with the ROR community at 
+ror.org/community#get-involved 
+
+https://ror.readme.io
+https://zenodo.org/communities/ror-community-materials
+https://ror.org/events
+https://ror.org/community#get-involved
+
+
+Thank you!
+
+Amanda French | amanda@ror.org 
+
+ROR newsletter - http://eepurl.com/gjkT9H
+ROR events - https://ror.org/events
+
+ROR on Mastodon - 
+https://mastodon.social/@ResearchOrgs
+
+Search for an organization in ROR
+Suggest a change or addition to ROR
+
+https://ror.org/search
+https://docs.google.com/forms/d/e/1FAIpQLSdJYaMTCwS7muuTa-B_CnAtCSkKzt19lkirAKG4u7umH9Nosg/viewform
+

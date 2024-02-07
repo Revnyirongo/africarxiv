@@ -1,0 +1,237 @@
+
+Enabling Research & Education Collaboration
+
+Measuring End-User Experience in NREN 
+
+Networks: Leveraging the Google ISP Tool
+
+Sherinah Nakazibwe
+
+snakazibwe@renu.ac.ug
+
+
+
+Enabling Research & Education Collaboration
+
+Overview
+
+26th October 2023
+
+Outline
+
+● Network Monitoring
+
+● RENU Network Structure
+
+● RENU Traffic Composition
+
+● Google ISP Portal
+
+● Analysis
+
+● Conclusion
+
+
+
+Enabling Research & Education Collaboration
+
+Network Monitoring
+
+● With Internet already made affordable and available, more concern lies 
+
+with user experience.
+
+● Crucial in identifying  network performance issues  and their causes.
+
+Traditional monitoring tools measure sections of the network.
+
+Google ISP – Measures performance from the end-user device to the server.
+
+
+
+Enabling Research & Education Collaboration
+
+RENU Network Structure
+
+• REN – UbuntuNet Alliance
+
+• /24 for each institution (Identity)
+
+• GGC for enhanced performance
+
+
+
+Enabling Research & Education Collaboration
+
+RENU Traffic Composition
+
+Of the entire RENU traffic, 60% is Google traffic. 70% of the Google traffic is served by 
+
+the GGC
+
+
+
+Enabling Research & Education Collaboration
+
+Google ISP Portal
+
+The Google ISP Portal exclusively measures Google traffic 
+
+performance.
+
+Google is interested in the entire performance between the 
+
+requesting end-user device and the serving infrastructure.
+
+Google uses Autonomous System (AS) numbers to 
+
+identify and categorize the transit provider that is 
+
+delivering traffic. 
+
+Cacheable traffic is served from Google Global Cache 
+
+(GGC).
+
+
+
+Enabling Research & Education Collaboration
+
+Google ISP Portal 
+
+Insights into traffic flows and quality of experience.
+
+
+
+Enabling Research & Education Collaboration
+
+Performance Metrics
+
+● Goodput: The data that is successfully transferred per unit time (Mbps)
+
+● Application Round Trip Time: The amount of time it takes for a packet to be 
+
+sent from a source to a destination and back (ms)
+
+● Retransmit Rate: The percentage of packets that need to be retransmitted 
+
+because they were lost or corrupted in transit.           
+
+
+
+Enabling Research & Education Collaboration
+
+Why Retransmit Rate?
+
+● Retransmit rate was considered the most 
+
+important among the 3 parameters.
+
+● Traditional tools can measure RTT and 
+
+Goodput.
+
+● None of the traditional tools measure retransmit 
+
+rate.
+
+> 50% is flagged
+
+
+
+Enabling Research & Education Collaboration
+
+Performance Analysis Process
+
+
+
+Enabling Research & Education Collaboration
+
+Google ISP Portal - Performance Analysis
+
+Prefix based performance analysis according to Goodput, Retransmit Rate and RTT. 
+
+
+
+Enabling Research & Education Collaboration
+
+Institutional Retransmit Rate Performance 
+
+
+
+Enabling Research & Education Collaboration
+
+Retransmit Rate Vs Performance
+
+
+
+Enabling Research & Education Collaboration
+
+Retransmit Rate Vs Performance
+
+● Reduction in retransmit rate
+
+● Improvement in performance
+
+● Increase in packet loss
+
+
+
+Enabling Research & Education Collaboration
+
+Hardware Limitations
+
+
+
+Enabling Research & Education Collaboration
+
+Capacity Constraints
+
+
+
+Enabling Research & Education Collaboration
+
+Conclusion
+
+NRENs serve a critical sector of the country that is R&E and it is important that 
+
+these networks where these rely on have good quality networks, which require 
+
+extensive monitoring and performance measurement to the detail. 
+
+Extensive monitoring goes beyond what the traditional tools can currently achieve.
+
+
+
+Enabling Research & Education Collaboration
+
+Q&A
+
+
+
+Enabling Research & Education Collaboration
+
+THE END
+Thank you for your time
+
+
+	Slide 1: Measuring End-User Experience in NREN Networks: Leveraging the Google ISP Tool
+	Slide 2: Overview
+	Slide 3: Network Monitoring
+	Slide 4: RENU Network Structure
+	Slide 5: RENU Traffic Composition
+	Slide 6: Google ISP Portal
+	Slide 7: Google ISP Portal 
+	Slide 8: Performance Metrics
+	Slide 9: Why Retransmit Rate?
+	Slide 10: Performance Analysis Process
+	Slide 11: Google ISP Portal - Performance Analysis
+	Slide 12: Institutional Retransmit Rate Performance 
+	Slide 13: Retransmit Rate Vs Performance
+	Slide 14: Retransmit Rate Vs Performance
+	Slide 15: Hardware Limitations
+	Slide 16: Capacity Constraints
+	Slide 17: Conclusion
+	Slide 18: Q&A
+	Slide 19: THE END
+

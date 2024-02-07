@@ -1,0 +1,298 @@
+
+Enabling Research & Education Collaboration
+
+Bridging the Connectivity Gap Using 
+
+Unconventional Last-Mile Solutions
+
+Nicholas Brian Anya
+nanya@renu.ac.ug
+
+
+
+Enabling Research & Education Collaboration
+
+Overview
+
+26th October  2023
+
+Outline
+
+● Background
+
+● Connectivity Gap
+
+● Objectives
+
+● Implementation
+
+● Sites Connected
+
+● Network Performance
+
+● Conclusion
+
+● Q&A
+
+
+
+Enabling Research & Education Collaboration
+
+Background
+
+● Connectivity: Vital for Research and Education
+
+○ Enables access, collaboration, innovation, and 
+
+equal opportunities
+
+● Underserved communities 
+
+○ 144 Health Centers (RHSP)
+
+○ Research to tackle HIV prevalence
+
+○ Connectivity required for patient care, and 
+
+collaboration
+
+○ Tackling SDGs 3 & 4
+
+3
+
+
+
+Enabling Research & Education Collaboration
+
+Connectivity Gap
+
+● Optical fiber coverage 
+
+(national) – Backhaul
+
+● Map showing OFC 
+
+coverage by key 
+
+infrastructure players
+
+4
+
+
+
+Enabling Research & Education Collaboration
+
+Connectivity Gap
+
+● 4G Population Coverage – estimated at 80%
+
+● Satellite Connectivity - High-Latency (200ms +)  
+
+- Low Earth Orbit?
+
+● 20% of the population including R&E requires innovative 
+
+solutions for fairly low-latency connectivity! 
+
+5
+
+
+
+Enabling Research & Education Collaboration
+
+How does this gap reflect in the communities?
+
+● Gap in research in health, agriculture, and education leads to a decline in well-being and livelihood.
+
+6
+
+
+
+Enabling Research & Education Collaboration
+
+Objectives
+
+● Fairly low latency (up to 50ms to RENU 
+
+backbone)
+
+● Bandwidth – Sufficient for the use cases
+
+● Costs (Installation & Maintenance) –
+
+Affordable to the communities
+
+7
+
+
+
+Enabling Research & Education Collaboration
+
+Microwave Point-to-Point links?
+
+● Line-of-sight (LoS)
+
+● Deployed in rural areas with gentle terrain
+
+● What about areas with rugged terrain with no line-of-sight to 
+
+the nearest towers?
+
+8
+
+
+
+Enabling Research & Education Collaboration
+
+Implementation
+
+● Leveraging the 80% 4G coverage
+
+● Enhancing LTE signal reception
+
+● Antenna gain of more than 30 dBi
+
+● Parabolic reflector antenna used to enhance gain
+
+● LTE device compatible with Satellite TV offset dish
+
+9
+
+
+
+Enabling Research & Education Collaboration
+
+Implementation
+
+● Satellite TV Offset Dish
+
+○ Reflector antenna – Directional (Oriented to face tower)
+
+○ Concentrates incoming signal on LTE ODU
+
+○ Focuses outgoing signal to serving tower in a beam
+
+10
+
+
+
+Enabling Research & Education Collaboration
+
+LTE Network Setup
+
+Physical Link
+
+Logical Link
+
+11
+
+
+
+Enabling Research & Education Collaboration
+
+Sites Connected – 12 Island Health Centers
+
+12
+
+
+
+Enabling Research & Education Collaboration
+
+Installation Pictorial
+
+13
+
+
+
+Enabling Research & Education Collaboration
+
+Our Teams 
+
+14
+
+
+
+Enabling Research & Education Collaboration
+
+Network Performance 
+
+15
+
+Antenna Gain of 30 dBi Antenna Gain of 21 dBi
+
+● LTE Signal Strength
+
+
+
+Enabling Research & Education Collaboration
+
+Network Performance
+
+16
+
+● Tests from one of the Health Centers – Subscribed BW 8 Mbps
+
+
+
+Enabling Research & Education Collaboration
+
+Utilisation
+
+17
+
+
+
+Enabling Research & Education Collaboration
+
+Challenges Overcome
+
+18
+
+● Frequent downtime as a result of LTE session hanging
+
+○ Required physical LTE ODU restart
+
+○ Overcome by running a script to check the LTE interface and restart in the event 
+
+of a session hang
+
+
+
+Enabling Research & Education Collaboration
+
+What the researchers say
+
+19
+
+“ Remote health centers now have seamless Internet-based 
+
+communication with the Ministry of Health, Regional Referral 
+
+Centers, District Health Offices, and regional health authorities. 
+
+This has enhanced remote implementation, training, mentoring, 
+
+and monitoring of health systems and services.
+
+”
+Joseph Mutaasa
+
+RHSP Regional ICT Supervisor 
+
+
+
+Enabling Research & Education Collaboration
+
+Q&A
+
+20
+
+
+
+Enabling Research & Education Collaboration
+
+The End
+
+21
+
+

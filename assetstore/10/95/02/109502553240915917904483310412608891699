@@ -1,0 +1,1761 @@
+
+AfricAn  
+StAndArdS And 
+GuidelineS for 
+QuAlity ASSurAnce  
+in HiGHer educAtion 
+(ASG-QA)
+
+This initiative is implemented on behalf of the European 
+and African Union Commissions by:
+
+
+
+2
+
+This document is available under license: CC BY-NC-ND 4.0 license   
+(Attribution-NonCommercial-NoDerivatives 4.0 International) 
+ 
+African Standards and Guidelines for Quality Assurance in Higher Education 
+ (ASG-QA)  
+HAQAA Initiative  
+http://hdl.handle.net/2445/126939
+
+This document has been prepared for the African Union Commission and European 
+Union Commission however it reflects the views only of the authors, and the 
+ Commissions cannot be held responsible for any use which may be made of the 
+information contained therein. 
+
+http://hdl.handle.net/2445/126939
+
+
+3
+
+
+
+4
+
+tAble of contentS 
+Foreword ............... ............................................................................................6
+Introduction ...... ...................................... ..........................................................8
+ Background ............ ........................................................................................... 8
+ Purpose ............. .............................................................................................. 10
+ Approach Used in Framing the Standards and Guidelines .............................. 10
+ Scope ................... .............................................................................................11
+
+Part A:  
+Standards and Guidelines for Internal Quality Assurance ............................13 
+ Introduction  .................................................................................................. 13
+ Standard 1. Vision, Mission and Strategic Objectives  .................................... 13
+ Standard 2. Governance and Management ..................................................... 14
+ Standard 3. Human Resources ........................................................................ 15
+ Standard 4. Financial Resource Management  .................................................16
+ Standard 5. Infrastructure and Facilities  ........................................................16
+ Standard 6. Student Recruitment, Admission, 
+ Certification and Support Services ................................................................. 18
+ Standard 7. Design, Approval, Monitoring and Evaluation 
+ of Study Programmes  ......................................................................................19
+ Standard 8. Teaching, Learning and Assessment ........................................... 21
+ Standard 9. Research and Innovation  ............................................................ 23
+ Standard 10. Community Engagement  .......................................................... 24
+ Standard 11. Information Management System .............................................. 24
+ Standard 12. Public Communication .............................................................. 25
+ Standard 13. Collaboration, Staff and Student Mobility  ................................ 26
+
+Part B: 
+Standards and Guidelines for External Quality Assurance ...........................27
+ Introduction  .................................................................................................. 27
+ Standard 1. Objectives of External Quality Assurance and 
+ Consideration for Internal Quality Assurance  ............................................... 27
+ Standard 2. Designing External Quality Assurance 
+ Mechanisms Fit for Purpose............................................................................ 28
+ Standard 3. Implementation Processes of External Quality Assurance .......... 28
+ Standard 4. Independence of Evaluation ........................................................ 29
+ Standard 5. Decision and Reporting of External 
+ Quality Assurance Outcomes .......................................................................... 30
+ Standard 6. Periodic Review of Institutions and Programmes ....................... 30
+ Standard 7. Complaints and Appeals .............................................................. 31
+
+
+
+5
+
+Part C: 
+Internal Quality Assurance for Quality Assurance Agencies ........................32
+ Introduction  .................................................................................................. 32
+ Standard 1. Legal Status ................................................................................. 32
+ Standard 2. Vision and Mission Statement   ................................................... 33
+ Standard 3. Governance and Management   ................................................... 33
+ Standard 4. Independence of QAA .................................................................. 34
+ Standard 5. Policies, Processes and Activities  ............................................... 34
+ Standard 6. Internal Quality Assurance   ........................................................ 35
+ Standard 7. Financial and Human Resources .................................................. 36
+ Standard 8. Benchmarking, Networking and Collaboration ........................... 36
+ Standard 9. Periodic Review of QAAs ............................................................. 37
+
+Annex 1 – Drafting Process of the ASG-QA ...................................................38
+Annex 2 - Key terms  .......................................................................................41
+Annex 3 - Glossary  .........................................................................................42
+
+
+
+6
+
+foreword
+Harmonised quality higher education systems are imperative for Africa to realise the 
+vision of an integrated, prosperous and peaceful continent. The African Union (AU) 
+has, at the highest level, called for the harmonisation and strengthening of the qual-
+ity of higher education in Africa to make it both locally relevant and globally com-
+petitive. This is in line with the AU’s Agenda 2063: “The Africa We Want”, and is an 
+important instrument for facilitating the recently signed AU Continental Free Trade 
+Area. These efforts are a culmination of Africa’s long time desire for harmonised 
+higher education systems that can facilitate the mobility of trained people with 
+accredited qualifications. Diverse systems of higher education have resulted in the 
+lack of mutual recognition of university degrees, constraining academic integration 
+and the mobility of students across the African continent. Collective endorsement 
+of harmonisation and mutual recognition presupposes increased attention to quality 
+and quality assurance in higher education. The rapid growth in the number of stu-
+dents and higher education institutions (HEIs), and the increased focus on employ-
+ability, have made quality and quality assurance central topics. If Africa’s investment 
+in the education of its youth is to reap demographic dividends, quality and quality 
+assurance in higher education and training are essential.
+
+The AU’s vision of building an integrated Africa requires harmonised education, 
+underpinned by  intra-Africa mobility and skills portability. The Continental Educa-
+tion Strategy for Africa (CESA) recognises that ‘Harmonised education and training 
+systems are essential for the realisation of intra-Africa mobility and academic inte-
+gration through regional cooperation’. Heads of State and Government of the African 
+Union have further institutionalised their appreciation of the role of higher education 
+in achieving the AU vision, by taking a Decision calling for mechanisms for harmo-
+nisation and quality assurance to ensure comparable higher education in Africa, and 
+for the establishment of a continental Accreditation and Quality Agency. This is 
+reflected in the First Ten-Year Implementation Plan of Agenda 2063 as a means to 
+develop and monitor educational quality standards across the continent. 
+
+The African Union Commission (AUC) works with African higher education institu-
+tions in promoting harmonisation and quality assurance, supported by partnership 
+from the European Union (EU) and EU institutions. The Association of African Uni-
+versities (AAU) has been identified as the AU’s lead implementing agency in higher 
+education in Africa.  
+
+
+
+7
+
+Harmonisation seeks a shared view on quality criteria and standards, and an equiva-
+lent way of assessing the quality.  It is crucial to harmonise the standards and criteria 
+so that all universities will be regulated according to comparable standards. Indeed, 
+harmonisation does not mean that every institution or each country is forced into a 
+uniform system. It rather means that the basic framework for quality assessment is 
+equivalent. A key milestone for fostering harmony within the diverse African higher 
+education system is the establishment of a continental quality assurance framework. 
+The AUC therefore initiated development of the Pan-African Quality Assurance and 
+Accreditation Framework (PAQAF) to provide a continental platform for enhancing 
+the provision of higher education quality, and promoting compatible 
+methodologies.
+
+One of the necessary instruments for the appropriate functioning of PAQAF is the 
+development of the African Standards and Guidelines for Quality Assurance in Higher 
+Education (ASG-QA). Proper implementation of the ASG-QA can contribute to the 
+provision of quality higher education, and ensure that the qualifications obtained 
+by students and their experience of higher education remain consonant with pro-
+gramme requirements, institutional vision and mission, and the objectives of higher 
+education.  In order to optimally achieve this, a fundamental prerequisite is that 
+HEIs inculcate a culture of evidence-based quality in all their activities. The AUC 
+believes that the ASG-QA provides an overarching framework for quality assurance 
+and that its implementation will be supported by the African Quality Rating Mecha-
+nism (AQRM).
+ 
+The African Union Commission appreciates the work that went into development of 
+the ASG-QA, in the context of the ‘Harmonisation of African Higher Education Qual-
+ity Assurance and Accreditation Initiative’ (HAQAA) by a Technical Working Group 
+of experts from five African regions.  The ASG-QA has been subjected to a series of 
+consultations of major African higher education agencies and experts, as well as 
+Member States quality assurance bodies, student organisations and other key stake-
+holders. I therefore believe that it reflects a valid African perspective, while not 
+ignoring international good practices. Thank you to the EU and partner agencies 
+that provided financial and technical support.
+
+I call on Member States to promote the use of this instrument towards an African 
+quality higher education space, contributing to the collective African vision.
+
+H.E. Prof. Sarah Anyang Agbor
+Commissioner for Human Resources, Science and Technology
+African Union Commission
+
+
+
+8
+
+introduction
+Background
+Following several decades of post-independence and post-liberation development on 
+the African continent, much progress has been made on a number of fronts in devel-
+oping societies; establishing stable governments, and instituting systems of higher 
+education and economic production, amongst others. 
+
+Development has been steady in many countries, resulting in a better standard of living 
+for their citizens. It is clear, however, that the colonial, post-colonial and other exploita-
+tive legacies have left deep imprints on developmental challenges, which in most 
+instances in more than half a century of self-determination, have hindered African 
+countries from achieving full development, including on the higher education front. This 
+has been exacerbated by instances of internal and regional conflicts, poor governance, 
+corruption, and injudicious use and management of available resources. In most cases, 
+the scale of challenges related to development have seemed overwhelming, and dispro-
+portionate to the amount of resources available to address them adequately and 
+sustainably. 
+
+The objective of higher education in Africa in the 21st Century is to increase access 
+and ensure quality education provision, ensuring that higher education is responsive 
+to Africa’s priorities and relevant to the labour market. This includes inculcating 
+entrepreneurial and innovative mind frames and African values in order to contribute 
+to social economic development, job creation and employability. Currently, however, 
+too many graduates do not meet the needs of employers. Higher education develop-
+ment should take place in the context of African continental, regional and national 
+needs, and be based on African epistemologies and content.  
+ 
+It is unquestionable that education plays a fundamental role in the development of 
+nations.  While much international focus on educational development over several 
+decades has been on basic education, it is now realised and accepted that investment 
+in higher education yields significant benefits for nations. Developing economies 
+require high level and skilled human capacity to identify and leverage opportunities 
+flowing from exploitation of natural and social resources and intellectual capital, 
+globalisation and macroeconomic changes. Equally, to take advantage of the devel-
+opments in technology and contribute to innovations, higher level research knowl-
+edge is critical, which mostly derives from higher education. From a developmental 
+
+
+
+9
+
+perspective, in order to build research and innovation ecosystems, promote and 
+preserve democratisation and leadership and strengthen collaborative cultures, 
+higher education needs to yield diverse and complex capabilities. 
+
+In order to liberate its full potential and work cooperatively in the continental inter-
+ests, and to realise its aspirations, Africa has to: (1) unleash its potential to become 
+self-reliant in its higher education provision, by for example, promoting leadership 
+and  good governance in higher education institutions; and (2) enhance investment 
+in higher education while assuring inclusion, greater equity and opportunity for all 
+to access higher education. However, adequate financial resources remain the core 
+challenge of higher education across the continent. Governments should do their 
+utmost to increase funds for the growing demands of African higher education. 
+Funding should be secured in the long-term in order to develop stable and resourced 
+higher education systems throughout the whole continent. 
+
+Strengthening local resourcing and leadership in multi-lateral partnerships where 
+joint or cooperative ventures focus more on local priorities and capacities will pro-
+mote relevance and quality assurance. The African Union drive for enhancing intra-
+African collaboration, academic, mobility, and pooling of resources and capacities 
+in higher education will help to enhance efficiencies and promote quality through 
+constructive peer pressure. Higher education institutions are vitally important vehi-
+cles to achieve these African social economic aspirations. In these developments, 
+students are the key stakeholders whose voice should be at the core of all 
+discussions. 
+
+The role of quality assurance is, therefore, crucial in supporting African higher edu-
+cation systems and institutions in responding to challenges related to legal frame-
+works, governance, funding, qualifications of teaching staff, and research capacity. 
+To address some of these challenges and ensure quality, there is need for collabora-
+tion and sharing of resources between institutions both locally and internationally. 
+There is also a need for greater international cooperation which enhances mobility 
+of both staff and students. Funding should be secured also for the development of a 
+comprehensive quality assurance environment in both higher education institutions 
+(HEI) and quality assurance agencies.
+
+
+
+10
+
+PurPose 
+The ASG-QA will support HEIs and quality assurance agencies (QAAs) in Africa in imple-
+menting good quality assurance (QA) practices by guiding them in the application of 
+standards and guidelines in higher education, helping them to develop adequate internal 
+QA mechanisms that fit international best practices and assisting them in assessing 
+their own quality through self-assessment. 
+
+The specific purpose of the ASG-QA is, therefore, to support HEIs and QAAs in 
+Member States in Africa to: (a) have a common framework and understanding of QA 
+systems  for teaching and learning among all stakeholders at continental, regional 
+and national level; (b) develop mutual trust, thus facilitating recognition and mobil-
+ity of students and human resources within and across national borders of the con-
+tinent; (c) ensure quality improvement/enhancement in higher education on the 
+continent through self-assessment, external peer review and continuous monitoring 
+and evaluation; (d) promote transparency and accountability by providing appropri-
+ate information on QA to the public; (e) support HEIs to develop a sustainable quality 
+culture; (f) promote international competitiveness of Africa’s higher education sys-
+tem; and (g) support the production of relevant teaching and learning resources as 
+well as student assessment instruments.
+
+As the ASG-QA and the African Quality Rating Mechanism (AQRM)1 are comple-
+mentary and mutually supportive; the ASG-QA will operate alongside the AQRM 
+and  will complement the AQRM in supporting African higher education institutions 
+to develop a sustainable quality culture.
+
+The ASG-QA are a set of standards and guidelines for internal and external QA in 
+higher education. These standards are not meant to be prescriptive but they rather 
+provide a mechanism for quality attainment in African HEIs and QAAs.  They are 
+developed to eventually add value to institutions and QAAs by providing a unified 
+framework applicable to all QA processes, allowing an enhancement-led approach 
+for the escalation of institutional and educational quality.  
+
+National QAAs should function as the national contacts for the ASG-QA. The ASG-
+QA can serve as the guiding framework in facilitating the establishment of QAAs in 
+countries where they do not yet exist. 
+
+aPProach used in Framing the standards and guidelines
+The ASG-QA are stated as common minimum standards or requirements that must 
+be complied with. However, individual HEIs and QAAs can add additional standards 
+that will reflect their own traditions and contexts. The guidelines describe how the 
+
+1  The African Quality Rating Mechanism (AQRM) has been developed as a tool to underpin an African system that 
+will ensure that the performance of higher education institutions can be compared against a set of common criteria 
+and to facilitate a culture of continuous quality improvement through self-evaluation exercises and external vali-
+dation. The AQRM is instrumental to help institutions assess themselves for continuous improvement by fostering 
+the development of internal quality assurance systems.
+
+
+
+11
+
+standards might be achieved and allow for the provision of evidence to support the 
+status of quality at HEIs and QAAs. They provide examples of good practice and the 
+list is not exhaustive.
+
+PrinciPles
+The ASG-QA are based on the following principles to ensure the success of quality 
+assurance in higher education in Africa: (a) quality and quality assurance are prima-
+rily the responsibility of HEIs; and (b) the autonomy, identity and integrity of HEIs 
+are acknowledged and respected. 
+
+HEIs and QAAs can adapt the standards and guidelines to fit their own systems and 
+contexts based on evidence that they produce. 
+
+scoPe
+The ASG-QA apply to all types of HEIs in Africa irrespective of the mode of study or 
+place of delivery, including transnational and cross-border delivery. The ASG-QA 
+address students through the whole cycle of their university life, thus referring always 
+to both undergraduate and postgraduate students, unless otherwise stated. Moreover, 
+when addressing the staff of HEIs, all staff, from academic, research, and administra-
+tive to technical/support staff are concerned, unless otherwise stated.  
+
+The ASG-QA should be applied in cognisance of existing qualifications frameworks 
+and credit transfer and accumulation systems operational in the continent, since 
+these also act as catalysts for the enhancement of transparency and mutual trust in 
+the provision of higher education. 
+
+The standards and guidelines are presented in three Parts: Part A focuses on the 
+internal quality assurance (IQA) of HEIs; Part B describes the standards and meth-
+odologies used for external quality assurance (EQA) of HEIs; and Part C focuses on 
+the internal quality assurance of QAAs. The quality provision of open and distance 
+learning (ODL) is incorporated into the IQA implemented by HEIs. 
+
+HEIs should develop their IQA systems according to Part A of the ASG-QA. The QAAs 
+should undertake their quality assurance activities (Part C) in accordance with the 
+standards and guidelines should articulated in Part B. QAAs should use the principles, 
+practices and methodologies for EQA (Part B) when conducting quality assurance 
+regardless of the approach (programme accreditation, institutional accreditation, 
+quality audits, reviews) at HEIs. QAAs should also acknowledge the IQA standards 
+and guidelines used by the institutions (Part A), and so ensure that the internal 
+practices of the HEIs are directly relevant to any EQA that they undergo. 
+
+Consequently, the three parts of the ASG-QA should be seen as a whole as they are 
+interlinked and, together, form the basis for an African QA framework. Figure 1 
+depicts the interlinkage of the three parts. 
+
+
+
+12
+
+Figure 1: interlinkage oF the three Parts oF the asg-Qa
+
+Internal 
+Used by HEIs:
+
+•  to assure their own quality
+•  when doing self-assessment  
+ for the purpose of quality  
+ enhancement
+
+Part A
+IQA
+
+Part B
+EQA
+
+Part C
+QAA ASG-QA
+
+Internal 
+Used by QAAs:
+•  to assure the quality of 
+    their own activities
+•  for self-assessment in
+    preparation of EQA
+
+External 
+Used by QAAs:
+•  when conducting audits or  
+ programme accreditation  
+ at HEIs
+
+IQA – Internal Quality Assurance
+EQA – External Quality Assurance
+QAA – Quality Assurance Agency
+
+
+
+13
+
+PArt A:  
+StAndArdS And 
+GuidelineS for internAl 
+QuAlity ASSurAnce
+introduction
+In line with the principle that HEIs have the primary responsibility for the quality 
+of their provision and assurance thereof, Part A presents standards and guidelines 
+for IQA at the level of the institutions, but also incorporates standards and guidelines 
+for ODL modes. The standards and guidelines cover areas that are considered essen-
+tial for the attainment of the provision of quality higher education, focusing mainly 
+on: institutional governance, policies and processes that promote quality higher 
+education; teaching and learning environment; research and innovation; collabora-
+tion and community engagement.  
+
+standard 1. Vision, mission and strategic oBjectiVes 
+
+Standard
+The institution shall have published vision and mission statements that reflect 
+its commitment to continuous quality enhancement; strategic objectives and 
+clear policies and procedures that are consistent with its vision and mission. 
+
+Guidelines
+The institutional vision, mission and strategic objectives:
+
+Are publicly disclosed; reflect the aspirations and needs of stakeholders, and a) 
+indicate strategic development plans and targets. 
+Concerning QA, are translated into clear policies and strategic plans, which b) 
+are operationalised into achievable goals.  
+
+The institution ensures that there is a robust and well-functioning QA system for its 
+entire activities (academic, research and community engagement), and that facilitates 
+the coordination of the approval of policies, procedures and mechanisms. The insti-
+tution, therefore, ensures that:
+
+The vision and mission statements and strategic objectives reflect commitment a) 
+to quality enhancement;
+
+
+
+14
+
+Various forms of planning (for example, strategic, institutional, academic, and b) 
+financial) are coordinated to ensure the quality of academic outcomes; 
+Medium- and long-term plans reflect the programmes being offered, as well as c) 
+its research focus to ensure sustainability and continuous improvement;
+The formulation of the plans is collegial, they promote a high degree of insti-d) 
+tutional integrity and responsiveness to change, and they are known to stake-
+holders; and
+There is continuous and periodic monitoring, evaluation and benchmarking of e) 
+processes, including self-assessment of academic programmes and institutional 
+self-assessment for purposes of continual improvement.
+
+standard 2. goVernance and management
+
+Standard
+The institution shall have clearly stated governance and management struc-
+tures. This will ensure sound and ethical governance and management, includ-
+ing robust QA practices that support the achievement of its mission and legal 
+mandate.
+
+Guidelines
+The institution: 
+
+Has qualified, competent and experienced leadership to oversee the develop-a) 
+ment and management of a quality culture within the institution;
+Has relevant governance and management bodies, such as the University Coun-b) 
+cil, Senate, Management Board, Student Body; and various committees, each 
+with a clear mandate, duties, responsibilities, powers, privileges and tenure; 
+and these bodies are properly coordinated to ensure efficiency, effectiveness 
+and quality;
+Has a QA policy and structure, which flow down through all levels;c) 
+Has clear communication systems and networks for the promotion of internal d) 
+and external information dissemination for public accountability;
+Makes responsible use of its autonomy; e) 
+Has policies and procedures for the delegation of authority, whenever f) 
+needed; 
+Enables students to participate in decision-making in relevant governance g) 
+bodies;
+Ensures regular consultations with stakeholders, reports and follows up actions h) 
+on key issues of policy and operations to promote quality, cohesion, harmony 
+and identity within the institution;
+Emphasises ethics, transparency, and academic integrity throughout its teach-i) 
+ing, learning and research activities;
+
+
+
+15
+
+Promotes a high degree of institutional integrity and responsiveness by advo-j) 
+cating and demonstrating honesty and non-discrimination in its treatment of 
+staff, students and members of the public and in the management of institu-
+tional affairs;
+Publishes and disseminates on a regular basis, impartial and objective qualita-k) 
+tive and quantitative information about courses offered, research undertaken 
+and community services;
+Has developed and implemented effective processes for deterring, detecting l) 
+and dealing with misconduct by students or staff;
+Has policies and activated procedures to manage conflict of interest; and m) 
+Has effective, systematic, timely and fair processes for the investigation of n) 
+complaints, grievances and appeals by students, staff and other 
+stakeholders.
+
+standard 3. human resources
+
+Standard
+The institution shall have policies on human resources that are inclusive, and 
+that ensure recruitment and retention of adequate numbers of qualified and 
+competent staff to achieve its mission and carry out its legal mandate.
+
+Guidelines
+The quality of staff is the key to the quality of the higher education institution and, 
+therefore, it: 
+
+Has clear policies and procedures that ensure equal opportunities and actual a) 
+gender equality in human resources for recruitment, retention, and promotion 
+of staff that is based on qualification, competence and skills;
+Has a core of full-time staff and keeps up-to-date records of staff numbers, b) 
+qualifications and employment turnover rates;
+Has clear policies and procedures for continuous staff development;c) 
+Has clear contractual agreements with staff that outline the conditions of d) 
+employment and are aligned with any legislative requirements of the country 
+of the institution;
+Provides adequate staff support facilities and services;e) 
+Undertakes periodic monitoring, evaluation, and appraisal of staff; andf) 
+Adheres to (local/regional) norms for student-faculty ratios that promote stu-g) 
+dent-centred learning.  
+
+
+
+16
+
+standard 4. Financial resource management 
+
+Standard
+The institution shall have adequate financial resources and prudent financial 
+management that are aligned to its mission, objectives and mandate to ensure 
+quality education.
+
+Guidelines
+Financial sustainability is the backbone of any institution, and adequate financial 
+resources and prudent financial management should be conducted within an approved 
+framework of institutional strategies, policies and procedures, which enable the 
+institution to meet its financial needs to ensure quality academic outcomes. The 
+institution has:
+
+Adequate financial resources to carry out its mandate and objectives effectively a) 
+and efficiently;
+A diversified financial and sustainable resource base, and ensures a balanced b) 
+allocation of resources to core functions of teaching and learning, research, 
+and community engagement;
+A prudent financial management system, which includes strategies, policies c) 
+and procedures for budgeting, resource allocation, repairs and maintenance of 
+infrastructure, asset management, debt management and financial 
+reporting;
+A system to address the risks, gaps and challenges identified for continuous d) 
+improvement; and
+Monitoring, evaluation (through financial audits) and benchmarking processes e) 
+for the financial management system using international best practices or some 
+other basis of accounting appropriate for the institution.
+
+standard 5. inFrastructure and Facilities 
+
+Standard
+The institution shall have adequate and appropriate infrastructure, facilities 
+and resources to support teaching, learning and research. 
+
+Guidelines
+For a good higher education experience, institutions provide a range of resources to 
+assist students’ learning. 
+
+Infrastructure and facilities are in line with the goals and aims of the higher educa-
+tion institution, the programmes on offer, the teaching and learning strategy, as well 
+as research. 
+The institution has:
+
+
+
+17
+
+Academic, administrative and recreational facilities (lecture theatres, seminar a) 
+rooms, staff offices, laboratories, studios, workshops, etc.) adequate for the 
+number of students and staff;
+A properly organised library equipped with facilities and resources (physical b) 
+and/or electronic); adequate for the number of students and staff;  
+Adequate Information and Communication Technology (ICT) infrastructure, c) 
+including affordable, high speed and dedicated connectivity. 
+Facilities that conform to appropriate national health and safety provisions; d) 
+and
+Facilities accessible for persons with disabilities. e) 
+
+In the case of E-learning, the institution ensures: 
+Sufficient infrastructure to address technical support in terms of:a) 
+
+Server space,i. 
+Redundancy or load balancing,ii. 
+Technical help desk,iii. 
+Reliable internet access, andiv. 
+Reliable technical services in terms of back-up and remote services; v. 
+and 
+Resources to develop the knowledge and skills of their ICT vi. 
+practitioners.
+
+That it has an ICT plan for purposes of:b) 
+Maintaining and upgrading of technologies; andi. 
+Ensuring reliability, privacy, safety and security.ii. 
+
+That there is consistency and coherency of the technical framework for students c) 
+and academic staff, which ensures that any change in technology is introduced 
+in a way that minimises its impact on students and academic staff. Therefore, 
+the institution has:
+
+A clear structure for communicating changes in software programmes, i. 
+hardware or technical system / procedure when a student or staff pro-
+ceeds from one course to another,
+A training programme / process for both staff and students when new ii. 
+software or a new system is adopted,
+Access to training by off-campus or virtual students, andiii. 
+Learning policy on new software when a student or tutor proceeds from iv. 
+one course to another.
+
+That hardware, software and technical support are an important element of d) 
+e-learning and, therefore, the institution has the following in place:
+
+A help desk that operates 24 hours and 7 days a week,i. 
+
+3)  Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG), 
+ (http://www.enqa.eu/wp-content/uploads/2013/06/ESG_3edition-2.pdf), p.25-26.
+
+http://www.enqa.eu/wp-content/uploads/2013/06/ESG_3edition-2.pdf
+
+
+18
+
+A system for monitoring and supporting a range of hardware / ii. 
+software,
+Clearly stated technical expectations,iii. 
+A system for Frequently Asked Questions (FAQs), which should be iv. 
+assessed and feedback given to students.
+
+standard 6. student recruitment, admission, certiFication 
+and suPPort serVices
+
+Standard
+The institution shall have pre-defined, published and consistently applied 
+policies and procedures that ensure fair and equitable recruitment and admis-
+sion, progression, certification and support services through all phases of the 
+student’s lifecycle, and in issues concerning students’ future employability.
+
+The institution shall have documented policies and strategies that promote 
+students’ welfare and guidance in curricular, vocational and personal areas.
+
+Guidelines
+Providing conditions and support that are necessary for students to make progress 
+in their academic career is in the best interests of the individual students, programmes 
+and institutions. It is vital to have fit-for-purpose admission, recognition and com-
+pletion procedures.
+
+Therefore, the institution has clear guidelines and strategies:
+For marketing/promoting the institution and its programmes, recruitment, a) 
+admission, selection and registration;
+That promote diversity in admission, including gender mainstreaming and b) 
+consideration of disadvantaged groups and persons with disabilities, where 
+applicable;
+That ensure that students admitted meet minimum general and programme-c) 
+specific entry requirements;
+That ensure monitoring, evaluation and benchmarking for improvement of d) 
+enrolment management; 
+That guarantee continual collection and compilation of data on students’ e) 
+admission, progress and performance, and graduation rates;  
+That promote student retention and progression, and address issues concerning f) 
+drop-out rates;
+That ensure rigorous processes for issuance and storage of certificates; andg) 
+That ensure storage of detailed records and transcripts, indicating the list of h) 
+courses, units and grades.
+
+
+
+19
+
+The needs of a diverse student population (such as mature, part-time, employed and 
+international students as well as students with disabilities) and the shift towards 
+student-centred learning and flexible modes of learning and teaching, are taken into 
+account when allocating, planning and providing learning resources and student 
+support.
+
+Support services may be organised in a variety of ways depending on the institutional 
+context. However, the internal quality assurance ensures that all resources are fit-
+for-purpose, accessible, and that students are informed about the services available 
+to them.
+
+Students need guidance, and appropriate provision is made to advise and assist them 
+in curricular, vocational and personal domains. Adequate provision is made for infor-
+mation and advice to potential students during the application and enrolment phases. 
+The institution has guidelines for the promotion of students’ learning by:
+
+Advising them on academic issues;a) 
+Advising them on financial matters;b) 
+Providing health and personal counselling services; and c) 
+Providing career guidance. d) 
+
+The institution supports and develops appropriate strategies for the creation and 
+functioning of cultural, artistic and sports facilities and associations.  
+
+standard 7. design, aPProVal, monitoring and eValuation oF 
+study Programmes 
+
+Standard
+The institution shall have policies and systems that ensure the design and 
+development, monitoring and evaluation of quality, relevant study programmes 
+that are learning outcomes-based and aligned with the needs of stakeholders; 
+and that contribute to the achievement of its mission, and are commensurate 
+with national, regional and international standards.
+
+In the case of ODL, the provider shall have in place mechanisms for pre-testing 
+or piloting the learning materials to ensure that they are at the learners’ level 
+and that the learners will be able to use them without difficulty. 
+
+
+
+20
+
+Guidelines
+The institution:
+
+Has policies, procedures and processes for introducing new programmes with a) 
+learning outcomes and that are competence-based, and for amending or phas-
+ing out standing programmes and programmes are subject to continuous moni-
+toring and evaluation (including periodic external review) and development to 
+ensure currency, quality and relevance; 
+Has academic programmes that are in line with its mission and objectives and b) 
+address the expectations and needs of stakeholders; therefore, the programmes 
+show range, depth, coherence, quality and relevance; are up to date and ade-
+quate in content and scope, promoting core content, ideas, values and the 
+acquisition of employability skills, such as work-related learning/attachment/
+internship/traineeship;
+Ensures that programme structures and credit hours/units are in accord with c) 
+international norms for the amount of study required for each qualification it 
+offers (or for the level of the qualifications awarded); and that programmes are 
+approved by the relevant national QAA and professional bodies, where 
+applicable; 
+Has effective mechanisms for stakeholder participation in curriculum design, d) 
+review and validation, including feedback from students, alumni and 
+employers; 
+Has policies requiring formulated learning outcomes to be defined and docu-e) 
+mented for all programmes and courses, and ensures that the programme 
+specifications are accessible to learners (or stakeholders);
+Has structures and procedures for the approval of programmes by relevant f) 
+bodies, such as the Senate, and authorities such as professional bodies, if 
+applicable;
+Has programmes that are delivered by adequate, qualified and competent staff g) 
+with pedagogical skills; 
+Has appropriate formal agreements for all programmes offered in partnership h) 
+with other institutions, specifying in detail the roles and responsibilities of 
+both partners, including teaching commitments and QA arrangements; and
+Ensures that the formulated learning outcomes are benchmarked against level i) 
+descriptors of national or regional Qualifications Frameworks, as applicable. 
+
+In the case of ODL, the pre-testing of learning materials is essential for ensuring 
+that the learners will be able to achieve the objectives or intended learning outcomes. 
+The broad requirement of pretesting should be made available, for example:
+
+
+
+21
+
+Students’ understanding of the objectives; a) 
+Language of presentation;b) 
+Explanation of concepts, ideas and theories;c) 
+Use of examples for illustration;d) 
+Activities and practice exercises given, and feedback provided;e) 
+Use of symbols or icons;f) 
+Navigational devices for online materials;g) 
+Motivate and sustain learners’ interests; andh) 
+Use didactic concepts in writing modules.i) 
+
+standard 8. teaching, learning and assessment
+
+Standard
+The institution shall put in place, in a way that is consistent with its vision 
+and mission, policies and procedures that promote learning and acquisition 
+of appropriate knowledge, competencies and skills; and assure fair and trans-
+parent assessment based on student-centred assessment. 
+
+The assessment principles, standards and procedures are explicit and made 
+available publicly to both students and staff.
+
+Guidelines
+Teaching and learning is one of the core activities of a higher education institution, 
+and it is important that the academic staff and facilitators ensure quality student 
+experience to enable the students to acquire appropriate knowledge, competences 
+and skills.
+
+The institution ensures that:
+The teaching, learning and assessment strategies are student-centred and flex-a) 
+ible; motivate students’ self-reflection and engagement in the learning 
+process;
+The environment and resources are appropriate and adequate to support each b) 
+student;
+There are systems in place for periodic monitoring, assessment and evaluation c) 
+of the teaching and learning approaches for quality improvement; and
+There are mechanisms for students to provide feedback on their learning d) 
+experience.
+
+
+
+22
+
+In the case of ODL: 
+e) The decision on the medium or media of delivery should take into account  
+
+ the following:
+Accessibility to the learners,i. 
+Cost of using it, both by the institution at installation and mainte-ii. 
+nance, as well as learner cost,
+Teaching strengths in relation to specific content, iii. 
+Its capacity in creating inter-activity, iv. 
+Organisational requirements for development,v. 
+Its novelty, andvi. 
+Speed within which it can be set up.vii. 
+
+f) There are face-to-face sessions to provide general orientation and  
+ introduction to the course materials at the commencement of the course;
+
+g) There are special face-to-face sessions for difficult aspects of the course 
+  during the programme/course; and 
+
+h) There are face-to-face sessions to provide some revision work to learners  
+ before examinations.
+
+Student assessment is one of the most important elements of higher education 
+because the outcomes of such assessment have a profound effect on students’ pro-
+gression and future careers. It is, therefore, important that assessment is carried out 
+professionally at all times. This implies that:
+
+The assessment and procedures are published and consistently applied, and a) 
+include:
+
+A range of assessment methods (e.g. coursework, projects, research, i. 
+dissertation and examinations to serve formative and summative 
+assessment purposes), 
+Internal and external moderation,ii. 
+Invigilation procedures,iii. 
+Monitoring of student progress,iv. 
+Validity and reliability of assessment practices,v. 
+Recording of assessment results and settling of disputes, andvi. 
+Rigour and security of assessment system;vii. 
+
+Assessment standards are spelled out for each programme and are competence- b) 
+or outcomes-based, where applicable;
+Assessment is carried out by competent and impartial examiners; c) 
+Integrity of examinations and award of degrees are ensured to guard against d) 
+examination malpractice; 
+There are regular objective feedback to students on their strengths and weak-e) 
+nesses, and appropriate counselling support for improvement;
+There is a disciplinary and appeals process for students who may feel aggrieved; f) 
+and
+There is a QA handbook, which is known to staff and students.  g) 
+
+
+
+23
+
+standard 9. research and innoVation 
+
+Standard
+The institution shall encourage, promote, and engage in innovative research 
+consistent with its policies and strategic plans, and address national, regional, 
+continental, and international needs. The institution shall encourage innova-
+tion in its teaching, learning and research.
+
+The institution shall ensure that the management of postgraduate studies is 
+conducted within an approved framework of institutional policies and plans 
+that ensure quality ethical research. 
+
+Guidelines
+Research is one of the core activities of a higher education institution, and the insti-
+tution therefore requires an institution-wide research policy that sets the direction 
+of its research. The policy is at both institutional and research-programme level 
+(postgraduate studies) to ensure proper engagement in research. The institution 
+ensures that:
+
+There is a shared understanding of the nature, role and goals of research;a) 
+There are standards, procedures and processes for the approval of research b) 
+proposals, and theses, and the conduct and supervision of research studies;
+There are policies, research management systems and strategies, adequate c) 
+infrastructure and resources that facilitate all staff to undertake innovative 
+research, and publish research results;
+There are standards and processes for the approval of research proposals and d) 
+theses, in line with the research needs of the national or regional context, and 
+capacity building possibilities for researchers, management of research part-
+nerships and research contracts, handling of intellectual property and com-
+mercialisation of research, and effective and trustworthy management of 
+research information;
+There is adequate academic integrity through the establishment and use of e) 
+appropriate research committees and boards to ensure academic integrity; 
+The research undertaken is relevant and responsive to the needs for academic f) 
+advancement and community development expectations; and
+There is effective monitoring and evaluation of the research system. g) 
+
+
+
+24
+
+standard 10. community engagement 
+
+Standard
+The institution shall encourage engagement in community outreach pro-
+grammes as part of its social responsibility.  
+
+Guidelines
+A higher education institution is not only responsible for teaching, learning and research, 
+but also for serving society. The institution ensures that community engagement activi-
+ties are conducted within institutional policies and strategies that facilitate collabora-
+tion between the institution and its larger communities (local, national, regional, 
+continental and global) for the mutually beneficial exchange of knowledge and resources 
+in a context of partnership and reciprocity. 
+
+For the benefit of the students, institution, and society, the institution incorporates 
+community engagement in its activities, with the objective of:
+
+Enriching scholarship, research, and creative activities; a) 
+Enhancing teaching and learning; b) 
+Facilitating preparation of educated and engaged citizens; c) 
+Strengthening democratic values and civic responsibility in students; d) 
+Addressing critical societal issues and contribute to public good. e) 
+
+The institution should ensure that there are mechanisms for partnering with other 
+stakeholders in the community for sustainable development. 
+
+standard 11. inFormation management system
+
+Standard
+The institution shall ensure that it collects, analyses, and makes use of relevant 
+information for the effective management of its programmes of study and other 
+activities.
+
+Guidelines
+Reliable data is crucial for informed decision-making and for understanding what is 
+working and what challenges need to be addressed. Effective processes for collecting 
+and analysing information about academic programmes and other activities of the 
+institution feed into the internal QA system.
+
+The information gathered will depend on the vision and mission of the institution. 
+However, the following points are important to address:
+
+Key performance indicators;a) 
+
+
+
+25
+
+Profile of student population (including gender);b) 
+Learning resources and available student services;c) 
+Student progression, drop-out rates, and graduation rates;d) 
+Satisfaction of students and alumni with programmes and teaching provided; e) 
+and
+Career paths for students.f) 
+
+It is important that both students and staff are involved in analysis and follow-up 
+activities to address the shortcomings.
+
+standard 12. PuBlic communication
+
+Standard
+The institution shall publish information about its activities, including pro-
+grammes, in a clear, accurate and objective manner; and ensure that the infor-
+mation is up-to-date and accessible.
+
+The institution shall ensure that promotion of its programmes is carried out 
+in a fair and ethical manner, following acceptable best practices, and comply 
+with all relevant legislation.
+
+Guidelines
+Information about the institution’s activities is useful for prospective and current 
+students, alumni and other stakeholders, and the public. The information includes 
+programmes offered, selection criteria, expected learning outcomes, qualifications 
+they award, teaching and learning procedures, graduation rates, learning opportuni-
+ties, and information about the employment of its graduates. The institution and 
+departments ensure that:  
+
+Promotional materials give a clear and accurate view of the programme, its a) 
+provision, objectives and outcomes, including:
+
+Identification of the programme,i. 
+The body awarding the qualification and its accreditation status;ii. 
+Mode of delivery,iii. 
+Level of the programme on the National Qualifications Framework iv. 
+(NQF), where applicable,
+Charges involved,v. 
+Terms and conditions relevant to the programme,vi. 
+Conditions for withdrawal from the programme, vii. 
+Financial agreements with the provider; andviii. 
+Rights, obligations and commitments expected of the student.ix. 
+
+
+
+26
+
+Students are fully informed of the issues that affect them with respect to the b) 
+management of the programme, such as:
+
+Language of communication,i. 
+Required access to technologies, in the case of ODL,ii. 
+Technical competencies of students required to enrol in the programme, iii. 
+in the case of ODL,
+Timeframe in which the programmes are offered and nature of learning iv. 
+outcomes,
+Required texts and access to reference materials,v. 
+Understanding of independent learning expectations,vi. 
+Schedule for face-to-face interactions, in the case of ODL,vii. 
+Schedule for examinations,viii. 
+Schedule for submission of assignments, and ix. 
+Collection of certificates.x. 
+
+standard 13. collaBoration, staFF and student moBility 
+
+Standard
+The institution shall have mechanisms that promote collaboration with other 
+HEIs, professional bodies, research institutions and relevant social actors at 
+national, regional, continental and international levels and to facilitate mobil-
+ity of students and staff.
+
+Guidelines
+The institution has policies that promote the mobility of academic staff, researchers 
+and students in the programme, internationally. The degree-awarding institution 
+ensures appropriate and high quality delivery of programmes at the partner institu-
+tion. The collaborating institutions:
+
+Ensure that programmes under collaboration are of the required standard and a) 
+rigour as those of the parent institution;
+Ensure that students benefit from the same standard of resources as those for b) 
+the regular students of the awarding institution;
+Take the responsibility to assure the quality of the educational provision under c) 
+collaboration;
+Ensure that the collaborating institutions are approved by the relevant QAA/d) 
+professional body and are subject to periodic quality audits; and
+Ensure that students are fully informed of the nature of the collaboration e) 
+between the institutions concerned.
+
+If the programme is offered via collaborative arrangements, the provider clearly 
+defines the rights and responsibilities of parties, legal ownership, accreditation status 
+of the programme, and resources available for the programme.
+
+
+
+27
+
+PArt b:  
+StAndArdS And 
+GuidelineS for externAl 
+QuAlity ASSurAnce
+introduction
+It is important that HEIs subject themselves to periodic external assessment for 
+purposes of accountability and quality enhancement of their provisions. Part B 
+describes the methodologies (or standards) used for external quality assurance (EQA) 
+of HEIs. This section takes into account the standards and guidelines in Part A (IQA) 
+for HEIs, ensures that IQA examined is relevant to and efficient for the concerned 
+higher education institution, and that there is consistency between internal quality 
+assurance undertaken by institutions themselves and external quality assurance. 
+This section covers objectives of EQA, designing mechanisms that are fit for purpose, 
+independence, decisions and reporting, periodic review, and complaints and 
+appeals. 
+
+standard 1. oBjectiVes oF external Quality assurance and 
+consideration For internal Quality assurance 
+
+Standard
+External quality assurance shall ensure that the higher education institution 
+has clearly articulated vision and mission statements, and it shall help the 
+institution ensure the effectiveness of its internal QA mechanisms, providing 
+an additional instrument for assessing institutional quality.
+
+Guidelines
+External quality assurance is based on the institution’s responsibility for the quality 
+of their academic programmes and other provisions and, therefore, it is important 
+that external quality assurance recognises and supports the institutional responsi-
+bility for its QA. EQA complements an effective IQA system and, therefore, assists 
+the higher education institution to:
+
+Appreciate the link between IQA and EQA;a) 
+Adhere to established QA principles, standards and guidelines in the higher b) 
+education sector;
+Develop and entrench an institutional quality culture by establishing mecha-c) 
+nisms for continuous quality improvement / enhancement; 
+
+
+
+28
+
+Provide a basis to benchmark inputs, processes and outputs with other HEIs d) 
+nationally, regionally and internationally;
+Determine the institution’s capacity to offer academic programmes;e) 
+Assess institutional compliance with legal and other requirements;f) 
+Provide independent evidentiary information to its stakeholders, the general g) 
+public and international community that it is offering quality higher education; 
+and
+Be recognised and accepted nationally, regionally, continentally and h) 
+internationally. 
+
+standard 2. designing external Quality assurance 
+mechanisms Fit For PurPose
+
+Standard
+Standards, guidelines and processes for external quality assurance shall be 
+designed to be fit for purpose, defined to achieve the intended aims and objec-
+tives of EQA, and to strengthen IQA systems at institutions.
+
+Guidelines
+It is necessary that standards, guidelines, and processes developed and implemented 
+by QAAs and the institutions are created in consultation with stakeholders in order 
+to address all academic activities of the higher education system and for acceptability. 
+The standards include:
+
+Standards and guidelines for periodic / cyclical programme accreditation / evalu-a) 
+ation / assessment / audit; and/or
+Standards and guidelines for periodic / cyclical institutional accreditation / evalu-b) 
+ation / assessment / audit.
+
+standard 3. imPlementation Processes oF external Quality 
+assurance
+
+Standard
+The standards, processes, and procedures for EQA shall be pre-defined, reliable, 
+published, and consistently implemented for purposes of accountability.
+
+Guidelines
+External quality assurance is carried out professionally, consistently and transpar-
+ently to ensure that it is acceptable to the higher education institution. EQA is carried 
+out on the basis of the self-assessment prepared by the institution. The processes for 
+EQA include the following activities:
+
+Self-assessment by the institution and production of the SAR/SER;a) 
+
+
+
+29
+
+External assessment of the institution through the SAR/SER, site visit to the b) 
+institution and interviews with stakeholders of the institution, and documen-
+tary evidence to support institutional claims;
+Oral report to the management of the institution before the review panel leaves c) 
+the institution;
+Preliminary report provided to the institution before the final report is d) 
+produced; 
+Final report of the external review; and e) 
+Follow-up activity to ensure that recommendations raised in the final report f) 
+are addressed.
+
+standard 4. indePendence oF eValuation
+
+Standard
+EQA shall be carried out by panels of external experts drawn from a wide range 
+of expertise and experience.
+
+Guidelines
+The principle of best practices of external quality assurance is based on the consistent 
+use of a wide range of expertise and experiences:
+
+Experts are drawn from academics, employers or professional practitioners, a) 
+and students; 
+
+To ensure professionalism, consistency and transparency of output of experts, b) 
+it is necessary that they:
+
+Are carefully selected, i. 
+Have appropriate skills and are competent to perform tasks assigned ii. 
+to them,
+Are adequately inducted into EQA principles and procedures before iii. 
+undertaking the external review, 
+Are independent in their judgements about the quality of the pro-iv. 
+gramme or institutions,
+Have no conflict of interest with the institution or programme they v. 
+are evaluating, and
+Sign a Declaration of Independence and No Conflict of Interest Formvi. 
+
+In the case of possible conflicts of interest, the institution is given the oppor-c) 
+tunity to object to any member of the proposed review panel; and
+Involvement of international experts is considered a good practice in EQA. d) 
+
+
+
+30
+
+standard 5. decision and rePorting oF external Quality 
+assurance outcomes
+
+Standard
+Reports and decisions made as a result of external quality assurance shall be 
+clear, based on published standards, processes and procedures, and made acces-
+sible, for purposes of accountability. 
+
+Guidelines
+The decisions of external quality assurance have a significant impact on institutions 
+and programmes that are evaluated, assessed or judged. It is critical that:
+
+External quality assessment decisions are published without undermining the a) 
+integrity of the review process; 
+
+The EQA reports are the basis for follow-up actions, hence they are clear, precise b) 
+and include:
+
+Purpose of the review,i. 
+Context description (of higher education institution),ii. 
+Description of procedures, including experts involved,iii. 
+Evidence, analysis and findings,iv. 
+Commendations/examples of good practice of the institution,v. 
+Conclusions,vi. 
+Recommendations for follow-up actions;vii. 
+
+The institution is given an opportunity to point out factual errors to ensure the c) 
+accuracy of the report; 
+The institution is the first to receive the EQA report in the interest of transparency d) 
+and fairness, prior to distribution to other parties;
+The decisions taken by the responsible body are not subject to external influences; e) 
+and
+The decisions are in a format that has been made known to the institution con-f) 
+cerned (for example, commendations, recommendations, and formal decisions).
+
+standard 6. Periodic reView oF institutions and Programmes
+
+Standard
+External quality assurance of institutions and programmes shall be undertaken 
+on a cyclical basis. 
+
+
+
+31
+
+Guidelines
+The length of the review cycle is clearly defined and published:
+
+For academic programmes, the review cycle is consistent with the duration of a) 
+the programme, or it reflects the defined validity of the accreditation period;
+Depending on the context of the QA system, for institutions, the cyclical insti-b) 
+tutional review is carried out preferably every five years; and 
+Every cyclical review results in a report of general findings of the review.c) 
+
+standard 7. comPlaints and aPPeals
+
+Standard
+The procedure for lodging complaints and appeals shall be clearly defined and 
+communicated to the institution concerned.
+
+Guidelines
+In order to safeguard the rights of the institution and ensure fairness in the decision-
+making process, it is important that the institution has access to the processes that 
+allow it to raise issues of concern with the agencies if it can demonstrate that the 
+outcome of the external review is not based on sound evidence. It is, therefore, criti-
+cal that: 
+
+There is an established appeals system; a) 
+The institution is allowed to raise issues of concern consistent with the appeals b) 
+system; 
+There is a procedure for addressing complaints raised by the general public; c) 
+There are clearly defined complaints and appeals processes and procedures, d) 
+which are consistently applied; and 
+Appeals and complaints are handled professionally, within an agreed period of e) 
+time.  
+
+ 
+
+
+
+32
+
+PArt c:  
+internAl QuAlity 
+ASSurAnce for QuAlity 
+ASSurAnce AGencieS
+introduction
+Part C of the ASG-QA is for the purpose of internal quality assurance of QAAs through 
+self-assessment of its policies, practices, procedures and activities and/or for external 
+assessment/evaluation by another body/peer organisation. This section covers poli-
+cies, processes and activities of the QAA, legal status, vision and mission, financial 
+and human resources, independence, and standards and processes used by the 
+QAA.
+
+standard 1. legal status
+
+Standard
+The QAA shall be an autonomous legal entity with clearly defined mandate, 
+scope and powers. It will be recognised as a quality assurance agency at a 
+national/regional level.
+
+Guidelines
+When external quality assurance is carried out for regulatory purposes, institutions 
+have the security that the outcomes of the process are accepted within the higher 
+education system, the stakeholders and the public. The QAA is established by a 
+competent authority
+
+The QAA’s legal mandate specifies, among others, its:
+Establishment by an appropriate legal instrument such as an Act or Statutes;a) 
+Functions and responsibilities, including the scope of quality assurance b) 
+activities; 
+
+
+
+33
+
+standard 2. Vision and mission statement  
+
+Standard
+The QAA shall have written and published vision and mission statements or 
+objectives taking the higher education context into account.
+
+Guidelines
+The vision, mission and objectives show that: 
+
+Quality assurance is a major activity of the agency;a) 
+There is a systematic approach to achieving the vision, mission and objectives b) 
+of the QAA;
+The objectives are implemented in line with a practical management plan that c) 
+is linked to the agency’s resources; and
+The custodianship and oversight of vision and mission are appropriate for the d) 
+mandate and objectives of the agency.
+
+standard 3. goVernance and management  
+
+Standard 
+The QAA shall have clearly defined structures that ensure sound and ethical 
+governance and management, including good practices of quality assurance 
+that support its mission and legal mandate.
+
+Guidelines
+The QAA: 
+
+Has qualified and experienced leadership to oversee the development and man-a) 
+agement of best practices in quality assurance in higher education;
+Has relevant governance bodies, such as the governing board and various com-b) 
+mittees, each with a clear mandate, powers, responsibilities and tenure; which 
+are well coordinated to ensure efficiency and effectiveness of its vision, mission 
+and strategic objectives;
+Has procedures for the appointment of the governing board and the Chief c) 
+Executive; 
+Has policies and procedures for financial and management decisions; d) 
+Has clear communication system of its activities for disseminating information e) 
+for public accountability; 
+Ensures regular consultation with stakeholders, and follow-up actions on key f) 
+issues of policy and operations;
+Promotes a high degree of institutional integrity and responsiveness in the g) 
+management of institutional affairs by advocating and demonstrating honesty 
+and non-discrimination in the treatment of its staff and members of the 
+public; 
+
+
+
+34
+
+Has effective processes for deterring, detecting and dealing with misconduct h) 
+by staff; and 
+Has effective, systematic, timely and fair processes for the investigation of i) 
+complaints, grievances and appeals by staff.
+
+standard 4. indePendence oF Qaa
+
+Standard
+The QAA shall be independent in its operations, outcomes, judgements and 
+decisions.
+
+Guidelines  
+The QAA makes independent decisions and judgements that are not subject to change 
+by third parties. Independence of an agency includes the following:
+
+Organisational independence a) demonstrated by official documentation, such 
+as legislative acts or statutes and instruments of governance that stipulate the 
+independence of the agency’s work from third parties (e.g. HEIs, governments, 
+other stakeholders);
+Operational independence: b) the definitions and operations of the agency’s pro-
+cedures and methods, nomination and appointment of qualified external 
+experts (including the provision of no objection); and
+Independence of formal outcomes: c) the final decision of quality assurance activi-
+ties remains the responsibility of the QAA. 
+
+Standard 5. PolicieS, ProceSSeS and activitieS 
+
+Standard
+The QAA shall undertake its quality assurance activities in accordance with 
+the standards and guidelines articulated in Part B of the ASG-QA. 
+
+Guidelines   
+It is important that HEIs trust QAAs; the agencies are transparent, and describe and 
+publish their objectives and activities, scope of work, expertise; and interaction with 
+HEIs and other stakeholders.  
+
+The external quality assurance standards and processes are appropriate for the core 
+activities of an institution or programme. These include:
+
+Teaching and learning, research and community work/engagement;a) 
+Resources such as finances, staff, and learning resources;b) 
+Specific areas such as levels of achievement, relative benchmarking and types c) 
+of measures, and general guidelines; and
+Specific learning outcomes.d) 
+
+
+
+35
+
+In order to carry out its core function of external quality assurance, the QAA conducts 
+institutional audits/accreditation and programme accreditation/reviews on a regular 
+basis, and provides in advance the framework to the concerned institution. To ensure 
+transparency, the QAA’s review/assessment processes include:
+
+Validation of the institution’s self-assessment against the agency’s standards a) 
+and processes;  
+Appointment of an external peer review panel comprising subject matter spe-b) 
+cialists and experts in higher education QA matters;
+Site visit by the review panel and interviews with various staff members and c) 
+stakeholders of the institution;
+Oral report before the review panel leaves the institution;d) 
+Preliminary report presented to the institution for factual corrections;e) 
+Final report of external review to the institution; andf) 
+Follow-up activity of recommendations raised in the final report.g) 
+
+standard 6. internal Quality assurance  
+
+Standard
+The QAA shall have in place policies and processes for its own internal quality 
+assurance related to defining, assuring and enhancing the quality and integrity 
+of its activities. 
+
+Guidelines     
+The QAA is accountable to its stakeholders and observes high professional standards 
+and integrity by adhering to its guiding and ethical principles, and makes available 
+internal quality assurance policies, standards, processes and procedures on its web-
+site. The QAA’s decisions are impartial, rigorous, thorough, fair and consistent, even 
+if the judgements are made by different panels. The policies, therefore, ensure:
+
+Objectivity and fairness in all its judgements, decisions and conclusions; a) 
+Standards and guidelines for external quality assurance for HEIs are of a general b) 
+nature, not prescriptive and do not interfere with institutions’ autonomy but 
+help to guarantee all stakeholders and the international community of overall 
+professionalism, visibility, transparency, credibility, integrity, and public 
+accountability in the higher education sub-sector;
+Contribution to established national, regional, continental and international c) 
+mechanisms for integrity, transparency and public accountability; and 
+Professionalism and public acceptance:d) 
+
+All persons involved in its activities are competent and act profession-i. 
+ally and ethically,
+Timely internal and external feedback mechanisms lead to continuous ii. 
+improvement within the agency,
+Guards against intolerance of any kind or discrimination,iii. 
+
+
+
+36
+
+Outlines the appropriate communication with relevant authorities in iv. 
+those jurisdictions in which they operate, and
+Any activity carried out and materials produced by consultants are in v. 
+line with its standards and guidelines and those of the ASG-QA.
+
+The QAA ensures that standards and processes used for external quality assurance 
+are pre-determined, pre-defined, published and made available to institutions ahead 
+of external quality assurance procedures. The QAA ensures that:
+
+The standards and processes used to ensure quality and relevance of HEIs, such a) 
+as institutional or programme self-assessment and quality assurance proce-
+dures, have appropriate follow-up mechanisms for recommendations and 
+actions for further improvement.
+There is thematic analysis (production of a summary of reports), carried out b) 
+from time to time, which describes and analyses the general trends in the find-
+ings of external reviews, assessments as well as evaluations of institutions and 
+their programmes for possible policy direction. 
+
+standard 7. Financial and human resources
+
+Standard
+The QAA shall have adequate and appropriate human, financial and material 
+resources to carry out its QA mandate effectively and efficiently.
+
+Guidelines 
+The QAA is adequately funded to realise its vision, mission and objectives to:
+
+Ensure it has adequate facilities commensurate with its QA activities;a) 
+Recruit adequate and qualified human resourcesb) , to carry out its QA activities; 
+cognisant of gender, disadvantaged groups and persons with disabilities; 
+Carry out its external QA mandate professionally, effectively and efficiently;c) 
+Ensure improvement of its practices and development; andd) 
+Inform the public about its activities and results/outcomes.e) 
+
+standard 8. Benchmarking, networking and collaBoration
+
+Standard
+The QAA shall promote and participate in international initiatives, workshops 
+and conferences, and collaborate with relevant bodies on QA to exchange and 
+share experiences and best practices.
+
+
+
+37
+
+Guidelines     
+It is important that the QAA remains relevant in its activities. The QAA:
+
+Collaborates with all relevant bodies, such as professional bodies, for QA and a) 
+accreditation;
+Shares accurate, reliable and easily accessible information about standards for b) 
+registration/licensing and QA of all modes of education delivery;
+Contributes to the development and/or updating of the appropriate regional, c) 
+continental and other international conventions on the recognition of courses 
+and qualifications, and serves as national or regional information centres as 
+appropriate;
+Participates in bilateral or multilateral agreements for facilitating the recogni-d) 
+tion or determination of equivalences of each country’s qualifications based 
+on the procedures and standards included in established international agree-
+ments for recognition of courses and qualifications; and 
+ Contributes to regional, continental and international efforts to improve the e) 
+accessibility of up-to-date, accurate and comprehensive information about 
+recognised HEIs or providers. 
+
+standard 9. Periodic reView oF Qaas
+
+Standard
+The QAA shall undergo periodic internal and external reviews for continuous 
+improvement.
+
+Guidelines   
+The QAA has a system for continuous QA of its own practices and activities that 
+emphasises flexibility in response to the changing nature of higher education, effec-
+tiveness of its operations, and its contribution towards the achievement of its objec-
+tives. The QAA, therefore:
+
+Conducts a comprehensive internal self-assessment of its processes, practices a) 
+and activities periodically, including data analysis; 
+Subjects itself to periodic external review on the basis of self-assessment by b) 
+regional, continental or international QA bodies; and
+Ensures that required recommendations are disclosed and implemented for c) 
+improvement; and
+Depending on the context of the QA system, for QAAs, the cyclical review is d) 
+carried out preferably every five years. 
+
+
+
+38
+
+Annex 1 – DrAftinG 
+ProceSS of the ASG-QA
+HAQAA Initiative: 
+The ASG-QA was developed in the framework of the Harmonisation of African Higher 
+Education Quality Assurance and Accreditation (HAQAA) Initiative. The Initiative 
+was a service contract between December 2015 and November 2018 to support the 
+development of a harmonised quality assurance and accreditation system at insti-
+tutional, national, regional and pan-African continental levels, and funded by the 
+European Union “Harmonisation, Quality and Accreditation” initiative (EC 
+EAC/37/2014).
+
+Technical Working Group: 
+The Technical Working Group (TWG) consisted of experts in the quality assurance 
+of higher education from different regions: Western, Eastern, Southern, Northern 
+and Central Africa. The group included one expert from the European Higher Educa-
+tion Area (EHEA) and the work of the group was coordinated by the European Asso-
+ciation for Quality Assurance in Higher Education (ENQA) and the Association of 
+African Universities (AAU). 
+
+Drafting process: 
+The draft ASG-QA were based on the existing standards and guidelines of higher 
+education already in use in African countries and by regional quality assurance 
+networks or associations such as the Inter University Council of East Africa (IUCEA), 
+Southern African Development Community (SADC), Association of Arab Universities 
+(AARU), Southern African Regional University Association (SARUA) and Conseil 
+Africain et Malagache pour l'Enseignement Supérieur (CAMES). Additionally, the 
+ASG-QA were benchmarked with the Standards and Guidelines for Quality Assurance 
+in the European Higher Education Area (ESG 2015) and other international standards 
+and guidelines. The TWG worked on the draft in several face-to-face meetings and 
+a great deal of drafting was carried out by the Chair and individual group members 
+in between meetings. 
+
+
+
+39
+
+Consultation: 
+Mainly through the dissemination channels of the AAU, a consultation survey on 
+the draft ASG-QA was disseminated to all major stakeholders: HEIs, QAAs and min-
+istries and governing bodies of higher education in Africa, for their input and com-
+ments. Feedback was also received from AAU and the African Union Commission 
+(AUC). The draft and the survey was available in English, French, Arabic and Portu-
+guese. All feedback was considered comprehensively, language by language. 
+
+Alongside the consultation process, to raise awareness, the draft was presented at 
+several international conferences such as the International Conference on Quality 
+Assurance in Higher Education in Africa (ICQAHEA) conferences in 2016 and 2017 
+and the AAU 50th Anniversary conference in June 2017. The draft was also discussed 
+and feedback gathered at the Training Course module of the HAQAA Initiative that 
+brought together quality assurance experts from across the continent. Furthermore, 
+the Advisory Board of the HAQAA Initiative, involving representatives from different 
+regions of the continent, provided its support and feedback throughout the 
+process. 
+
+
+
+40
+
+Annex 2 - Key termS 
+Accreditation: A process for verifying or approving a higher education institution 
+or quality assurance agency by an authorised external organisation, normally valid 
+for a limited period of time. 
+
+African Standards and Guidelines for Quality Assurance in Higher Education 
+(ASG-QA): The expectations developed within the framework of the HAQAA Initia-
+tive for quality assurance in higher education across Africa. 
+
+Agency: (National) quality assurance agency for higher education. 
+
+Expert: See ‘external reviewer’.
+
+External quality assurance: Systematic monitoring and evaluation of the opera-
+tions of a quality assurance agency of higher education, and the processes that sup-
+port them, to make sure that the standards set out in the ASG-QA are met. 
+
+External review: A thorough evaluation conducted at a quality assurance agency of 
+higher education by a qualified team of people that are not employed at the 
+agency.   
+
+External review report:   The main output of the review of a higher education insti-
+tution or an agency in form of a document reporting in detail on the review, prepared 
+by the Review Panel. 
+
+Higher education institution (HEI):   University, college or other organisation that 
+delivers higher education. 
+
+External reviewer: An individual contracted to the team that reviews the higher 
+education institution or agency under review. He/she should have some experience 
+in the higher education sector/quality assurance. 
+
+Guideline: Guidelines describe how standards linked to them may be achieved.
+Internal quality assurance: A system and standardised procedures at a higher educa-
+tion institution or a quality assurance agency securing fit-for-purpose and quality 
+outputs of processes. 
+
+
+
+41
+
+Quality assurance: A general term for procedures in internal or external quality 
+assurance procedures including accreditation, evaluation, audit both on programme 
+and institutional levels and also concerning quality assurance agencies. 
+
+Review Panel: A group of individuals contracted to carry out an external review.  
+
+Self-assessment (report) (SAR): An analytical report prepared by a higher education 
+institution or an agency under review, assessing its own performance, to be used as 
+main piece of evidence for the Review Panel.  
+
+Site-visit: Normally a two to four day visit of the Review Panel to the premises of a 
+higher education institution or quality assurance agency under review to gather 
+further information about the operations of the institution or agency, and to cross-
+check existing information. The main part of the visit consists of interviews of the 
+groups of all important individuals and stakeholders (i.e. agency leadership and staff, 
+external reviewers of the agency, representatives of higher education institutions, 
+government representatives).
+
+Standard: Refers to the specification of aspects, elements or principles to which an 
+institution, programme, higher education institution or quality assurance agency 
+should conform or by which quality is judged. 
+
+
+
+42
+
+Annex 3 - GloSSAry 
+AARU - Association of Arab Universities
+AAU – Association of African Universities
+ASG-QA – African Standards and Guidelines for Quality Assurance in Higher 
+Education
+AU – African Union
+AUC - African Union Commission 
+CAMES - Conseil Africain et Malagache pour l'Enseignement Supérieur
+CESA - The Continental Education Strategy for Africa
+ESG - Standards and Guidelines for Quality Assurance in the European Higher 
+ Education Area
+EU – European Union 
+EQA – External quality assurance 
+FAQs – Frequently asked questions
+HAQAA Initiative - The Harmonisation of African Higher Education Quality  Assurance 
+and Accreditation Initiative
+HEIs – Higher education institutions
+ICQAHEA - International Conference on Quality Assurance in Higher Education in 
+Africa
+ICT - Information and communication technology
+IQA – Internal quality assurance
+IUCEA - The Inter University Council of East Africa 
+NQF - National Qualifications Framework
+ODL - Open and distance learning 
+PAQAF - Pan-African Quality Assurance and Accreditation Framework
+QA – Quality Assurance
+QAA – Quality assurance agency 
+SAR – Self-assessment report
+SADC - Southern African Development Community
+SARUA – Southern African Regional University Association
+TWG – Technical Working Group
+
+
+
+43
+
+
+
+This initiative is implemented on behalf of the European and African Union Commissions by:
+
+
+	African Standards and Guidelines for Quality Assurance in Higher Education (ASG-QA)
+	Foreword
+	introduction
+	Background
+	Purpose 
+	Approach Used in Framing the Standards and Guidelines
+	Scope
+
+	Part A:	Standards and Guidelines for Internal Quality Assurance
+	Introduction
+	Standard 1. Vision, Mission and Strategic Objectives 
+	Standard 2. Governance and Management
+	Standard 3. Human Resources
+	Standard 4. Financial Resource Management 
+	Standard 5. Infrastructure and Facilities 
+	Standard 6. Student Recruitment, Admission, Certification and Support Services
+	Standard 7. Design, Approval, Monitoring and Evaluation of Study Programmes 
+	Standard 8. Teaching, Learning and Assessment
+	Standard 9. Research and Innovation 
+	Standard 10. Community Engagement 
+	Standard 11. Information Management System
+	Standard 12. Public Communication
+	Standard 13. Collaboration, Staff and Student Mobility 
+
+	Part B: Standards and Guidelines for External Quality Assurance
+	Introduction
+	Standard 1. Objectives of External Quality Assurance and Consideration for Internal Quality Assurance 
+	Standard 2. Designing External Quality Assurance Mechanisms Fit for Purpose
+	Standard 3. Implementation Processes of External Quality Assurance
+	Standard 4. Independence of Evaluation
+	Standard 5. Decision and Reporting of External Quality Assurance Outcomes
+	Standard 6. Periodic Review of Institutions and Programmes
+	Standard 7. Complaints and Appeals
+
+	Part C: Internal Quality Assurance for Quality Assurance Agencies
+	Introduction
+	Standard 1. Legal Status
+	Standard 2. Vision and Mission Statement  
+	Standard 3. Governance and Management  
+	Standard 4. Independence of QAA
+	Standard 5. Policies, Processes and Activities 
+	Standard 6. Internal Quality Assurance  
+	Standard 7. Financial and Human Resources
+	Standard 8. Benchmarking, Networking and Collaboration
+	Standard 9. Periodic Review of QAAs
+
+	Annex 1 – Drafting Process of the ASG-QA
+	Annex 2 - Key terms 
+	Annex 3 - Glossary 
+
